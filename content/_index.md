@@ -14,9 +14,7 @@ blocks:
   - type: paragraph
     surtitle: Présentation générale
     title: Le monde de la gestion d’actifs est à un point d’inflexion. Difficile
-      aujourd’hui de fermer les yeux sur l’essor de la gestion passive. Il n’est
-      pas rare de lire, dans l’une ou l’autre revue économique et financière, un
-      article anticipant la disparition prochaine de la gestion active…
+      aujourd’hui de fermer les yeux sur <span>l’essor de la gestion passive</span>. Il n’est pas rare de lire, dans l’une ou l’autre revue économique et financière, un article anticipant <span>la disparition prochaine de la gestion active…</span>
     text: >-
       Pourtant, un certain nombre d’études académiques sont venues démontrer
       qu’il existait bien un alpha fondamental. Plutôt que d’opposer gestion
@@ -34,8 +32,7 @@ blocks:
   - type: selected-persons
     section: persons
     surtitle: Notre équipe
-    title: La stratégie Venn Smart Alpha est fondamentale dans sa philosophie mais
-      quantitative dans sa mise en œuvre.
+    title: La stratégie Venn Smart Alpha est fondamentale dans sa philosophie mais quantitative dans sa mise en œuvre.
     items:
       - dimitri-boismare
       - pierrick-corbel
