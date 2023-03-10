@@ -1,9 +1,10 @@
 header[role="banner"]
     background-color: $header-background-color
     color: $header-color
-    position: sticky
+    position: fixed
     top: 0
     transition: top .3s ease
+    width: 100%
     z-index: $zindex-sticky
 
     html:not(.is-menu-open).is-scrolling-down &
