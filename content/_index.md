@@ -47,7 +47,19 @@ blocks:
     column: 4
     items:
       - title: Alpha des plus fortes convictions de gérants fondamentaux
+        image:
+          src: /images/uploads/icon-alpha.svg
+          isLogo: true
       - title: Diversification en termes de style de gestion
+        image:
+          src: /images/uploads/icon-diversification.svg
+          isLogo: true
       - title: Notre cerveau agit sur nos choix. Lissage des biais cognitifs
+        image:
+          src: /images/uploads/icon-brain.svg
+          isLogo: true
       - title: Transparence totale avec la publication des inventaires complets
+        image:
+          src: /images/uploads/icon-transparency.svg
+          isLogo: true
 ---

@@ -1,0 +1,48 @@
+header[role="banner"]
+    background-color: $header-background-color
+    color: $header-color
+    position: sticky
+    top: 0
+    transition: top .3s ease
+    z-index: $zindex-sticky
+
+    html:not(.is-menu-open).is-scrolling-down &
+        &:not(:hover)
+            top: -$header-height
+    &.is-sticky
+        position: sticky
+
+    > nav
+        @extend .navbar
+    .btn-menu
+        @extend .navbar-toggler
+        border: 0
+        @include media-breakpoint-down(md)
+            margin-right: - $navbar-toggler-padding-x
+        > span
+            --bs-navbar-toggler-icon-bg: #{escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$header-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>"))}
+            @extend .navbar-toggler-icon
+    .logo
+        color: $header-color
+    .nav-link
+        --bs-nav-link-color: #{$header-color}
+    .nav-primary
+        flex-direction: column
+        li
+            font-size: px2rem(20)
+        ul li
+            font-size: px2rem(16)
+
+    .offcanvas
+        --bs-offcanvas-bg: #{$header-background-color}
+        @extend .offcanvas-end
+        .header
+            @extend .offcanvas-header
+            .title
+                @extend .offcanvas-title
+            button
+                @extend .btn-close
+                background-image: escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$header-color}'><path d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/></svg>"))
+
+        .content
+            @extend .offcanvas-body

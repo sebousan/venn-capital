@@ -1,7 +1,7 @@
 ---
 isIndex: true
 title: Notre équipe
-url: equipe
+url: notre-equipe
 hero:
   surtitle: venn collective <span>alpha</span>
   title: Notre équipe
