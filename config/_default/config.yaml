@@ -1,0 +1,15 @@
+## LANGUAGE
+defaultContentLanguage: en
+languageCode: en
+
+## ADVANCED
+build:
+  writeStats: true
+enableRobotsTXT: true
+imaging:
+  quality: 75
+markup:
+  tableOfContents:
+    ordered: true
+paginate: 6
+removePathAccents: true
