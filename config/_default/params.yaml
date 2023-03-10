@@ -1,1 +1,5 @@
 _merge: deep
+hero:
+  _merge: deep
+  cover: "x600"
+  cover_mobile: "x400"

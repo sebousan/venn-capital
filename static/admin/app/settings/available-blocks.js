@@ -1,0 +1,20 @@
+export const availableBlocks = [
+    'alert',
+    'cta',
+    'informations',
+    'pushes',
+    'datas',
+    'map',
+    'quote',
+    'latest',
+    'editorial',
+    'embed',
+    'faq',
+    'figure',
+    'chart',
+    'paragraph',
+    'selectedposts',
+    'selectedpersons',
+    'selectedpublications',
+    'title'
+];
