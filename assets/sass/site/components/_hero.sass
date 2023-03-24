@@ -1,11 +1,14 @@
 .hero
     overflow: hidden
+    .container
+        @include rfs(calc(#{$global-spacing} + #{$header-height}), padding-top)
     .surtitle
         margin-bottom: 2rem
     h1
         color: $header-color
     .surtitle,
     h1
+        margin-bottom: 0
         span
             color: $secondary
     &-content
