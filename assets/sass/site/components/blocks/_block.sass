@@ -1,0 +1,18 @@
+[class*="block-"]
+    @include rfs($global-spacing, padding-bottom)
+    @include rfs($global-spacing, padding-top)
+    @include media-breakpoint-up(lg)
+        .heading
+            align-items: flex-start
+            margin-left: 0
+            max-width: 100%
+            text-align: left
+            .surtitle
+                margin-bottom: $global-spacing
+            h2
+                padding-left: 8.33333333%
+                padding-right: calc(8.33333333% * 3)
+    @include media-breakpoint-up(lg)
+        .heading
+            .surtitle
+                margin-bottom: px2rem(90)

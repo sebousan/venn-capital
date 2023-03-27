@@ -1,5 +1,6 @@
 .home-page
     .hero
-        height: calc(#{$hero-min-height} * 1.3)
-        @include media-breakpoint-up(xxl)
-            height: 1080px
+        .container
+            min-height: calc(#{$hero-min-height} * 1.3)
+            @include media-breakpoint-up(xxl)
+                min-height: 1080px

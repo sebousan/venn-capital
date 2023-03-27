@@ -11,28 +11,43 @@ header[role="banner"]
         &:not(:hover)
             top: -$header-height
     &.is-sticky
-        position: sticky
+        position: fixed
 
     > nav
         @extend .navbar
+        @include media-breakpoint-up(xxl)
+            padding-bottom: px2rem(29)
+            padding-top: px2rem(39)
     .btn-menu
         @extend .navbar-toggler
         border: 0
         @include media-breakpoint-down(md)
             margin-right: - $navbar-toggler-padding-x
         > span
-            --bs-navbar-toggler-icon-bg: #{escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='#{$header-color}' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>"))}
+            --bs-navbar-toggler-icon-bg: #{escape-svg($navbar-toggler-icon-bg)}
             @extend .navbar-toggler-icon
+            background-size: 23px auto
     .logo
         color: $header-color
-    .nav-link
-        --bs-nav-link-color: #{$header-color}
-    .nav-primary
-        flex-direction: column
-        li
-            font-size: px2rem(20)
-        ul li
-            font-size: px2rem(16)
+    .nav
+        &-link
+            --bs-nav-link-color: #{$header-color}
+        &-primary
+            flex-direction: column
+            li
+                font-size: px2rem(20)
+            ul li
+                font-size: px2rem(16)
+        &-secondary
+            --bs-nav-link-font-size: #{px2rem(10)}
+            --bs-nav-link-font-weight: #{$font-weight-bold}
+            a
+                color: $secondary
+                letter-spacing: .3em
+                padding: 0
+                text-transform: uppercase
+                text-decoration-line: underline
+                text-underline-offset: 10px
 
     .offcanvas
         --bs-offcanvas-bg: #{$header-background-color}

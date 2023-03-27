@@ -4,29 +4,36 @@ title: Accueil
 description: à la croisée des mondes entre gestion active et gestion passive
 hero:
   surtitle: venn collective <span>alpha</span>
-  title: L'intelligence collective au service de <span>l'investissement.</span>
+  title: L'intelligence collective au service de <span>l’investissement.</span>
   image:
     src: /images/uploads/home-hero.png
     background_image: true
   align: start
 blocks:
   - type: paragraph
-    title: Le monde de la gestion d’actifs est à un point d’inflexion. Difficile
-      aujourd’hui de fermer les yeux sur <span>l’essor de la gestion passive</span>. Il n’est pas rare de lire, dans l’une ou l’autre revue économique et financière, un article anticipant <span>la disparition prochaine de la gestion active…</span>
+    title: Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>. Difficile aujourd’hui de fermer les yeux sur <span>l’essor de la gestion passive</span>. Certains vont même jusqu'à imaginer la disparition prochaine de la <span>gestion active…</span>
     text: >-
-      Pourtant, un certain nombre d’études académiques sont venues démontrer
-      qu’il existait bien un alpha fondamental. Plutôt que d’opposer gestion
-      active et gestion passive, la question se pose donc de savoir comment
-      extraire cet alpha fondamental ? 
-
-
-      Chez Venn, nous développons des stratégies actions de conviction construites à partir d’un processus systématique. Pour cela nous exploitons les données publiques de portefeuilles de gérants fondamentaux tels des signaux. Grâce au concept d’intelligence collective, la stratégie Venn Smart Alpha apporte une réponse au dilemme gestion active/gestion passive en se positionnant à la croisée de ces mondes. Unique en Europe, cette approche permet de capitaliser sur le ‘bon sens’ de la gestion active, tout en gommant ses biais intrinsèques. Elle peut être accessible de façon transparente, liquide et à des tarifs plus compétitifs
+      Pourtant, un certain nombre d’études académiques sont venues démontrer qu’il existait bien un alpha fondamental. Plutôt que d’opposer gestion active et gestion passive, la question se pose alors de savoir comment extraire cet alpha fondamental ? 
+      
+      
+      Chez Venn, nous développons des stratégies actions de conviction construites à partir d’un processus systématique. Pour cela nous exploitons les données publiques de portefeuilles de gérants fondamentaux tels des signaux. Grâce au concept d’intelligence collective, la stratégie Collective Alpha apporte une réponse au dilemme gestion active/gestion passive en se positionnant à la croisée de ces mondes. Unique en Europe, cette approche permet de capitaliser sur le ‘bon sens’ de la gestion active, tout en gommant ses biais intrinsèques. Elle peut être accessible de façon transparente, liquide et à des tarifs plus compétitifs.
     grid: medium
     offset: start
     align: start
     cta:
       text: En savoir plus
       url: /phylosiphie
+  - type: pushes
+    surtitle: Nos objectifs
+    title: Délivrer une <span>surperformance pérenne</span> via une stratégie fondamentale dans sa philosophie et disciplinée dans <span>sa mécanique.</span>
+    columns: 3
+    items:
+      - title: Neutraliser les biais grâce à l’intelligence collective.
+        text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H. Blanchard</cite>
+      - title: Appliquer une méthode systématique.
+        text: <quote>« A machine beats a man, but a man plus a machine beats a machine »</quote> <cite>Gary Kasparov</cite>
+      - title: Aligner les intérêts.
+        text: <quote>« Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it »</quote> <cite>Albert Einstein</cite>
   - type: selected-persons
     section: persons
     surtitle: Notre équipe
@@ -41,19 +48,19 @@ blocks:
   - type: informations
     column: 4
     items:
-      - title: Alpha des plus fortes convictions de gérants fondamentaux
+      - title: Alpha des plus <strong>fortes convictions</strong> de gérants fondamentaux
         image:
           src: /images/uploads/icon-alpha.svg
           isLogo: true
-      - title: Diversification en termes de style de gestion
+      - title: Diversification en termes de <strong>style de gestion</strong>
         image:
           src: /images/uploads/icon-diversification.svg
           isLogo: true
-      - title: Notre cerveau agit sur nos choix. Lissage des biais cognitifs
+      - title: Notre cerveau agit sur nos choix. Lissage des <strong>biais cognitifs</strong>
         image:
           src: /images/uploads/icon-brain.svg
           isLogo: true
-      - title: Transparence totale avec la publication des inventaires complets
+      - title: Transparence totale avec la <strong>publication des inventaires complets</strong>
         image:
           src: /images/uploads/icon-transparency.svg
           isLogo: true

@@ -1,20 +1,35 @@
 .hero
-    overflow: hidden
     .container
         @include rfs(calc(#{$global-spacing} + #{$header-height}), padding-top)
+    picture
+        transform: none
+        transition-property: opacity
     .surtitle
-        margin-bottom: 2rem
+        margin-bottom: px2rem(40)
+        @include media-breakpoint-up(xxl)
+            margin-bottom: px2rem(60)
     h1
         color: $header-color
+        margin-bottom: 0
     .surtitle,
     h1
-        margin-bottom: 0
         span
             color: $secondary
     &-content
-        @extend .col-xl-10
+        @extend .col-xl-9
     &-cover
         img
             display: block
             margin-left: auto
             width: auto
+    .container 
+        a.btn-down
+            @extend .btn-secondary
+            bottom: 0
+            left: 50%
+            position: absolute
+            transform: translate(-50%, 50%)
+            z-index: 1
+            @if variable-exists(bootstrap-icons-map)
+                &::before
+                    @include icon("arrow-down")
