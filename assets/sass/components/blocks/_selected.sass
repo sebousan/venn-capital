@@ -1,4 +1,44 @@
 .block-selected
+    .heading + div:not(.content)
+        @include scroll-snap
+        justify-content: center
+    .bottom
+        @include rfs($global-spacing, margin-top)
+    .more
+        @extend .btn
+        @extend .btn-secondary
+        @if variable-exists(bootstrap-icons-map)
+            &:hover
+                &::before
+                    transform: translateX(.3rem)
+            &::before
+                @include icon("arrow-right-short")
+                font-size: 1.4rem
+                margin-right: .5rem
+                transition: transform $transition-duration $transition-effect
+                vertical-align: -0.35rem
     .persons
         @extend .row
         @extend .row-cols-md-3
+        @include scroll-snap
+
+    &-persons
+        .container
+            display: grid
+            grid-template-columns: 100%
+            @include media-breakpoint-up(md)
+                grid-column-gap: $grid-gutter-width
+                grid-template-columns: repeat(3, 1fr)
+        .heading
+            grid-row: 1
+        .surtitle:last-child
+            margin-bottom: 0 !important
+        .content
+            grid-column: 3/4
+            margin-bottom: 0
+        .content,
+        .persons
+            grid-row: 2
+        .content + .persons
+            @extend .row-cols-md-2
+            grid-column: 1/3
