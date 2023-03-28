@@ -44,6 +44,7 @@ blocks:
   - type: latest
     section: posts
     count: 2
+    show_more: false
     background: true
   - type: informations
     column: 4

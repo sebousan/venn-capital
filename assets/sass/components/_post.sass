@@ -1,0 +1,62 @@
+.post
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-spacer-x: 2rem
+    @extend .card
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1)
+    display: grid
+    grid-template-columns: 100%
+    @include media-breakpoint-up(md)
+        grid-column-gap: $grid-gutter-width
+        grid-template-columns: repeat(5, 1fr)
+    .media
+        --bs-aspect-ratio: 100%
+        grid-column: 1/3
+        grid-row: 1/4
+    .content,
+    .metas
+        display: flex
+        flex-direction: column
+        grid-column: 3/6
+        justify-content: center
+    .metas
+        color: $primary_medium
+        grid-row: 1
+        padding: var(--bs-card-spacer-y) var(--bs-card-spacer-x)
+    .metas,
+    .category
+        font-size: px2rem(14)
+        letter-spacing: .03em
+        text-transform: uppercase
+    .content
+        grid-row: 2/4
+    .name
+        margin-bottom: px2rem(40)
+        & + p
+            margin-bottom: 0
+    .category
+        color: $primary_lighten
+    .cta
+        @extend .btn-secondary
+        bottom: 0
+        position: absolute
+        right: 0
+        &::before
+            bottom: 0
+            content: ""
+            left: 0
+            position: absolute
+            right: 0
+            top: 0
+            z-index: $stretched-link-z-index
+        @if variable-exists(bootstrap-icons-map)
+            &:hover
+                &::after
+                    transform: translateX(.3rem)
+            &::after
+                @include icon("arrow-right")
+                font-size: 1.4rem
+                margin-left: 1rem
+                transition: transform $transition-duration $transition-effect
+                vertical-align: -0.35rem

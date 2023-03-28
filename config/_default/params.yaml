@@ -4,3 +4,9 @@ hero:
   _merge: deep
   cover: "x600"
   cover_mobile: "x400"
+posts:
+  _merge: deep
+  thumbnail:
+    _merge: deep
+    desktop: "499x499"
+  

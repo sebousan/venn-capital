@@ -1,0 +1,9 @@
+<div class="content">
+  {{ partial "commons/item/title" . }}
+  {{ partial "commons/item/description" . }}
+  {{ $categories := "posts/item/categories.html" }}
+  {{ if templates.Exists ( printf "partials/%s" $categories ) }}
+    <p>{{ partial $categories . }}</p>
+  {{ end }}
+  {{ partialCached "commons/item/more" . }}
+</div>

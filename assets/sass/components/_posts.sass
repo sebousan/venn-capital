@@ -1,2 +1,8 @@
 .posts
-    @extend .row-cols-md-1
+    --bs-gutter-y: calc(#{$global-spacing} / 2)
+    @extend .row
+    @include media-breakpoint-up(md)
+        --bs-gutter-y: #{$global-spacing}
+    > div
+        @extend .col-md-10
+        @extend .offset-md-1
