@@ -1,4 +1,4 @@
-<div class="content">
+<a href="{{ .Permalink }}" itemprop="url" class="content">
   {{ partial "commons/item/title" . }}
   {{ partial "commons/item/description" . }}
   {{ $categories := "posts/item/categories.html" }}
@@ -6,4 +6,4 @@
     <p>{{ partial $categories . }}</p>
   {{ end }}
   {{ partialCached "commons/item/more" . }}
-</div>
+</a>
