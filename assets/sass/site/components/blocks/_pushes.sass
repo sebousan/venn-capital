@@ -1,6 +1,9 @@
 .block-pushes
     .items-3
         @extend .row-cols-lg-3
+    .items
+        @include scroll-snap
+        justify-content: center
     .items > div
         &:nth-child(1)
             .push

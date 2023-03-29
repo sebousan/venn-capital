@@ -40,7 +40,9 @@
       "ul"
     ],
     "classes": [
+      "--card-media:",
       "404-page",
+      "515px",
       "active",
       "avatar",
       "back",

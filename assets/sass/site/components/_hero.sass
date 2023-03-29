@@ -1,6 +1,9 @@
 .hero
     .container
         @include rfs(calc(#{$global-spacing} + #{$header-height}), padding-top)
+        @include media-breakpoint-up(xxl)
+            min-height: $hero-min-height-xxl
+            padding-top: $header-height-xxl
     picture
         transform: none
         transition-property: opacity
@@ -16,8 +19,10 @@
         span
             color: $secondary
     &-content
+        @extend .col-md-10
         @extend .col-xl-9
     &-cover
+        overflow: hidden
         img
             display: block
             margin-left: auto

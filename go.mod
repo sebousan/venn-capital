@@ -6,7 +6,7 @@ require (
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.1.11 // indirect
 	github.com/hugolify/hugolify-theme v1.3.26 // indirect
-	github.com/hugolify/hugolify-theme-persons v1.0.11 // indirect
+	github.com/hugolify/hugolify-theme-persons v1.0.12 // indirect
 	github.com/hugolify/hugolify-theme-persons-statutes v1.0.6 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.6 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.5 // indirect
