@@ -24,7 +24,7 @@ blocks:
       text: En savoir plus
       url: /phylosiphie
   - type: pushes
-    surtitle: Nos objectifs
+    surtitle: Nos objectifs !
     title: Délivrer une <span>surperformance pérenne</span> via une stratégie fondamentale dans sa philosophie et disciplinée dans <span>sa mécanique.</span>
     columns: 3
     items:
