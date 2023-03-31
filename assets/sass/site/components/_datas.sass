@@ -1,0 +1,15 @@
+.datas
+    @include rfs(4rem 2rem, padding)
+    background: $primary-gradient
+    color: white
+    text-align: center
+    li:not(:last-child)
+        @include rfs(3rem, margin-bottom)
+    dt
+        @include font-size(2.813rem)
+        color: $secondary
+        font-weight: $font-weight-normal
+        line-height: 1.4
+    dd
+        @include font-size(1.625rem)
+        line-height: 1.4

@@ -6,6 +6,10 @@ hero:
   cover_mobile: "x400"
 persons:
   _merge: deep
+  image:
+    _merge: deep
+    desktop: "499x499"
+    mobile: "300x300"
   thumbnail:
     _merge: deep
     desktop: "515x465"
