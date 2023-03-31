@@ -5,11 +5,13 @@ header[role="banner"]
     top: 0
     transition: top .3s ease
     width: 100%
-    z-index: $zindex-sticky
+    z-index: $zindex-modal
 
     html:not(.is-menu-open).is-scrolling-down &
         &:not(:hover)
             top: -$header-height
+            @include media-breakpoint-up(xxl)
+                top: -118px
     &.is-sticky
         position: fixed
 
@@ -34,10 +36,12 @@ header[role="banner"]
             --bs-nav-link-color: #{$header-color}
         &-primary
             flex-direction: column
+            height: 100%
+            justify-content: center
             li
-                font-size: px2rem(20)
-            ul li
-                font-size: px2rem(16)
+                @include font-size(2rem)
+            a:hover
+                --bs-nav-link-hover-color: #{$primary-lighten}
         &-secondary
             --bs-nav-link-font-size: #{px2rem(10)}
             --bs-nav-link-font-weight: #{$font-weight-bold}
@@ -49,16 +53,20 @@ header[role="banner"]
                 text-decoration-line: underline
                 text-underline-offset: 10px
 
-    .offcanvas
-        --bs-offcanvas-bg: #{$header-background-color}
-        @extend .offcanvas-end
+    .modal
+        --bs-modal-bg: #{$header-background-color}
+        &-dialog
+            @extend .modal-fullscreen
         .header
-            @extend .offcanvas-header
+            --bs-modal-header-border-width: 0
+            @extend .modal-header
             .title
-                @extend .offcanvas-title
+                @extend .modal-title
+                display: none
             button
                 @extend .btn-close
                 background-image: escape-svg(url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='#{$header-color}'><path d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z'/></svg>"))
 
         .content
-            @extend .offcanvas-body
+            @extend .modal-body
+            text-align: center
