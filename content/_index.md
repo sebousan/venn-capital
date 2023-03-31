@@ -24,16 +24,25 @@ blocks:
       text: En savoir plus
       url: /phylosiphie
   - type: pushes
-    surtitle: Nos objectifs !
+    surtitle: Nos objectifs
     title: Délivrer une <span>surperformance pérenne</span> via une stratégie fondamentale dans sa philosophie et disciplinée dans <span>sa mécanique.</span>
     columns: 3
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
+        surtitle: Objectif 1
         text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H. Blanchard</cite>
+        cta:
+          url: "/intelligence-collective/"
       - title: Appliquer une méthode systématique.
+        surtitle: Objectif 2
         text: <quote>« A machine beats a man, but a man plus a machine beats a machine »</quote> <cite>Gary Kasparov</cite>
+        cta:
+          url: "/methode-systematique/"
       - title: Aligner les intérêts.
+        surtitle: Objectif 3
         text: <quote>« Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn't, pays it »</quote> <cite>Albert Einstein</cite>
+        cta:
+          url: "/aligner-les-interets/"
   - type: selected-persons
     section: persons
     surtitle: Notre équipe

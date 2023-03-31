@@ -14,25 +14,16 @@ hero:
   surtitle: Venn collective <span>alpha</span>
 blocks:
   - align: start
-    grid: large
-    surtitle: Efficience des marchés
+    grid: medium
+    surtitle: à la croisé des mondes
+    title: Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>. Difficile aujourd’hui de fermer les yeux sur <span>l’essor de la gestion passive</span>. Certains vont même jusqu'à imaginer la disparition prochaine de la <span>gestion active…</span>
     text: >-
-      Pour mémoire l’objectif d’une approche passive consiste à répliquer la
-      performance des grands indices de marché, sans tenir compte des
-      fondamentaux et de la valorisation des sous-jacents composants les dits
-      indices. Elle se retrouve ainsi en opposition avec la gestion active
-      ‘traditionnelle’ qui vise à faire mieux que les indices de marché par le
-      biais de stratégies d’allocation d’actif ou de sélection de titres.\
+      L’objectif d’une approche passive consiste à répliquer la performance des grands indices de marché, sans tenir compte des fondamentaux et de la valorisation des sous-jacents composants les dits indices. Elle se retrouve ainsi en opposition avec la gestion active ‘traditionnelle’ qui vise à faire mieux que les indices de marché par le biais de stratégies d’allocation d’actifs ou de sélection de titres.
 
-      \
 
-      S’appuyant sur la théorie de l’efficience des marchés développée dans les années 70 par l’économiste E. Fama1 et sur les travaux de Jack Bogle, fondateur de Vanguard, la gestion passive gagne des parts de marchés depuis près de vingt ans, au point que les encours s’y rattachant représentent désormais la majorité du secteur aux Etats-Unis.
+      S’appuyant sur la théorie de l’efficience des marchés, développée dans les années 70 par l’économiste E. Fama et sur les travaux de Jack Bogle, fondateur de Vanguard, la gestion passive gagne des parts de marchés depuis près de vingt ans, au point que les encours s’y rattachant représentent désormais la majorité du secteur. 
     background: false
     offset: start
-    title: Difficile aujourd’hui de fermer les yeux sur l’essor de la gestion
-      passive. Il n’est pas rare de lire, dans l’une ou l’autre revue économique
-      et financière, un article anticipant la disparition prochaine de la
-      gestion active…
     type: paragraph
   - type: figure
     grid: medium
@@ -41,40 +32,25 @@ blocks:
     figure:
       src: /images/uploads/philosophie-chart.jpg
   - type: paragraph
-    grid: large
+    grid: medium
     text: >-
-      En vulgarisant, la théorie de l’efficience des marchés suppose que toute l’information disponible est immédiatement intégrée par les marchés financiers et reflétée par le cours du titre sous-jacent. Selon cette hypothèse, il serait donc impossible de ‘battre le Marché’ comme cherchent à le faire les gérants actifs… 
+      La théorie de l’efficience des marchés suppose que toute l’information disponible est immédiatement intégrée par les marchés financiers et reflétée dans les cours du titre sous-jacent. Selon cette hypothèse, il serait donc impossible de ‘battre le Marché’ comme cherchent à le faire les gérants actifs…\
       
-
-      Cette supposition se vérifie en moyenne, puisque sur dix ans 75% à 90% des gérants actifs sous-performent face à un fonds passif.
+      Cette supposition se vérifie en moyenne, puisque sur dix ans 75% à 90% des gérants actifs sous-performent face à un fonds passif. 
 
       
       Déçus par les performances délivrées au regard des frais prélevés, les investisseurs se sont détournés de la gestion active et c’est ainsi que peu à peu la gestion passive s’est imposée au sein du paysage de l’offre d’épargne.
-
-
   - align: start
-    grid: large
+    grid: medium
     surtitle: La face cachée de l’alpha
     text: >-
-      Ainsi, les gérants actifs auraient bien au global, une aptitude à la
-      sélection de titres, mais cela ne se reflèterait pas dans les performances
-      nettes des fonds. La minorité qui bat les indices ne serait donc en
-      réalité que la partie émergée de l’iceberg… ? Nous pouvons alors nous
-      interroger sur les raisons structurelles qui viendraient diluer, voire
-      annihiler, la capacité de création de valeur de la gestion active. La
-      première entrave évidente - et quantifiable par tous - réside dans les
-      frais de gestion, parfois prohibitifs, qui viennent naturellement ronger
-      la surperformance générée par ces gérants de portefeuille. \
+      Ainsi, les gérants actifs auraient bien au global, une aptitude à la sélection de titres, mais cela ne se reflèterait pas dans les performances nettes des fonds. La minorité qui bat les indices ne serait donc en réalité que la partie émergée de l’iceberg... ? Quelles sont les raisons structurelles qui viennent diluer, voire annihiler la capacité de création de valeur de la gestion active ? La première entrave évidente - et quantifiable par tous - réside dans les frais de gestion, parfois prohibitifs, qui viennent naturellement ronger la surperformance générée par ces gérants de portefeuille. 
 
-      \
 
-      Un deuxième élément est lié à un phénomène moins connu, mais qui peut être également très néfaste : la diversification à outrance des portefeuilles... Les américains surnomment ce phénomène la deworstification (traduction approximative : « dispersification »). Il s’explique par plusieurs facteurs de pression, externes ou internes : la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques qui imposent des limites de tracking-error…\
-
-      Or il est démontré4 que l’idée incrémentale est souvent moins bonne, venant ainsi diluer l’alpha des plus fortes convictions…
+      Un deuxième élément est lié à un phénomène moins connu, mais qui peut être également très néfaste : la diversification à outrance des portefeuilles... Les américains surnomment ce phénomène la deworstification (traduction approximative : « dispersification »). Il s’explique par plusieurs facteurs de pression, externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques qui imposent des limites de tracking-error…  Or il est démontré que l’idée incrémentale est souvent moins bonne, venant ainsi diluer l’alpha des plus fortes convictions…
     background: false
     offset: start
-    title: Pourtant, un certain nombre d’études académiques sont venues démontrer
-      qu’il existait bien un alpha fondamental.
+    title: Pourtant, un certain <span>nombre d’études académiques</span> sont venues démontrer qu’il existait bien un alpha fondamental.
     type: paragraph
   - type: quote
     background: false
@@ -93,21 +69,14 @@ blocks:
     background: false
     title: ""
     text: >-
-      Enfin, un troisième facteur qui vient nuire à la gestion active réside
-      dans les bais cognitifs que chaque individu porte en lui : ancrage,
-      confirmation, autocomplaisance, aversion aux pertes… La finance
-      comportementale explique très clairement comment le gérant est souvent son
-      propre ennemi.\
-
-      \
+      Enfin, un troisième facteur qui vient nuire à la gestion active réside dans les bais cognitifs que chaque individu porte en lui : ancrage, confirmation, autocomplaisance, aversion aux pertes… La finance comportementale explique très clairement comment le gérant est souvent son propre ennemi.
+      
 
       à la lumière de ces éléments, plutôt que d’opposer gestion active et gestion passive, une troisième voie peut-elle être envisagée ?
   - type: informations
     column: 3
     background: false
-    title: "Chez Venn, nous avons conçu des stratégies qui capitalisent sur le
-      bien-fondé de l’investissement fondamental, tout en cherchant à
-      neutraliser les éléments destructeurs évoqués, à savoir :"
+    title: "Chez Venn, nous avons conçu des stratégies qui capitalisent sur le bien-fondé de l’investissement fondamental, tout en cherchant à neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>"
     items:
       - cta:
           blank: false
@@ -121,25 +90,24 @@ blocks:
           blank: false
         title: Numéro 3
         text: La structure de frais
-  - type: informations
-    column: 3
-    background: false
-    title: "Les réponses apportées respectivement par la stratégie Venn Smart Alpha
-      consiste ainsi à :"
+
+  - type: pushes
+    title: "Les réponses apportées par la <span>stratégie Venn Collective Alpha</span> consiste ainsi à :"
+    columns: 3
     items:
-      - cta:
-          blank: false
-        title: Numéro 1
-        text: S’appuyer sur le phénomène d’intelligence collective pour « débiaiser » la
-          gestion active.
-      - cta:
-          blank: false
-        title: Numéro 2
-        text: Appliquer une méthode systématique et concentrée
-      - cta:
-          blank: false
-        title: Numéro 3
-        text: Aligner les intérêts via les économies d’échelles générées et une
-          transparence totale
-  
+      - title: S’appuyer sur le phénomène d’intelligence collective pour « débiaiser » la gestion active.
+        text: Solution
+        surtitle: Numéro 1
+        cta:
+          url: "/intelligence-collective/"
+      - title: Appliquer une méthode systématique et concentrée.
+        text: Solution
+        surtitle: Numéro 2
+        cta:
+          url: "/methode-systematique/"
+      - title: Aligner les intérêts via une tarification allégée et une transparence totale.
+        text: Solution
+        surtitle: Numéro 3
+        cta:
+          url: "/aligner-les-interets/"
 ---
