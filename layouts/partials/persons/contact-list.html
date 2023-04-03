@@ -1,0 +1,13 @@
+{{ $context := . }}
+{{ with .Params.contact }}
+  {{ if or .email .phone .fax .linkedin .twitter .instagram }}
+    <aside class="contact-list"{{ partial "func/SetAnim" (dict "element" "content") }}>
+      <div>
+        <p class="person-status" itemprop="jobTitle">{{ $context.Params.Statutes }}</p>
+        {{ partial "commons/contact/title.html" . }}
+        {{ partial "commons/contact/contacts.html" . }}
+        {{ partial "commons/contact/socials.html" . }}
+      </div>
+    </aside>
+  {{ end }}
+{{ end }}
