@@ -1,11 +1,26 @@
 .person
-    a + div,
+    --bs-card-spacer-x: 0
+    --bs-card-border-width: 0
+    --bs-card-border-radius: 0
+    --bs-card-inner-border-radius: 0
+    --bs-card-bg: transparent
+    --bs-card-cap-bg: transparent
+    @extend .card
+    
     .avatar
         border-radius: 0
 
+    .content + div
+        @extend .ratio
+        @extend .ratio-1x1
+        align-self: flex-start
+        background-color: $light
+        max-width: var(--card-media)
+        order: -1
+
     &:not(&-large)
-        --bs-card-spacer-y: 1rem
-        --bs-card-spacer-x: 1rem
+        --bs-card-spacer-y: 2rem
+        --bs-card-spacer-x: 2rem
         --bs-card-color: white
         .content
             bottom: 0
@@ -22,9 +37,10 @@
             font-size: px2rem(10)
             letter-spacing: .04em
             line-height: 1
-            margin-bottom: 1em
+            margin-bottom: .5em
             order: -1
             text-transform: uppercase
+    
     &-large
         --bs-card-spacer-y: 0
         --bs-card-spacer-x: 0

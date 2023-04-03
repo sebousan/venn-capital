@@ -19,7 +19,7 @@
           <p>{{ partial "func/PrepareHTML" (partial "func/LineBreak" .) }}</p>
         {{ end }}
         {{ if $show_button }}
-          {{ $index := site.GetPage (printf "/%s" $section) }}
+          {{ $index := site.GetPage "/qui-sommes-nous" }}
           {{ with $index }}
             <div class="bottom">
               <a href="{{ .Permalink }}" class="more">{{ i18n "persons.who" }}</a>
