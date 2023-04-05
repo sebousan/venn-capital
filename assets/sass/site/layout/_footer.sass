@@ -1,18 +1,25 @@
 footer[role="contentinfo"]
-    .container
-        @include media-breakpoint-up(md)
-            display: grid
     .logo
-        margin-bottom: $spacer
+        display: inline-block
+        margin-bottom: px2rem(40)
+        @include media-breakpoint-up(md)
+            float: left
+        @include media-breakpoint-up(xxl)
+            margin-bottom: 0
     .nav
         --bs-nav-link-color: white
         --bs-nav-link-hover-color: white
+        --bs-nav-link-font-size: #{px2rem(12)}
+    .nav-primary,
+    .nav-secondary
         --bs-nav-link-font-size: #{px2rem(10)}
         --bs-nav-link-font-weight: #{$font-weight-bold}
         a
             letter-spacing: .03em
             text-transform: uppercase
     .nav-primary
+        @include rfs($global-spacing, margin-bottom)
+        clear: both
         column-count: 2
         display: block
         @include media-breakpoint-up(md)
@@ -21,8 +28,16 @@ footer[role="contentinfo"]
             margin-left: auto
             margin-right: auto
             max-width: 69%
+        @include media-breakpoint-up(xxl)
+            max-width: 50%
     .nav-secondary
         margin-bottom: $spacer
+        margin-right: 0
+        margin-left: 0
+        @include media-breakpoint-up(md)
+            float: right
+        @include media-breakpoint-up(xxl)
+            margin-bottom: $spacer
         a
             color: $secondary
             padding: 0
