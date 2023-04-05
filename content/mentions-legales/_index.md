@@ -13,13 +13,18 @@ En utilisant ce site, vous reconnaissez avoir pris connaissance des dispositions
 
 ## Editeur
 
-Le site web venn-capital.com est la propriété de Venn Capital.
+Le site web venn-capital.com est la propriété de :
+
+**Venn Capital** \
+75, bd Haussmann \
+75008 Paris \
+France
 
 ## Hébergement
 
 Le site web venn-capital.com est héberger chez :
 
-Netlify,\
+**Netlify**\
 2325 3rd Street, \
 Suite 296, \
 San Francisco, \
@@ -40,4 +45,4 @@ https://uncinq.dev
 
 
 **Solution**\
-This site was designed with [Hugolify](https://www.hugolify.io), an open-source Jamstack solution, which allows you to design a site that is as environmentally friendly as possible and closest to accessibility criteria.
+Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.

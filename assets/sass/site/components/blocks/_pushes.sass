@@ -26,12 +26,16 @@
             height: 100%
             justify-content: space-around
         .surtitle
-            @include rfs($global-spacing, margin-bottom)
+            @include rfs(2rem, margin-bottom)
             text-decoration-color: $secondary
             text-decoration-line: underline
+            @include media-breakpoint-up(xxl)
+                margin-bottom: $global-spacing
         h3
-            font-size: px2rem(26)
+            font-size: px2rem(20)
             margin-bottom: px2rem(30)
+            @include media-breakpoint-up(xxl)
+                font-size: px2rem(26)
         p
             font-size: px2rem(14)
             quote,

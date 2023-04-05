@@ -1,2 +1,32 @@
-.hugolify
-    display: none
+footer[role="contentinfo"]
+    .container
+        @include media-breakpoint-up(md)
+            display: grid
+    .logo
+        margin-bottom: $spacer
+    .nav
+        --bs-nav-link-color: white
+        --bs-nav-link-hover-color: white
+        --bs-nav-link-font-size: #{px2rem(10)}
+        --bs-nav-link-font-weight: #{$font-weight-bold}
+        a
+            letter-spacing: .03em
+            text-transform: uppercase
+    .nav-primary
+        column-count: 2
+        display: block
+        @include media-breakpoint-up(md)
+            column-count: 3
+        @include media-breakpoint-up(lg)
+            margin-left: auto
+            margin-right: auto
+            max-width: 69%
+    .nav-secondary
+        margin-bottom: $spacer
+        a
+            color: $secondary
+            padding: 0
+            text-decoration-line: underline
+            text-underline-offset: 10px
+    .hugolify
+        display: none
