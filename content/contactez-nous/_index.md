@@ -10,7 +10,6 @@ blocks:
     background: false
     location: '{"type":"Point","coordinates":[2.3200143,48.8742315]}'
     zoom: 16
-    title: Venn Capital
-    text: 75, bd Haussmann - 75008 Paris
+    title: 75 boulevard Haussmann <span>75008 Paris</span>, France
     grid: full
 ---

@@ -19,4 +19,8 @@ posts:
     _merge: deep
     desktop: "499x499"
     mobile: "300x300"
-  
+blocks:
+  _merge: deep
+  quote:
+    _merge: deep
+    desktop: "1023x767"

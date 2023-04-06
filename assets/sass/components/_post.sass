@@ -34,6 +34,7 @@
         color: $primary-lighten
     .cta
         @extend .btn-secondary
+        @extend .btn-arrow
         bottom: 0
         position: absolute
         right: 0
@@ -45,16 +46,6 @@
             right: 0
             top: 0
             z-index: $stretched-link-z-index
-        @if variable-exists(bootstrap-icons-map)
-            &:hover
-                &::after
-                    transform: translateX(.3rem)
-            &::after
-                @include icon("arrow-right")
-                font-size: 1.4rem
-                margin-left: 1rem
-                transition: transform $transition-duration $transition-effect
-                vertical-align: -0.35rem
     
     @include media-breakpoint-up(md)
         grid-column-gap: $grid-gutter-width

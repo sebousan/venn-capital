@@ -1,0 +1,39 @@
+<section class="block-quote{{ with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
+  <div class="container">
+    <div class="row">
+      <div>
+        <div>
+          <figure class="quote">
+            {{ partial "blocks/heading.html" . }}
+            
+            {{ with .quote}}
+              <blockquote>
+                <p>{{ partial "func/PrepareHTML" . }}</p>
+              </blockquote>
+            {{ end }}
+          
+            {{ with .author }}
+              <figcaption>
+                {{ with .image}}
+                  {{ $desktop := site.Params.blocks.quote.desktop | default false }}
+                  {{ partial "commons/image.html" (dict
+                      "src" .src
+                      "alt" .alt
+                      "desktop" $desktop
+                      "crop" "Top"
+                    ) }}
+                {{ end }}
+                <div>
+                  {{ with .title}}
+                    <cite>{{ partial "func/PrepareHTML" . }}</cite><br>
+                  {{ end }}
+                  {{ partial "func/PrepareHTML" .text }}
+                </div>
+              </figcaption>
+            {{ end }}
+          </figure>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

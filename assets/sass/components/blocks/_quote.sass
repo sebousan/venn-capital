@@ -1,0 +1,71 @@
+.block-quote
+    .row > div
+        @extend .col-md-8
+        @extend .offset-md-1
+    .row > div > div
+        --bs-aspect-ratio: 100%
+        @extend .ratio
+        background: $primary-gradient
+        @include media-breakpoint-up(md)
+            --bs-aspect-ratio: 75%
+    .quote
+        display: flex
+        flex-direction: column
+        justify-content: center
+        margin-bottom: 0
+        padding: $grid-gutter-width
+        blockquote p
+            @extend .h2
+            margin-bottom: 0
+        figcaption
+            display: block
+            cite
+                font-style: italic
+                font-weight: normal
+    .heading,
+    .quote blockquote p,
+    figcaption
+        color: white
+    .quote blockquote p span
+        color: $secondary
+    blockquote
+        @include rfs($global-spacing, margin-bottom)
+        position: relative
+        @include media-breakpoint-up(xxl)
+            margin-bottom: px2rem(90)
+        &::before
+            background-color: $secondary
+            content: ""
+            height: 100%
+            left: -25%
+            position: absolute
+            top: 0
+            width: 4px
+    picture
+        bottom: 0
+        left: 0
+        opacity: .15
+        overflow: hidden
+        position: absolute
+        right: 0
+        top: 0
+        img
+            border-radius: 0
+            height: 100%
+            margin-right: 0
+            object-fit: cover
+            width: 100%
+
+    @include media-breakpoint-down(md)
+        .container,
+        .row > *
+            padding-left: 0
+            padding-right: 0
+        .row
+            margin-left: 0
+            margin-right: 0
+    @include media-breakpoint-up(md)
+        .quote
+            padding: 25%
+            .heading
+                margin-left: -15%

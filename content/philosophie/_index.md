@@ -54,8 +54,8 @@ blocks:
     type: paragraph
   - type: quote
     background: false
-    text: « La diversification peut préserver la richesse, mais c’est la
-      concentration qui la construit ».
+    surtitle: Pour paraphraser…
+    quote: « La diversification peut préserver la richesse, mais c’est <span>la concentration qui la construit ».</span>
     author:
       title: Warren Buffett
       image:
@@ -73,24 +73,29 @@ blocks:
       
 
       à la lumière de ces éléments, plutôt que d’opposer gestion active et gestion passive, une troisième voie peut-elle être envisagée ?
-  - type: informations
+  - type: pushes
     column: 3
     background: false
     title: "Chez Venn, nous avons conçu des stratégies qui capitalisent sur le bien-fondé de l’investissement fondamental, tout en cherchant à neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>"
     items:
       - cta:
           blank: false
-        text: La présence naturelle de biais au sein d’une gestion active.
-        title: Numéro 1
+        title: La présence naturelle de biais au sein d’une gestion active.
+        surtitle: Numéro 1
+        background_color: "#F7F7F7"
+        color: "#043F47"
       - cta:
           blank: false
-        text: La diversification à outrance des portefeuilles
-        title: Numéro 2
+        title: La diversification à outrance des portefeuilles
+        surtitle: Numéro 2
+        background_color: "#F7F7F7"
+        color: "#043F47"
       - cta:
           blank: false
-        title: Numéro 3
-        text: La structure de frais
-
+        surtitle: Numéro 3
+        title: La structure de frais
+        background_color: "#F7F7F7"
+        color: "#043F47"
   - type: pushes
     title: "Les réponses apportées par la <span>stratégie Venn Collective Alpha</span> consiste ainsi à :"
     columns: 3

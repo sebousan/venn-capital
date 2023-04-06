@@ -33,6 +33,11 @@ header[role="banner"]
         color: $header-color
         position: relative
         z-index: 1060
+        img
+            display: block
+            @include media-breakpoint-down(lg)
+                height: auto
+                max-width: 60%
         & + .nav-secondary
             @include media-breakpoint-down(md)
                 display: none
@@ -43,6 +48,8 @@ header[role="banner"]
             flex-direction: column
             li
                 @include font-size(2rem)
+                @include media-breakpoint-down(md)
+                    line-height: 1.2
             a:hover
                 --bs-nav-link-hover-color: #{$primary-lighten}
             & + .nav-secondary

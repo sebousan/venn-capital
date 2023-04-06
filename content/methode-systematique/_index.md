@@ -21,9 +21,48 @@ blocks:
 
 
       A l’inverse, les machines sont plus efficientes au sens où elles n’ont pas d’émotions, pas de fatigue, pas d’ego… et disposent de capacités de traitement extrêmement puissantes. Toutefois, elles n’arrivent pas encore à résoudre des systèmes complexes, multi-facettes. Très souvent, les meilleurs systèmes informatiques ne font guère plus que synthétiser la prise de décision humaine. Par exemple, l'algorithme PageRank est basé sur l'affichage des pages les plus consultées par les internautes. Comme le souligne John Markoff dans son livre Machines of Loving Grace, cet algorithme exploite essentiellement l'intelligence collective humaine en agrégeant des sources d'information précieuses.
-
-      Comment allier les forces de la machine et de l’homme au sein de l’investissement ?
-
+  - type: figure
+    grid: medium
+    offset: start
+    surtitle: Comment allier les forces de la machine et de l’homme au sein de l’investissement ?
+    text: >-
       Si la plupart des gérants actifs sous-performent leurs indices de référence sur le long terme, le corollaire implique qu'une minorité y parvient. Il est intéressant de noter le caractère cyclique de cette génération d'alpha.
+    figure:
+      src: /images/uploads/structure-de-frais.png
+  - type: paragraph
+    grid: medium
+    text: >-
+      Une autre façon d’adresser la problématique des biais naturellement présents au sein d’une gestion active est de s’attacher à introduire une méthodologie systématique. A l’instar de PageRank, nos stratégies systématiques exploitent l'intelligence collective d’experts en stock-picking en agrégeant des sources d'information que nous jugeons précieuses.
 
+
+      Une mécanique de rebalancement régulière et des techniques systématiques de construction de portefeuille sont aussi un moyen de nous affranchir de tous biais affectant parfois les gérants fondamentaux (entêtement, complaisance….).
+  - type: paragraph
+    grid: medium
+    text: >-
+      En étant pleinement conscients des avantages et limites des deux approches (fondamentale / quantitative) nous sommes en mesure de marier le meilleur des deux mondes afin de développer une approche plus robuste. Cette dernière s’appuie sur des algorithmes et les récentes découvertes dans le domaine de la prévision, de la théorie de la décision et de la finance comportementale. Les stratégies Venn Collective Alpha permettent de transformer les signaux provenant de gérants fondamentaux en un processus systématique de sélection de titres.
+
+
+      En appliquant un cadre discipliné à des décisions fondamentales, nous cherchons à gommer nos propres biais comportementaux mais aussi ceux des experts à l’origine des signaux d’investissement. Cela nous permet de proposer des stratégies fiables, robustes et pérennes pour l’investisseur. 
+  - type: figure
+    grid: medium
+    offset: start
+    surtitle: Concentration et équipondération
+    text: >-
+      Dans les années 50, Harry Markowitz développait la ‘Théorie Moderne du Portefeuille’ démontrant qu’un portefeuille diversifié permettait de baisser la volatilité (et donc le risque). Plus tard, William Sharpe a développé la théorie du ‘Capital Asset Pricing Model’ (CAPM, ou MEDAF en français) amenant la notion de « beta ».
+
+
+      En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le Prix Nobel d’Economie pour leurs contributions à la finance moderne. Leurs travaux ont bien sûr grandement influencé le monde de la gestion d’actifs, en essaimant l’idée qu’il est risqué de détenir un petit nombre d'actions car cela fait prendre des risques spécifiques trop importants.
+      Pourtant, l’analyse empirique montre qu’un portefeuille d’une trentaine de titres permet de largement diminuer les risques idiosyncratiques.
+    figure:
+      src: /images/uploads/diversification.png
+  - type: figure
+    grid: medium
+    offset: start
+    text: >-
+      Pourquoi alors cette tendance massive à la diversification ?
+
+
+      L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
+    figure:
+      src: /images/uploads/diversification-2.png
 ---

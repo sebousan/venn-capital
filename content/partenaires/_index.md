@@ -7,7 +7,7 @@ hero:
   surtitle: Venn collective <span>alpha</span>
 blocks:
   - type: quote
-    text: “Everything I’ve done has been collaborative”
+    quote: “Everything I’ve done has been collaborative”
     author:
       title: Daniel Kahneman
     background: false

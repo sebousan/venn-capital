@@ -2,17 +2,23 @@
     @include rfs($global-spacing, padding-bottom)
     @include rfs($global-spacing, padding-top)
     .heading
-        .surtitle
+        @include rfs($global-spacing, margin-bottom)
+        .surtitle:last-child
+            margin-bottom: 0
+        .surtitle:not(:last-child)
             @include rfs($global-spacing, margin-bottom)
     @include media-breakpoint-up(lg)
         .heading
             align-items: flex-start
-            margin-bottom: px2rem(90)
             margin-left: 0
             max-width: 100%
             text-align: left
-            h2
+            h2,
+            p:not(.surtitle)
                 padding-left: 8.33333333%
                 padding-right: calc(8.33333333% * 3)
-            .surtitle
+    @include media-breakpoint-up(xxl)
+        .heading
+            margin-bottom: px2rem(90)
+            .surtitle:not(:last-child)
                 margin-bottom: px2rem(90)
