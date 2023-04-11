@@ -22,7 +22,7 @@ blocks:
     align: start
     cta:
       text: En savoir plus
-      url: /phylosiphie
+      url: /philosophie
   - type: pushes
     surtitle: Nos objectifs
     title: Délivrer une <span>surperformance pérenne</span> via une stratégie fondamentale dans sa philosophie et disciplinée dans <span>sa mécanique.</span>

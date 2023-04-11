@@ -6,13 +6,17 @@
     li:not(:last-child)
         @include rfs(3rem, margin-bottom)
     dt
-        @include font-size(2.813rem)
+        @include font-size(2rem)
         color: $secondary
         font-weight: $font-weight-normal
         line-height: 1.4
+        @include media-breakpoint-up(xxl)
+            font-size: 2.813rem
     dd
-        @include font-size(1.625rem)
+        @include font-size(1.25rem)
         line-height: 1.4
+        @include media-breakpoint-up(xxl)
+            font-size: 1.625rem
 
     @include media-breakpoint-only(md)
         padding-left: 1rem

@@ -9,7 +9,10 @@
         justify-content: center
     ul:not(.nav-social),
     .person-status
-        @include font-size(1.25rem)
+        font-size: 1rem
+        @include media-breakpoint-up(xxl)
+            font-size: 1.25rem
+
     .person-status
         color: $primary
         font-weight: $font-weight-bold

@@ -65,7 +65,10 @@
             margin-left: 0
             margin-right: 0
     @include media-breakpoint-up(md)
+        blockquote
+            &::before
+                left: calc(-25% - (#{$grid-gutter-width}/3))
         .quote
-            padding: 25%
+            padding: calc(25% + (#{$grid-gutter-width}/7*2))
             .heading
                 margin-left: -15%
