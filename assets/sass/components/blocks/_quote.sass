@@ -29,7 +29,7 @@
     .quote blockquote p span
         color: $secondary
     blockquote
-        @include rfs($global-spacing, margin-bottom)
+        @include margin-bottom($global-spacing)
         position: relative
         @include media-breakpoint-up(xxl)
             margin-bottom: px2rem(90)

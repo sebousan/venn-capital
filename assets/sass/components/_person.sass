@@ -75,7 +75,7 @@
         grid-template-columns: 100%
         .name
             @extend .h3
-            @include rfs(calc(#{$global-spacing} / 2), margin-bottom)
+            @include margin-bottom(calc(#{$global-spacing} / 2))
         .featured-image,
         .content + div
             grid-row: 1
