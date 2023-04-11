@@ -19,6 +19,11 @@ posts:
     _merge: deep
     desktop: "499x499"
     mobile: "300x300"
+publications:
+  _merge: deep
+  thumbnail:
+    _merge: deep
+    desktop: "512x390"
 blocks:
   _merge: deep
   quote:
