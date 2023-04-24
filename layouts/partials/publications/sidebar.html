@@ -1,0 +1,7 @@
+<div class="sidebar"{{ partial "func/SetAnim" (dict "element" "sidebar") }}>
+  {{ $concerned := "publications/concerned.html" }}
+  {{ if templates.Exists ( printf "partials/%s" $concerned ) }}
+    {{ partial $concerned . }}
+  {{ end }}
+  {{ partial "commons/share" . }}
+</div>
