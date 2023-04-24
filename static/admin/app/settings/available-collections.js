@@ -2,5 +2,6 @@ export const availableCollections = [
     'persons',
     'posts',
     'categories',
-    'publications'
+    'publications',
+    'publications_categories'
 ];

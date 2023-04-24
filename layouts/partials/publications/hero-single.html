@@ -1,15 +1,1 @@
-<header class="hero"{{ partial "func/SetAnim" (dict "element" "hero") }}>
-  <div class="container">
-    <div class="row">
-      <div class="hero-content">
-        {{- with .Site.Data.seo.baseline -}}
-          <p class="surtitle">{{ partial "func/PrepareHTML" . }}</p>
-        {{- end -}}
-        {{ with .Title }}
-          <h1>{{ partial "func/PrepareHTML" . }}</h1>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</header>
-{{ partialCached "commons/btn-down" . }}
+{{ partial "commons/hero" . }}

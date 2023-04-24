@@ -5,7 +5,9 @@ header[role="banner"]
     top: 0
     transition: top .3s ease
     width: 100%
-    z-index: $zindex-modal
+    z-index: 100
+    .modal-open &
+        z-index: $zindex-modal
 
     html:not(.is-menu-open).is-scrolling-down &
         &:not(:hover)

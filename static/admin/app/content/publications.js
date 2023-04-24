@@ -4,6 +4,7 @@ import { date } from '../fields/date.js'
 import { title } from '../fields/title.js'
 import { description } from '../fields/description.js'
 import { press } from '../fields/press.js'
+import { publications_categories } from '../fields/publications_categories.js'
 import { featured_image } from '../fields/featured-image.js'
 // import { body } from '../fields/body.js'
 
@@ -30,6 +31,14 @@ const publications = {
         date,
         title,
         description,
+        publications_categories,
+        { 
+            label: 'Écrit par', 
+            name: 'publications_authors', 
+            widget: 'select',
+            options: ["Venn", "Autres"],
+            required: true
+        },
         press,
         featured_image
     ]

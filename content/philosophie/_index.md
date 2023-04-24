@@ -11,7 +11,6 @@ hero:
   image:
     darken: true
   title: Philosophie<span>.</span>
-  surtitle: Venn collective <span>alpha</span>
 blocks:
   - align: start
     grid: medium

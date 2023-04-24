@@ -3,7 +3,6 @@ isIndex: true
 title: Accueil
 description: à la croisée des mondes entre gestion active et gestion passive
 hero:
-  surtitle: venn collective <span>alpha</span>
   title: L'intelligence collective au service de <span>l’investissement.</span>
   image:
     src: /images/uploads/home-hero.png

@@ -2,7 +2,6 @@
 isPage: true
 title: Contactez-nous
 hero:
-  surtitle: Venn collective <span>alpha</span>
   title: Contactez-nous
   align: start
 blocks:

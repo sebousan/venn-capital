@@ -1,0 +1,8 @@
+{{ $hasCategory := partial "func/HasTaxonomyAvailable" (dict "section" "publications" "taxonomy" "publications_categories") }}
+{{ $hasAuthor := partial "func/HasTaxonomyAvailable" (dict "section" "publications" "taxonomy" "publications_authors") }}
+{{ if or $hasCategory $hasAuthor }}
+  <div class="filters offcanvas" tabindex="-1" id="publicationsFilters" aria-labelledby="publicationsFiltersLabel">
+    {{ partial "publications/filters/header" . }}
+    {{ partial "publications/filters/content" . }}
+  </div>
+{{ end }}

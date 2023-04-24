@@ -1,2 +1,5 @@
 _merge: deep
 persons: notre-equipe/:slug
+posts: /actualite/:year-:month-:day-:slug/
+publications_authors: blog/:slug
+publications_categories: blog/categories/:slug

@@ -17,3 +17,18 @@ publications:
     one: Article
     other: Articles
   title_person: Articles de {{ .Person }}
+publications_authors:
+  discover: Découvrir l’auteur
+  latest: Derniers auteurs
+  more: Découvrir plus d’auteur
+  title:
+    one: Auteur
+    other: Auteurs
+publications_categories:
+  all: Toutes les catégories
+  discover: Découvrir la catégorie
+  latest: Derniers catégorie
+  more: Découvrir plus de catégorie
+  title:
+    one: Catégorie
+    other: Catégories

@@ -11,7 +11,6 @@ hero:
   image:
     darken: true
   title: Intelligence Collective<span>.</span>
-  surtitle: Venn collective <span>alpha</span>
 blocks:
   - type: paragraph
     surtitle: la théorie de l’intelligence collective

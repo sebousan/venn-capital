@@ -10,7 +10,6 @@ export const press = {
     required: false,
     fields: [
         title,
-        { label: 'Écrit par Venn ?', name: 'concerned', widget: 'boolean', required: false },
         url,
         pdf
     ]

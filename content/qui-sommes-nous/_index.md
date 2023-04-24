@@ -4,7 +4,6 @@ draft: false
 title: Qui sommes-nous ?
 hero:
   title: Qui sommes-nous ?
-  surtitle: Venn collective <span>alpha</span>
 blocks:
   - type: paragraph
     align: start

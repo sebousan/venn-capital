@@ -4,7 +4,6 @@ draft: false
 title: Partenaires
 hero:
   title: Partenaires<span>.</span>
-  surtitle: Venn collective <span>alpha</span>
 blocks:
   - type: quote
     quote: “Everything I’ve done has been collaborative”

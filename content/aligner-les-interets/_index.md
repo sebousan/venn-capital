@@ -5,7 +5,6 @@ title: Aligner les intérêts
 hero:
   align: start
   title: Aligner les intérêts<span>.</span>
-  surtitle: Venn collective <span>alpha</span>
   image:
     src: /images/uploads/aligner-les-interets-hero.png
     background_image: true

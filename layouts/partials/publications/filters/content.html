@@ -1,0 +1,10 @@
+<div class="content">
+  {{ $categories := "publications/filters/publications_categories.html" }}
+  {{ if templates.Exists ( printf "partials/%s" $categories ) }}
+    {{ partial $categories . }}
+  {{ end }}
+  {{ $authors := "publications/filters/publications_authors.html" }}
+  {{ if templates.Exists ( printf "partials/%s" $authors ) }}
+    {{ partial $authors . }}
+  {{ end }}
+</div>
