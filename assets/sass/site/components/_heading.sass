@@ -3,3 +3,6 @@
     @include margin-top($global-spacing)
     h1
         max-width: 100%
+
+    [class*="block-"] + .container &
+        margin-top: 0

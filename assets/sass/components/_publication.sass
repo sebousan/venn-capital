@@ -17,12 +17,10 @@
         font-size: 1rem
         font-weight: $font-weight-bold
     .category
-        --bs-badge-padding-x: 2rem
-        --bs-badge-padding-y: .75rem
         @extend .badge
-        background: #{$secondary-gradient}
-        border-bottom-right-radius: 1rem
-        border-top-right-radius: 1rem
+        @extend .badge-secondary
+        border-bottom-left-radius: 0
+        border-top-left-radius: 0
         letter-spacing: .3em
         pointer-events: none
         position: absolute
