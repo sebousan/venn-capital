@@ -1,13 +1,13 @@
 import { isNotIndex } from '../fields/is-not-index.js'
 import { title } from '../fields/title.js'
 
-const publications_categories = {
-    name: 'publications_categories',
-    label: 'Catégories (blog)',
+const categories = {
+    name: 'categories',
+    label: 'Catégories (actualités)',
     label_singular: 'catégorie',
-    folder: 'content/publications_categories',
+    folder: 'content/categories',
     create: true,
-    description: 'Toutes les catégories du blog',
+    description: 'Toutes les catégories d’actualités',
 
     editor: { preview: false },
 
@@ -23,7 +23,6 @@ const publications_categories = {
         isNotIndex,
         title
     ]
-
 }
 
-export default publications_categories
+export default categories

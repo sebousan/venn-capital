@@ -10,10 +10,11 @@ import { featured_image } from '../fields/featured-image.js'
 
 const publications = {
     name: 'publications',
-    label: 'Parutions',
-    label_singular: 'Parution',
+    label: 'Blog',
+    label_singular: 'article du blog',
     folder: 'content/publications',
     create: true,
+    description: 'Tous les articles du blog',
 
     editor: { preview: false },
 
