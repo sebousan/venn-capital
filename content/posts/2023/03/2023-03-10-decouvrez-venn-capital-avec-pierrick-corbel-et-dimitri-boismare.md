@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2022-12-05T11:44:32.689Z
-title: Vidéo Club Patrimoine
+title: Club Patrimoine
 description: ""
 categories: Interview
 image:
