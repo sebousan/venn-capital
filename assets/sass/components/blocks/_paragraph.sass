@@ -1,4 +1,6 @@
 .block-paragraph
+    h2:last-child
+        margin-bottom: 0
     .row > div
         @extend .offset-md-1
     .surtitle
@@ -8,8 +10,12 @@
         @extend .btn-arrow
 
     @include media-breakpoint-up(md)
-        .surtitle
-            margin-left: -13%
+        .col-md-8
+            .surtitle
+                margin-left: -13%
+        .col-md-10
+            .surtitle
+                margin-left: -10.2%
 
     @include media-breakpoint-up(lg)
         .surtitle

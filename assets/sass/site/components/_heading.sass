@@ -1,8 +1,12 @@
 .heading-filter
     @include margin-bottom($global-spacing)
     @include margin-top($global-spacing)
+    .surtitle,
     h1
-        max-width: 100%
+        display: none
+    
+    @include media-breakpoint-up(lg)
+        display: none
 
     [class*="block-"] + .container &
         margin-top: 0

@@ -1,0 +1,54 @@
+.offcanvas.filters
+    @extend .offcanvas-lg
+    @extend .offcanvas-end
+    @include media-breakpoint-up(lg)
+        margin-top: $global-spacing
+        margin-bottom: $global-spacing
+        position: static
+        transform: none
+        transition: none
+        visibility: visible
+        width: auto
+        z-index: auto
+        .header
+            display: none
+
+    .list
+        li::before
+            content: none
+        a
+            @extend .badge
+            color: $primary-medium
+            background-color: $light
+            text-decoration: none
+            &:hover
+                color: white
+                background-color: $primary-lighten
+
+    @include media-breakpoint-down(lg)
+        .list
+            li
+                margin-top: px2rem(20)
+
+    @include media-breakpoint-up(lg)
+        .content
+            display: flex
+            justify-content: center
+        .content > div:not(:first-child)
+            padding-top: 0
+        .content > div:not(:last-child)
+            border-bottom: 0
+            padding-bottom: 0
+        .list
+            p
+                display: none
+            ol
+                display: flex
+                justify-content: center
+            li
+                margin-left: px2rem(12)
+                margin-right: px2rem(12)
+
+.btn-filter
+    @extend .d-lg-none
+    margin-right: auto
