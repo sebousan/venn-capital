@@ -7,4 +7,4 @@ categories: Evènement
 image:
   src: /images/uploads/vinoteca-02022023.jpeg
 ---
-{{< button text="Lien Linkedin" url="https://www.linkedin.com/feed/update/urn:li:activity:7027280866124931072" blank="false" >}}
+{{< button text="Lien Linkedin" url="https://www.linkedin.com/feed/update/urn:li:activity:7027280866124931072" blank="true" >}}
