@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 date: 2020-10-16T08:00:21.169Z
 title: Article Citywire - Victoire Barbin Perron
-categories: Communiqué de presse
+categories: Article
 image:
   src: /images/uploads/citywire-092020-cover.jpeg
 ---
