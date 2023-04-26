@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2022-12-05T11:44:32.689Z
-title: Club Patrimoine
+title: Club Patrimoine - Fanny Berthon
 description: ""
 categories: Interview
 image:
