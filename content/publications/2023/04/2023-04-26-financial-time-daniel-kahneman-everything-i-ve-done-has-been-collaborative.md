@@ -2,8 +2,7 @@
 isIndex: false
 draft: false
 date: 2021-05-07T09:30:44.494Z
-title: "Financial Time - Daniel Kahneman: ‘Everything I’ve done has been
-  collaborative’"
+title: Financial Time
 description: The Nobel-winning psychologist on behavioural economics, human
   error and why he doesn’t see himself as a guru
 publications_categories: Finance comportementale
