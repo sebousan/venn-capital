@@ -12,6 +12,14 @@
     .metas
         @extend .card-footer
         padding-top: 0
+        @include media-breakpoint-up(md)
+            flex-wrap: nowrap
+            .date
+                flex-shrink: 0
+            .press
+                overflow: hidden
+                text-overflow: ellipsis
+                white-space: nowrap
     .name
         color: $body-color
         font-size: 1rem

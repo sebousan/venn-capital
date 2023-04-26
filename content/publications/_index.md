@@ -3,8 +3,8 @@ isIndex: true
 title: Blog
 url: blog
 hero:
-    surtitle: venn collective <span>alpha</span>
-    title: Blog<span>.</span>
+  surtitle: venn collective <span>alpha</span>
+  title: Blog<span>.</span>
 blocks:
   - type: paragraph
     grid: medium

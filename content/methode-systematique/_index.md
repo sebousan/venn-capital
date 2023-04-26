@@ -28,7 +28,7 @@ blocks:
     text: >-
       Si la plupart des gérants actifs sous-performent leurs indices de référence sur le long terme, le corollaire implique qu'une minorité y parvient. Il est intéressant de noter le caractère cyclique de cette génération d'alpha.
     figure:
-      src: /images/uploads/structure-de-frais.png
+      src: /images/uploads/datas-method.png
   - type: paragraph
     grid: medium
     text: >-
@@ -58,11 +58,49 @@ blocks:
   - type: figure
     grid: medium
     offset: start
+    surtitle: Pourquoi alors cette tendance massive à la diversification ?
     text: >-
-      Pourquoi alors cette tendance massive à la diversification ?
-
-
       L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
     figure:
       src: /images/uploads/diversification-2.png
+      legend: "Source : Petajisto, 2013"
+  - type: paragraph
+    grid: medium
+    surtitle: Comment espérer pouvoir surperformer en étant de plus en plus proche des indices ?
+  - type: quote
+    background: false
+    surtitle: Pour paraphraser…
+    quote: « Pour être irremplaçable, <span>il faut être différente ».</span>
+    author:
+      title: Coco Chanel
+      image:
+        src: /images/uploads/coco-chanel.png
+  - type: figure
+    grid: medium
+    offset: start
+    text: >-
+      Forte active share et portefeuille concentré sont des prérequis nécessaires pour obtenir une performance différentes de celles des indices.
+
+      
+      De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
+    figure:
+      src: /images/uploads/table-method.png
+  - type: quote
+    background: false
+    surtitle: Pour paraphraser…
+    quote: « Diversification for its own sake is not sensible…My view is that <span>an investor is better off knowing a</span> lot about a few investments than knowing only a little about each of <span>a great many holdings. »</span>
+    author:
+      title: Seth Klarman, Baupost
+      image:
+        src: /images/uploads/seth-klarman.png
+  - type: pushes
+    title: "Les stratégies <span>Venn Collective Alpha</span> capitalisent sur cette relation à plusieurs titres :"
+    columns: 3
+    items:
+      - surtitle: Relation 1
+        title: "via le choix des experts sélectionnés : ces derniers affichant eux-mêmes concentration et singularité."
+      - surtitle: Relation 2
+        title: "via la sélection de titres : en se focalisant sur les plus fortes convictions communes de ces experts."
+      - surtitle: Relation 3
+        title: "via la construction de portefeuille : en privilégiant des stratégies concentrées et équipondérées."
 ---

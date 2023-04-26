@@ -4,6 +4,9 @@ draft: false
 title: Qui sommes-nous ?
 hero:
   title: Qui sommes-nous ?
+  image:
+    src: /images/uploads/about-hero.png
+    background_image: true
 blocks:
   - type: paragraph
     align: start

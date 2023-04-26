@@ -17,6 +17,8 @@
         blockquote p
             @extend .h2
             margin-bottom: 0
+            @include media-breakpoint-only(xl)
+                font-size: 2rem
         figcaption
             display: block
             cite
@@ -70,5 +72,6 @@
                 left: calc(-25% - (#{$grid-gutter-width}/3))
         .quote
             padding: calc(25% + (#{$grid-gutter-width}/7*2))
+            padding-right: calc(12% + (#{$grid-gutter-width}/7*2))
             .heading
                 margin-left: -15%
