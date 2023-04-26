@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-02-26T10:16:39.202Z
-title: The Wahington Post
+title: The Washington Post
 description: "If you’re looking for an active fund, the first thing to be sure
   of is whether it is genuinely active — not just an expensive tracker. Even
   now, closet trackers — funds that charge you active fees but effectively track
