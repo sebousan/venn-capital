@@ -7,8 +7,8 @@ description: ""
 categories: Evènement
 image:
   src: /images/uploads/itw.png
-  credit: https://occur.fr/evenements/club-venn-capital
+  credit: ""
 ---
 Les équipes de Venn Capital ont animé un déjeuner-présentation le jeudi 20 octobre au Four Seasons Hotel Georges V Paris. Olivier Sibony, professeur de stratégie à HEC et auteur de nombreux ouvrages dont dernièrement "Noise", co-écrit avec le prix Nobel d'économie Daniel Kahneman, est intervenu lors de ce Club Occur x Venn sur la thématique "Intelligence collective : Comment exploiter la diversité des jugements pour améliorer le processus de décision ?"
 
-{{< button text="Voir la vidéo" url="https://www.youtube.com/watch?v=XXAm-jEt21I" blank="true" >}}
+{{< button text="Club Venn Capital x Occur" url="https://occur.fr/evenements/club-venn-capital" blank="true" >}}
