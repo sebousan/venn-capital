@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2022-12-30T10:47:13.109Z
-title: "2023: Back to the Future?"
+title: "2023 : Back to the Future?"
 description: >-
   En ces premiers jours de l'année, veuillez trouver nos dernières vues de
   marchés.
@@ -15,7 +15,7 @@ description: >-
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  title: "2023: Back to the Futur?"
+  title: ""
   file: /pdf/2023-back-to-the-future.pdf
 image:
   src: /images/uploads/back-to-the-future.jpeg
