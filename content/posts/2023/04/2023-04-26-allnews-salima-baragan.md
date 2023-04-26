@@ -3,6 +3,7 @@ isIndex: false
 draft: false
 date: 2022-04-25T08:18:40.644Z
 title: "Allnews - Salima Baragan "
+categories: Interview
 image:
   src: /images/uploads/allnews-logo.png
 ---
