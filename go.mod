@@ -10,6 +10,6 @@ require (
 	github.com/hugolify/hugolify-theme-persons-statutes v1.0.9 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.1.7 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.8 // indirect
-	github.com/hugolify/hugolify-theme-publications v1.1.9 // indirect
+	github.com/hugolify/hugolify-theme-publications v1.1.10 // indirect
 	github.com/twbs/bootstrap v5.2.3+incompatible // indirect
 )

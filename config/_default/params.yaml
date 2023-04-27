@@ -24,6 +24,7 @@ publications:
   thumbnail:
     _merge: deep
     desktop: "512x390"
+    mobile: "300x229"
 blocks:
   _merge: deep
   quote:

@@ -22,12 +22,12 @@
     .metas,
     .category
         font-size: px2rem(14)
-        letter-spacing: .03em
+        letter-spacing: px2rem(3)
         text-transform: uppercase
     .content
         grid-row: 3
     .name
-        margin-bottom: px2rem(40)
+        @include margin-bottom(40)
         & + p
             margin-bottom: 0
     .category
@@ -35,9 +35,12 @@
     .cta
         @extend .btn-secondary
         @extend .btn-arrow
-        bottom: 0
-        position: absolute
-        right: 0
+        @include media-breakpoint-down(md)
+            margin-top: 1rem
+        @include media-breakpoint-up(md)
+            bottom: 0
+            position: absolute
+            right: 0
         &::before
             bottom: 0
             content: ""

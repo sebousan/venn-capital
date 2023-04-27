@@ -15,12 +15,11 @@ footer[role="contentinfo"]
         --bs-nav-link-font-size: #{px2rem(10)}
         --bs-nav-link-font-weight: #{$font-weight-bold}
         a
-            letter-spacing: .03em
+            letter-spacing: px2rem(3)
             text-transform: uppercase
     .nav-primary
         @include margin-bottom(3.75rem)
         clear: both
-        column-count: 2
         display: block
         @include media-breakpoint-up(md)
             column-count: 3

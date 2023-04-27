@@ -1,1 +1,24 @@
-{{ partial "commons/filters/taxonomy.html" (dict "tax" "publications_authors" "current" .) }}
+{{ $current := . }}
+{{ $tax := "publications_authors" }}
+{{ if $tax }}
+  {{ $the_tax := index site.Taxonomies $tax }}
+  {{ with $the_tax }}
+    {{ $nTaxs := $the_tax | len }}
+    {{ $i18n := printf "%s.title" $tax }}
+    <div class="list list-{{ $tax }}">
+      <p>{{ i18n $i18n $nTaxs }}</p>
+      <ol>
+        {{ range $taxonomy_term, $taxonomy := . }}
+          {{ $page := .Page }}
+          <li>
+            {{ $class := "" }}
+            {{ if eq $current $page }}
+              {{ $class = " class='active'" }}
+            {{ end }}
+            <a href="{{ $page.Permalink }}"{{ $class | safeHTMLAttr }}>{{ i18n "publications.write_by" (dict "Person" $page.Title) }}</a>
+          </li>
+        {{ end }}
+      </ol>
+    </div>
+  {{ end }}
+{{ end }}

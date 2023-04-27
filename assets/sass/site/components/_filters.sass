@@ -1,7 +1,7 @@
 .offcanvas.filters
     @extend .offcanvas-lg
     @extend .offcanvas-end
-    @include media-breakpoint-up(lg)
+    @include media-breakpoint-up(xxl)
         margin-top: $global-spacing
         margin-bottom: $global-spacing
         position: static
@@ -25,13 +25,20 @@
             &:hover
                 color: white
                 background-color: $primary-lighten
+        &-publications_authors
+            ol
+                display: flex
 
-    @include media-breakpoint-down(lg)
+    @include media-breakpoint-down(xxl)
+        background-color: var(--bs-offcanvas-bg) !important
         .list
             li
                 margin-top: px2rem(20)
+            &-publications_authors
+                ol
+                    flex-direction: column-reverse
 
-    @include media-breakpoint-up(lg)
+    @include media-breakpoint-up(xxl)
         .content
             display: flex
             justify-content: center
@@ -49,7 +56,10 @@
             li
                 margin-left: px2rem(12)
                 margin-right: px2rem(12)
+            &-publications_authors
+                ol
+                    flex-direction: row-reverse
 
 .btn-filter
-    @extend .d-lg-none
+    @extend .d-xxl-none
     margin-right: auto

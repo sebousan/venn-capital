@@ -18,5 +18,5 @@ press:
   title: ""
   file: /pdf/2023-back-to-the-future.pdf
 image:
-  src: /images/uploads/back-to-the-future.jpeg
+  src: /images/uploads/back-to-the-future.png
 ---

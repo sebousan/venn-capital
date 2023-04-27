@@ -4,12 +4,13 @@
     
     {{ partial "blocks/heading.html" . }}
 
+    {{ $small := .small | default false }}
     {{ $column := 3 }}
     {{ with .column }}
       {{ $column = . }}
     {{ end }}
     {{ with .items }}
-    <div class="items items-{{ $column }}">
+    <div class="items items-{{ $column }}{{ if $small }} items-small{{ end }}">
       {{ range . }}
         <div>
           
@@ -46,10 +47,13 @@
               <a href="{{ .cta.url }}" {{ if $blank }} target="_blank" title="{{ $title }}"{{ end }}>
             {{ end }}
 
-            {{ if or .title .text .cta.text }}
+            {{ if or .surtitle .title .text .cta.text }}
             <div class="content">
               {{- with .surtitle }}
                 <p class="surtitle">{{ partial "func/PrepareHTML" . }}</p>
+              {{ end -}}
+              {{- with .surtitle2 }}
+                <p class="surtitle2">{{ partial "func/PrepareHTML" . }}</p>
               {{ end -}}
               {{- with .title }}
                 {{- printf "<%s>" $tag | safeHTML -}}

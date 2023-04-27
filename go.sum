@@ -24,5 +24,7 @@ github.com/hugolify/hugolify-theme-posts-tags v1.0.6 h1:yKYhxKVUxfuOmlmhg7on3jcI
 github.com/hugolify/hugolify-theme-posts-tags v1.0.6/go.mod h1:8Vb9TbKcVvgMTZpHdIp8vyw9loSTcY3q0BNvqv8WpLg=
 github.com/hugolify/hugolify-theme-publications v1.1.9 h1:iTwwk8cTmmCuDoVnFsiAUiGVzaMBtG7wOHys20pCRYY=
 github.com/hugolify/hugolify-theme-publications v1.1.9/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
+github.com/hugolify/hugolify-theme-publications v1.1.10 h1:XKtafkyGdgWdRmJ59oDgktx8WZN0ZLIzxQDjeynZGJg=
+github.com/hugolify/hugolify-theme-publications v1.1.10/go.mod h1:9hR8/sdinGo6o4DJpZMTdP1I8XYwUUq585WmeU1zwH8=
 github.com/twbs/bootstrap v5.2.3+incompatible h1:lOmsJx587qfF7/gE7Vv4FxEofegyJlEACeVV+Mt7cgc=
 github.com/twbs/bootstrap v5.2.3+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

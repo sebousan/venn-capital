@@ -17,6 +17,7 @@ publications:
     one: Article
     other: Articles
   title_person: Articles de {{ .Person }}
+  write_by: Rédigé par {{ .Person }}
 publications_authors:
   discover: Découvrir l’auteur
   latest: Derniers auteurs
