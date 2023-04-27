@@ -28,8 +28,7 @@ blocks:
     surtitle: Structure de frais
     figure:
       src: /images/uploads/structure-de-frais.png
-  - type: paragraph
-    grid: medium
+  - type: information
     text: >-
       Une structure de coup compressée permet de rendre une partie plus conséquente de la performance aux investisseurs et à plus long terme de créer un cercle vertueux : la performance “conservée” au sein des fonds sera capitalisée générant ainsi une assiette de création de valeur plus large.
   - type: figure

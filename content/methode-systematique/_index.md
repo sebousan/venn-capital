@@ -33,8 +33,12 @@ blocks:
     grid: medium
     text: >-
       Une autre façon d’adresser la problématique des biais naturellement présents au sein d’une gestion active est de s’attacher à introduire une méthodologie systématique. A l’instar de PageRank, nos stratégies systématiques exploitent l'intelligence collective d’experts en stock-picking en agrégeant des sources d'information que nous jugeons précieuses.
-
-
+  - type: information
+    text: >-
+      Les stratégies Venn Collective Alpha permettent de transformer les signaux provenant de gérants fondamentaux en un processus systématique de sélection de titres.
+  - type: paragraph
+    grid: medium
+    text: >-
       Une mécanique de rebalancement régulière et des techniques systématiques de construction de portefeuille sont aussi un moyen de nous affranchir de tous biais affectant parfois les gérants fondamentaux (entêtement, complaisance….).
   - type: paragraph
     grid: medium
