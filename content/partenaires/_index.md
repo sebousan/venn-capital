@@ -8,9 +8,9 @@ blocks:
   - type: quote
     quote: “Everything I’ve done has been collaborative”
     author:
-      title: Daniel Kahneman
+      title: Daniel Kahneman, prix Nobel d'Economie
       image:
-        src: /images/uploads/daniel-kahneman.jpg
+        src: ""
     background: false
     cta:
       blank: false
