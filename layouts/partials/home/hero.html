@@ -3,7 +3,7 @@
     {{ with .image }}
       {{ if .background_image }}
         {{ $picture_class := "hero-cover" }}
-        {{ $cover := site.Params.hero.cover }}
+        {{ $cover := site.Params.hero.cover_home }}
         {{ $mobile := site.Params.hero.cover_mobile }}
         {{ if .darken }}
           {{ $picture_class = printf "%s hero-cover-darken" $picture_class }}
@@ -15,7 +15,6 @@
             "mobile" $mobile
             "picture_class" $picture_class
             "lazy" false
-            "crop" "smart"
         ) }}
       {{ end }}
     {{ end }}

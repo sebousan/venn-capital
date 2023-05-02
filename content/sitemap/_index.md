@@ -3,6 +3,8 @@ draft: false
 title: Plan du site
 url: plan-du-site
 hero:
-    surtitle: Venn collective <span>alpha</span>
     title: Plan du site
+    image:
+        src: /images/uploads/hero-mentions.png
+        background_image: true
 ---

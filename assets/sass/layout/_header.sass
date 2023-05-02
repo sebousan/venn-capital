@@ -35,11 +35,13 @@ header[role="banner"]
         color: $header-color
         position: relative
         z-index: 1060
+        @include media-breakpoint-down(lg)
+            max-width: 160px
         img
             display: block
             @include media-breakpoint-down(lg)
                 height: auto
-                max-width: 60%
+                width: 100%
         & + .nav-secondary
             @include media-breakpoint-down(md)
                 display: none

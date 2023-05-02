@@ -5,9 +5,8 @@ description: à la croisée des mondes entre gestion active et gestion passive
 hero:
   title: L'intelligence collective au service de <span>l’investissement.</span>
   image:
-    src: /images/uploads/home-hero.png
+    src: /images/uploads/hero-home.png
     background_image: true
-  align: start
 blocks:
   - type: paragraph
     title: Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>. Difficile aujourd’hui de fermer les yeux sur <span>l’essor de la gestion passive</span>. Certains vont même jusqu'à imaginer la disparition prochaine de la <span>gestion active…</span>

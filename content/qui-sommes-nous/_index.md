@@ -5,7 +5,7 @@ title: Qui sommes-nous ?
 hero:
   title: Qui sommes-nous ?
   image:
-    src: /images/uploads/about-hero.png
+    src: /images/uploads/hero-qui-sommes-nous.png
     background_image: true
 blocks:
   - type: paragraph

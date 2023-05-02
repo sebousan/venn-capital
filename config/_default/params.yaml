@@ -2,8 +2,9 @@ _merge: deep
 animation: true
 hero:
   _merge: deep
-  cover: "x600"
-  cover_mobile: "x400"
+  cover: "1920x600"
+  cover_home: "1920x1080"
+  cover_mobile: "360x500"
 persons:
   _merge: deep
   image:
