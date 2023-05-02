@@ -11,23 +11,28 @@ blocks:
   - type: quote
     quote: “Everything I’ve done has been collaborative”
     author:
-      title: Daniel Kahneman
+      title: Daniel Kahneman, prix Nobel d'Economie
+      image:
+        src: ""
     background: false
     cta:
       blank: false
     offset: start
-  
   - type: paragraph
     grid: medium
     surtitle: "Société de gestion : Fédéral Finance Gestion"
-    text: >-
-      Afin de proposer nos stratégies au sein d’un cadre institutionnel robuste et innovant, nous avons noué des partenariats stratégiques avec des acteurs de premier plan.
+    text: Afin de proposer nos stratégies au sein d’un cadre institutionnel robuste
+      et innovant, nous avons noué des partenariats stratégiques avec des
+      acteurs de premier plan.
   - type: pushes
     column: 2
-    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces fonds</span>.
-    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes d’assurance vie :"
+    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces
+      fonds</span>.
+    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes
+      d’assurance vie :"
     items:
-      - title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa, Suravenir.
+      - title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa,
+          Suravenir.
         surtitle: AIS Venn Smart Alpha US P
         cta:
           url: "#"
@@ -36,12 +41,14 @@ blocks:
   - type: paragraph
     grid: medium
     surtitle: "Administrateur d’indices : LIXX Innovation"
-    text: >-
-      Les indices VENN sont administrés, calculés quotidiennement et disséminés auprès des bases d’informations financières par LIXX Index Innovation
+    text: Les indices VENN sont administrés, calculés quotidiennement et disséminés
+      auprès des bases d’informations financières par LIXX Index Innovation
   - type: pushes
     column: 2
-    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces fonds</span>.
-    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes d’assurance vie :"
+    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces
+      fonds</span>.
+    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes
+      d’assurance vie :"
     small: true
     items:
       - surtitle: Venn Europe index

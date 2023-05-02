@@ -10,7 +10,7 @@ hero:
 blocks:
   - align: start
     grid: medium
-    surtitle: à la croisé des mondes
+    surtitle: à la croisée des mondes
     title: Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>.
       Difficile aujourd’hui de fermer les yeux sur <span>l’essor de la gestion
       passive</span>. Certains vont même jusqu'à imaginer la disparition
