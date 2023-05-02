@@ -14,13 +14,7 @@
       {{ range . }}
         <div>
           
-          {{ $hasOnlyLink := false }}
-          {{ with .cta }}
-            {{ if and (or (not (isset . "text")) (eq .text "")) (and (isset . "url") (ne .url "")) }}
-              {{ $hasOnlyLink = true }}
-            {{ end }}
-          {{ end }}
-
+          {{ $hasOnlyLink := true }}
           {{ $pushClass := "push" }}
           {{ with .offset }}
             {{ $pushClass = printf "%s push-%s" $pushClass . }}
@@ -63,8 +57,8 @@
               {{- with .text }}
                 <p>{{ partial "func/PrepareHTML" . }}</p>
               {{ end -}}
-              {{ with .cta }}
-                {{ partial "commons/cta.html" . }}
+              {{ with .cta.url }}
+                <span class="cta">{{ i18n "more" }}</span>
               {{ end }}
             </div>
             {{ end }}
