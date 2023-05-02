@@ -1,6 +1,8 @@
 ---
 isIndex: false
 title: Dimitri Boismare
+firstname: Dimitri
+lastname: Boismare
 statutes: Associé fondateur
 image:
   src: /images/uploads/dimitri-boismare.png

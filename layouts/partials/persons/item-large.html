@@ -1,7 +1,7 @@
 <article class="person person-large" itemscope itemtype="https://schema.org/Person"{{ partial "func/SetAnim" (dict "element" "item") }}>
   <meta itemprop="url" content="{{ .Permalink }}">
   <div class="content">
-    {{ partial "commons/item/title" . }}
+    <h2>{{  partial "func/PrepareHTML" .Params.firstname }} <b>{{  partial "func/PrepareHTML" .Params.lastname }}</b></h2>
     {{- partial "commons/body.html" . -}}
   </div>
   {{ partial "persons/item/media" . }}

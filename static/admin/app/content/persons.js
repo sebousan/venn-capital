@@ -30,6 +30,8 @@ const persons = {
         isNotIndex,
         draft,
         title,
+        { name: 'firstname', label: 'Prénom', widget: 'string', i18n: 'duplicate' },
+        { name: 'lastname', label: 'Nom', widget: 'string', i18n: 'duplicate' },
         description,
         featured_image,
         contact,

@@ -1,6 +1,8 @@
 --- 
 isIndex: false
 title: Thomas Rault
+firstname: Thomas
+lastname: Rault
 statutes: Responsable du développement
 image:
   src: /images/uploads/thomas-rault.png

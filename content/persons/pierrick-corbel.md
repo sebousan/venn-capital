@@ -1,6 +1,8 @@
 ---
 isIndex: false
 title: Pierrick Corbel
+firstname: Pierrick
+lastname: Corbel
 statutes: Associé fondateur
 image:
   src: /images/uploads/pierrick-corbel.png
