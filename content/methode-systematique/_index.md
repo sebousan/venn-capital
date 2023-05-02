@@ -3,14 +3,10 @@ isPage: true
 draft: false
 title: Méthode systématique
 hero:
-  cta:
-    blank: false
-  cta_second:
-    blank: false
-  align: start
-  image:
-    darken: true
   title: Méthode systématique.
+  image:
+      src: /images/uploads/hero-methode-systematique.png
+      background_image: true
 blocks:
   - type: paragraph
     surtitle: la théorie de l’intelligence collective

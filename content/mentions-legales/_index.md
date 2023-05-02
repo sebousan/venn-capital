@@ -5,7 +5,9 @@ title: Mentions légales
 description: Page des mentions légales
 hero:
     title: Mentions légales
-    surtitle: Venn collective <span>alpha</span>
+    image:
+        src: /images/uploads/hero-mentions.png
+        background_image: true
 ---
 ## Bienvenue
 

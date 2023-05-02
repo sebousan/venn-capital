@@ -4,6 +4,9 @@ draft: false
 title: Partenaires
 hero:
   title: Partenaires<span>.</span>
+  image:
+      src: /images/uploads/hero-partenaires.png
+      background_image: true
 blocks:
   - type: quote
     quote: “Everything I’ve done has been collaborative”

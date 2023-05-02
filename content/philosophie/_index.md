@@ -3,14 +3,10 @@ isPage: true
 draft: false
 title: Philosophie
 hero:
-  cta:
-    blank: false
-  cta_second:
-    blank: false
-  align: start
-  image:
-    darken: true
   title: Philosophie<span>.</span>
+  image:
+      src: /images/uploads/hero-philosophie.png
+      background_image: true
 blocks:
   - align: start
     grid: medium

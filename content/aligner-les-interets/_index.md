@@ -3,10 +3,9 @@ isPage: true
 draft: false
 title: Aligner les intérêts
 hero:
-  align: start
   title: Aligner les intérêts<span>.</span>
   image:
-    src: /images/uploads/aligner-les-interets-hero.png
+    src: /images/uploads/hero-aligner-les-interets.png
     background_image: true
 blocks:
   - type: paragraph
