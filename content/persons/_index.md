@@ -5,6 +5,6 @@ url: notre-equipe
 hero:
   title: Notre équipe
   image:
-    src: /images/uploads/hero-team.png
+    src: /images/uploads/hero-notre-equipe.png
     background_image: true
 ---
