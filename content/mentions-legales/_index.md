@@ -57,7 +57,7 @@ Le site web www.venn-capital.com est la propriété de :
 75, bd Haussmann \
 75008 Paris \
 France
-
+SASU au capital de 114 285,00 € - RCS Paris B 852 018 191
 Président: M. Dimitri Boismare
 
 Directeurs de la Publication : M. Pierrick Corbel et M. Dimitri Boismare
