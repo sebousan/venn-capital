@@ -97,19 +97,19 @@
                         padding-top: 75%
 
     @include media-breakpoint-up(lg)
-        .cta
-            transform: translateY(100%) !important
-        a::after
-            transition: opacity .3s ease, transform .3s ease
-        .cta
-            transition: transform .3s ease !important
-        .content
-            transition: transform .3s ease-in-out !important
-        a:hover
-            &::after
-                opacity: 0
-                transform: translateY(100%)
-            .content
-                transform: translateY(-10%) !important
+        @media (prefers-reduced-motion: no-preference)
+            a::after
+                transition: opacity .3s ease, transform .3s ease
             .cta
-                transform: translateY(0) !important
+                transform: translateY(100%) !important
+                transition: transform .3s ease !important
+            // .content
+            //     transition: transform .3s ease-in-out !important
+            a:hover
+                &::after
+                    opacity: 0
+                    transform: translateY(100%)
+                // .content
+                //     transform: translateY(-10%) !important
+                .cta
+                    transform: translateY(0) !important
