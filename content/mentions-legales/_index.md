@@ -24,22 +24,22 @@ Les informations publiées sur le site ne sont en aucun cas une incitation ou un
 
 VENN CAPITAL, ses employés, ses contributeurs, ses partenaires et ses fournisseurs de données déclinent toute responsabilité dans l’utilisation qui pourrait être faite de cette information et des conséquences qui pourraient en découler, notamment au niveau des décisions qui pourraient être prises ou des actions qui pourraient être entreprises à partir de cette information.
 
-#﻿# Liens hypertextes et partenaires
+## Liens hypertextes et partenaires
 
 ‍Le Site présente des liens vers d’autres sites ainsi que des informations, publicité, promotions et offres émanant de tiers partenaires. VENN CAPITAL n’exerce aucun contrôle et décline toute responsabilité quant au contenu de ces sites et informations, publicité, promotions et offres. En conséquence, VENN CAPITAL ne saurait être tenu pour responsable en cas d’inexactitude ou dans l’hypothèse où ceux-ci contreviendraient aux lois en vigueur et/ou des conséquences dommageables directes ou indirectes qui pourraient en résulter pour l’utilisateur.
 
-#﻿# Droit d’auteur et propriété intellectuelle
+## Droit d’auteur et propriété intellectuelle
 
 Le site ainsi que tous les éléments le composant et notamment : les textes, les images fixes ou animées, les compositions sonores, la charte graphique, les bases de données, etc… sont la propriété exclusive de VENN CAPITAL et sont protégés au titre des dispositions du code de la propriété intellectuelle.
 Par exception, certains contenus (données, images) sont la propriété de leurs auteurs respectifs.
 En conséquence, toute reproduction ou représentation totale ou partielle de ce site ou d’un de ses éléments sans autorisation expresse et préalable de VENN CAPITAL est interdite et constituerait une contrefaçon punissable selon les dispositions du Code de la propriété intellectuelle et du Code pénal.
 Les marques, noms commerciaux et logos figurant sur ce site sont déposés. Leur reproduction totale ou partielle, effectuée à partir des éléments du site, est prohibée.
 
-#﻿# Recueil d’informations à caractère nominatif
+## Recueil d’informations à caractère nominatif
 
 Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, et au règlement RGPD - Règlement (UE) 2016/679 du 27 avril 2016, nous vous informons que les données à caractère nominatif recueillies auprès des internautes par l’intermédiaire du présent site Internet ne sauraient, en aucun cas, être transmises, à titre gratuit ou onéreux, à des tiers personnes physiques ou morales et ne seront utilisées que pour les seules nécessités de gestion interne ou pour satisfaire aux obligations légales ou réglementaires.
 
-#﻿# ‍Protection des données personnelles (RGPD)
+## ‍Protection des données personnelles (RGPD)
 
 VENN CAPITAL, en tant que Responsable de traitement, s’engage à respecter les dispositions du règlement
 (UE) n°2016/679 du 27 avril 2016 relatif à la protection des données à caractère personnel (RGPD).
@@ -71,8 +71,7 @@ Le site web venn-capital.com est héberger chez :
 Suite 296, \
 San Francisco, \
 California 94107, \
-United States
-
+United States \
 https://www.netlify.com
 
 ## Conception

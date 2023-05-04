@@ -29,8 +29,6 @@ blocks:
       - title: Neutraliser les biais grâce à l’intelligence collective.
         surtitle: Objectif 1
         text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H. Blanchard</cite>
-        image:
-          src: /images/uploads/brain.png
         cta:
           url: "/intelligence-collective/"
           text: En savoir

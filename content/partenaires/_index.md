@@ -10,9 +10,7 @@ hero:
 blocks:
   - type: title
     background: false
-    title: Afin de proposer nos stratégies au sein d’un cadre institutionnel robuste
-      et innovant, nous avons noué des partenariats stratégiques avec des
-      acteurs de premier plan.
+    title: Afin de proposer nos stratégies au sein d’un cadre institutionnel <span>robuste et innovant</span>, nous avons noué des partenariats stratégiques avec <span>des acteurs de premier plan</span>.
   - type: quote
     quote: “Everything I’ve done has been collaborative”
     author:
@@ -28,7 +26,7 @@ blocks:
     title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
       2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
       SMART ALPHA EUROPE et VENN SMART ALPHA US.
-    text: Retrouvez toutes les informations sur chacun de ces fonds.
+    text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
       - title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa,
           Suravenir.
