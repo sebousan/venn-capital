@@ -95,6 +95,12 @@
                 .push
                     &::before
                         padding-top: 75%
+        .cta
+            display: none
+    @include media-breakpoint-down(md)
+        .push > a::after
+            bottom: 1rem
+            right: 1rem
 
     @include media-breakpoint-up(lg)
         @media (prefers-reduced-motion: no-preference)

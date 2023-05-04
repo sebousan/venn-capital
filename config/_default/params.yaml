@@ -4,7 +4,7 @@ hero:
   _merge: deep
   cover: "1920x600"
   cover_home: "1920x1080"
-  cover_mobile: "360x500"
+  cover_mobile: "360x"
 persons:
   _merge: deep
   image:

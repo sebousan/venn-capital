@@ -4,3 +4,7 @@
             min-height: calc(#{$hero-min-height} * 1.2)
             @include media-breakpoint-up(xxl)
                 min-height: px2rem(1080)
+        &-cover
+            img
+                @include media-breakpoint-down(md)
+                    object-position: right bottom

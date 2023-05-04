@@ -6,6 +6,10 @@
             margin-bottom: 0
         .surtitle:not(:last-child)
             @include margin-bottom($global-spacing)
+    @include media-breakpoint-down(md)
+        .heading
+            h2 + p
+                margin-top: 1rem
     @include media-breakpoint-up(lg)
         .heading
             align-items: flex-start
