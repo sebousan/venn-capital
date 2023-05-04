@@ -5,9 +5,14 @@ title: Partenaires
 hero:
   title: Partenaires<span>.</span>
   image:
-      src: /images/uploads/hero-partenaires.png
-      background_image: true
+    src: /images/uploads/hero-partenaires.png
+    background_image: true
 blocks:
+  - type: title
+    background: false
+    title: Afin de proposer nos stratégies au sein d’un cadre institutionnel robuste
+      et innovant, nous avons noué des partenariats stratégiques avec des
+      acteurs de premier plan.
   - type: quote
     quote: “Everything I’ve done has been collaborative”
     author:
@@ -18,18 +23,12 @@ blocks:
     cta:
       blank: false
     offset: start
-  - type: paragraph
-    grid: medium
-    surtitle: "Société de gestion : Fédéral Finance Gestion"
-    text: Afin de proposer nos stratégies au sein d’un cadre institutionnel robuste
-      et innovant, nous avons noué des partenariats stratégiques avec des
-      acteurs de premier plan.
   - type: pushes
     column: 2
-    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces
-      fonds</span>.
-    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes
-      d’assurance vie :"
+    title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
+      2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
+      SMART ALPHA EUROPE et VENN SMART ALPHA US.
+    text: Retrouvez toutes les informations sur chacun de ces fonds.
     items:
       - title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa,
           Suravenir.
@@ -38,17 +37,12 @@ blocks:
           url: "#"
       - title: Generali, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa, Suravenir.
         surtitle: AIS Venn Smart Alpha Europe P
-  - type: paragraph
-    grid: medium
-    surtitle: "Administrateur d’indices : LIXX Innovation"
-    text: Les indices VENN sont administrés, calculés quotidiennement et disséminés
-      auprès des bases d’informations financières par LIXX Index Innovation
+    surtitle: "Société de gestion : Fédéral Finance Gestion"
   - type: pushes
     column: 2
-    title: Retrouvez toutes <span>les informations</span> sur chacun de <span>ces
-      fonds</span>.
-    text: "Les fonds AIS VENN sont référencés sur de nombreuses plates-formes
-      d’assurance vie :"
+    title: Les indices VENN sont administrés, calculés quotidiennement et disséminés
+      auprès des bases d’informations financières par LIXX Index Innovation
+    text: Retrouvez toutes les informations sur chacun de ces fonds.
     small: true
     items:
       - surtitle: Venn Europe index
@@ -67,6 +61,7 @@ blocks:
         cta:
           url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-emerging-asia-index
           blank: true
+    surtitle: "Administrateur d’indices : LIXX Innovation"
   - type: cta
     surtitle: Devenir partenaires ?
     title: Contactez-nous pour devenir un de nos partenaire stratégiques.
