@@ -14,7 +14,10 @@
       {{ range . }}
         <div>
           
-          {{ $hasOnlyLink := true }}
+          {{ $hasOnlyLink := false }}
+          {{ if isset .cta "url" }}
+            {{ $hasOnlyLink = true }}
+          {{ end }}
           {{ $pushClass := "push" }}
           {{ with .offset }}
             {{ $pushClass = printf "%s push-%s" $pushClass . }}

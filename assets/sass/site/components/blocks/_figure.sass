@@ -1,4 +1,8 @@
 .block-figure
+    padding-bottom: 0
+    padding-top: 0
+    .block-figure + &
+        @include padding-top($global-spacing)
     @include media-breakpoint-up(lg)
         .row > div
             margin-left: 8.33333333%

@@ -1,6 +1,8 @@
 .block-information
     padding-bottom: 0
     padding-top: 0
+    .block-figure + &
+        @include padding-top($global-spacing)
     .text
         @extend .h3
         @include padding($global-spacing $global-spacing-double)

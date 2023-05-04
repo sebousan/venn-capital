@@ -51,7 +51,7 @@ Ce site Web est régi par le droit français. Toute action relative à ce site W
 
 ## Editeur
 
-Le site web www.venn-capital.com est la propriété de :
+Le site web venn-capital.com est la propriété de :
 
 **Venn Capital** \
 75, bd Haussmann \

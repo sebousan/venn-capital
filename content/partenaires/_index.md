@@ -10,13 +10,15 @@ hero:
 blocks:
   - type: title
     background: false
-    title: Afin de proposer nos stratégies au sein d’un cadre institutionnel <span>robuste et innovant</span>, nous avons noué des partenariats stratégiques avec <span>des acteurs de premier plan</span>.
+    title: Afin de proposer nos stratégies au sein d’un cadre institutionnel
+      <span>robuste et innovant</span>, nous avons noué des partenariats
+      stratégiques avec <span>des acteurs de premier plan</span>.
   - type: quote
     quote: “Everything I’ve done has been collaborative”
     author:
       title: Daniel Kahneman, prix Nobel d'Economie
       image:
-        src: ""
+        src: /images/uploads/daniel-kahneman.jpg
     background: false
     cta:
       blank: false

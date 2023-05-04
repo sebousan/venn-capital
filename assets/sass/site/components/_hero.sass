@@ -1,6 +1,8 @@
 .hero
     .container
         @include padding-top(calc(#{$global-spacing} + #{$header-height}))
+        @include media-breakpoint-only(md)
+            min-height: calc(#{$hero-min-height} * .8)
         @include media-breakpoint-up(xxl)
             min-height: $hero-min-height-xxl
             padding-top: $header-height-xxl
@@ -25,9 +27,6 @@
         overflow: hidden
         img
             display: block
-            margin-left: auto
-            margin-right: auto
-            width: auto
             @include media-breakpoint-down(lg)
                 margin-top: 0
     & + .btn-down
