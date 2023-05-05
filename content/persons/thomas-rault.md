@@ -12,7 +12,7 @@ image:
   src: /images/uploads/thomas-rault.png
 datas:
   - title: 3 ans
-    text: d’expérience dans le développement commercial
+    text: d’expérience en gestion d'actifs
   - title: Expertise
     text: en développement commercial
 ---
