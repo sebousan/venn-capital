@@ -7,7 +7,7 @@ hero:
 blocks:
   - type: map
     background: false
-    location: '{"type":"Point","coordinates":[2.3200143,48.8742315]}'
+    location: '{"type":"Point","coordinates":[2.3222122,48.8743771]}'
     zoom: 16
     title: 75 boulevard Haussmann <span>75008 Paris</span>, France
     grid: full
