@@ -1,1 +1,2 @@
-{{ partial "commons/hero" . }}
+{{ $page := site.GetPage "/publications" }}
+{{ partial "commons/hero" $page }}

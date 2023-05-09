@@ -38,6 +38,8 @@ blocks:
         surtitle: Objectif 1
         text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H.
           Blanchard</cite>
+        image:
+          src: /images/uploads/brain.png
         cta:
           url: /intelligence-collective/
           text: En savoir
@@ -45,6 +47,8 @@ blocks:
         surtitle: Objectif 2
         text: <quote>« A machine beats a man, but a man plus a machine beats a
           machine »</quote> <cite>Gary Kasparov</cite>
+        image:
+          src: /images/uploads/brain.png
         cta:
           url: /methode-systematique/
       - title: Aligner les intérêts.
@@ -52,6 +56,8 @@ blocks:
         text: <quote>« Compound interest is the eighth wonder of the world. He who
           understands it, earns it; he who doesn't, pays it »</quote>
           <cite>Albert Einstein</cite>
+        image:
+          src: /images/uploads/brain.png
         cta:
           url: /aligner-les-interets/
     column: 3

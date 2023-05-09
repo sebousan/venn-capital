@@ -8,6 +8,7 @@
         @include padding($global-spacing $global-spacing-double)
         background: $primary-gradient
         color: white
+        margin-bottom: 0
         position: relative
         overflow: hidden
         @include media-breakpoint-up(lg)
@@ -15,20 +16,20 @@
             margin-right: 8.3333333%
         
         &::before
-            @include font-size(12rem)
-            bottom: -5%
+            bottom: -1.5rem
             color: $primary-lighten
             content: 'i'
-            left: 3%
+            font-size: 11rem
+            left: 2%
             line-height: 1
             opacity: .5
             pointer-events: none
             position: absolute
             @include media-breakpoint-up(md)
-                bottom: -9%
+                bottom: -2rem
+                font-size: 13rem
                 left: 4%
             @include media-breakpoint-up(xxl)
-                bottom: -11%
                 left: 2%
                 font-size: 15rem
 
