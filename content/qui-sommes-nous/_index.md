@@ -47,6 +47,14 @@ blocks:
         image:
           src: /images/uploads/icon-transparency.svg
           isLogo: true
+  - type: carousel
+    items:
+      - title: Ce concept stipule que, sous certaines conditions, au sein d ‘un groupe d’individus le savoir va tendre à s’additionner <span>alors que les biais vont se neutraliser</span>.
+        image:
+          src: /images/uploads/carousel-1.png
+      - title: Nous avons ainsi développé des stratégies systématiques qui capitalisent sur <span>les données publiques de portefeuilles</span> de gérants fondamentaux, tels des signaux. 
+        image:
+          src: /images/uploads/carousel-2.png
   - type: selected-persons
     section: persons
     surtitle: Notre équipe

@@ -1,0 +1,78 @@
+.carousel
+    &-item
+        &.active,
+        &-next,
+        &-prev
+            display: flex
+
+    &-item
+        background: $primary-darken
+        flex-direction: column-reverse
+        @include media-breakpoint-up(md)
+            flex-direction: row
+            &::before
+                background: $secondary
+                content: ''
+                height: 25%
+                left: 50%
+                transform: translate(-50%,-50%)
+                position: absolute
+                top: 50%
+                width: 2px
+    &-caption
+        @include padding(4rem)
+        align-items: center
+        background: $primary-gradient
+        display: flex
+        justify-content: center
+        position: static
+        text-align: center
+        width: 100%
+        @include media-breakpoint-only(md)
+            padding: 2rem
+        @include media-breakpoint-up(md)
+            width: 50%
+        h3
+            color: white
+            @include media-breakpoint-only(md)
+                font-size: 1.250rem
+            span
+                color: $secondary
+    &-indicators
+        margin-bottom: 1rem
+        @include media-breakpoint-up(md)
+            margin-bottom: 2rem
+            width: 50%
+        [data-bs-target]
+            border: 0
+            background: transparent
+            height: 2.5rem
+            margin: 0
+            padding: 0
+            width: 2.5rem
+            &::before
+                background: transparent
+                border: 1px solid white
+                border-radius: 50%
+                content: ''
+                display: block
+                height: .875rem
+                margin: auto
+                transition: border .3s ease, background .3s ease
+                width: .875rem
+                @include media-breakpoint-up(lg)
+                    height: 1.125rem
+                    width: 1.125rem
+        .active
+            &::before
+                background: $secondary
+                border-color: $secondary
+    picture
+        display: block
+        width: 100%
+        @include media-breakpoint-up(md)
+            width: 50%
+        img
+            display: block
+            height: auto
+            width: 100%

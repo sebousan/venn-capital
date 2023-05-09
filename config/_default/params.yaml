@@ -13,6 +13,8 @@ persons:
   thumbnail:
     _merge: deep
     desktop: "515x465"
+    mobile: "300x300"
+    scrollsnap: "240x240"
 posts:
   _merge: deep
   thumbnail:
@@ -27,6 +29,9 @@ publications:
     mobile: "300x229"
 blocks:
   _merge: deep
+  carousel:
+    desktop: "804x748"
+    mobile: "360x335"
   quote:
     _merge: deep
     desktop: "1023x767"
