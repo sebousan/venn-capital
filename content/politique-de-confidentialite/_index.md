@@ -6,17 +6,20 @@ hero:
     title: Politique de confidentialité
     surtitle: venn collective <span>alpha</span>
 ---
-## Données personnelles
+## Recueil d’informations à caractère nominatif
 
-Donec maximus a nulla ut feugiat. Duis a enim et ex commodo cursus. Pellentesque in vehicula turpis. Nulla tincidunt eleifend ligula mollis volutpat. Vivamus sed placerat purus. Pellentesque feugiat sed massa sed ullamcorper. Donec diam orci, mattis et elit non, pulvinar venenatis neque. Pellentesque vulputate nulla fermentum libero aliquam, ut gravida nisi pellentesque. Phasellus elementum sem id libero hendrerit feugiat. Sed ornare sed nunc non suscipit. Proin eros ipsum, ornare non suscipit non, viverra nec nunc. Quisque felis erat, faucibus a velit nec, hendrerit vestibulum nibh. Donec neque diam, cursus id facilisis nec, hendrerit quis justo. Morbi molestie dignissim vehicula. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Conformément à la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, et au règlement RGPD - Règlement (UE) 2016/679 du 27 avril 2016, nous vous informons que les données à caractère nominatif recueillies auprès des internautes par l’intermédiaire du présent site Internet ne sauraient, en aucun cas, être transmises, à titre gratuit ou onéreux, à des tiers personnes physiques ou morales et ne seront utilisées que pour les seules nécessités de gestion interne ou pour satisfaire aux obligations légales ou réglementaires.
 
-Cras iaculis libero velit, eu eleifend risus interdum eu. Aliquam a scelerisque dolor. Proin maximus, eros et pellentesque rhoncus, nisl massa iaculis diam, ut congue libero nulla at erat. Mauris commodo aliquam dolor et finibus. Integer et sem ac dolor molestie sagittis. Morbi iaculis felis a arcu condimentum, eu volutpat nunc finibus. Quisque viverra lobortis pellentesque. Maecenas euismod at lacus non venenatis. Nullam vel justo nisl.
+## ‍Protection des données personnelles (RGPD)
+
+VENN CAPITAL, en tant que Responsable de traitement, s’engage à respecter les dispositions du règlement
+(UE) n°2016/679 du 27 avril 2016 relatif à la protection des données à caractère personnel (RGPD).
 
 
-## Audience measurement
+## Mesure d’audience
 
-No audience measurement is used on this site.
+Aucune mesure d’audience n’est utilisée sur ce site.
 
 ## Cookies
 
-As we do not track the audience of the site, we do not use cookies. So you have nothing to accept or refuse.
+Comme nous ne suivons pas l’audience du site, nous n’utilisons pas de cookies. Vous n’avez donc rien à accepter ou à refuser.
