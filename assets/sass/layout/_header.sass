@@ -58,6 +58,8 @@ header[role="banner"]
                     line-height: 1.2
             a:hover
                 --bs-nav-link-hover-color: #{$primary-lighten}
+            a:not(.active):hover
+                text-decoration: none
             & + .nav-secondary
                 margin-top: 2rem
                 @include media-breakpoint-up(md)

@@ -3,6 +3,7 @@ import { availableBlocks } from '../settings/available-blocks.js';
 
 // import all blocks
 import { block_alert } from './alert.js'
+import { block_carousel } from './carousel.js'
 import { block_cta } from './cta.js'
 import { block_chart } from './chart.js'
 import { block_quote } from './quote.js'

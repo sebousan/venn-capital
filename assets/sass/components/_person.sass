@@ -22,33 +22,6 @@
         --bs-card-spacer-y: 2rem
         --bs-card-spacer-x: 2rem
         --bs-card-color: white
-        a::before,
-        a::after
-            content: ''
-            opacity: 0
-            position: absolute
-            transition: opacity .3s
-        a::before
-            background: $primary-gradient
-            bottom: 0
-            left: 0
-            right: 0
-            top: 0
-        a::after
-            @include icon("plus-lg")
-            background: $secondary-gradient
-            font-size: px2rem(40)
-            height: px2rem(90)
-            left: 50%
-            line-height: px2rem(90)
-            text-align: center
-            top: 50%
-            transform: translate(-50%, -50%)
-            width: px2rem(90)
-        a:hover
-            &::before,
-            &::after
-                opacity: .9
         .content
             bottom: 0
             display: flex
@@ -67,6 +40,36 @@
             margin-bottom: .5em
             order: -1
             text-transform: uppercase
+
+        @include media-breakpoint-up(lg)
+            @media (prefers-reduced-motion: no-preference)
+                a::before,
+                a::after
+                    content: ''
+                    opacity: 0
+                    position: absolute
+                    transition: opacity .3s
+                a::before
+                    background: $primary-gradient
+                    bottom: 0
+                    left: 0
+                    right: 0
+                    top: 0
+                a::after
+                    @include icon("plus-lg")
+                    background: $secondary-gradient
+                    font-size: px2rem(40)
+                    height: px2rem(90)
+                    left: 50%
+                    line-height: px2rem(90)
+                    text-align: center
+                    top: 50%
+                    transform: translate(-50%, -50%)
+                    width: px2rem(90)
+                a:hover
+                    &::before,
+                    &::after
+                        opacity: .9
     
     &-large
         --bs-card-spacer-y: 0

@@ -1,0 +1,22 @@
+.block-cta
+    .content
+        @include padding-bottom(4rem)
+        @include padding-top(4rem)
+        background-color: $light-darken
+        padding-left: 8.33333333%
+        padding-right: 8.33333333%
+        position: relative
+        &::before
+            background: $secondary
+            content: ''
+            height: 25%
+            left: 0
+            transform: translateY(-50%)
+            position: absolute
+            top: 50%
+            width: 2px
+        .heading
+            h2
+                padding-left: 0
+        .btn
+            @extend .btn-secondary

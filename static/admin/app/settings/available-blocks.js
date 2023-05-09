@@ -3,6 +3,7 @@ export const availableBlocks = [
     'cta',
     'informations',
     'pushes',
+    'carousel',
     // 'datas',
     'map',
     'quote',
