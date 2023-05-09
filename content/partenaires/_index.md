@@ -72,4 +72,6 @@ blocks:
     cta:
       text: Devenir partenaires ?
       url: /contactez-nous
+    image: 
+      src: /images/uploads/office.jpg
 ---

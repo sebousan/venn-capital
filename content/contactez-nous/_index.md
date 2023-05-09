@@ -3,7 +3,9 @@ isPage: true
 title: Contactez-nous
 hero:
   title: Contactez-nous
-  align: start
+  image:
+    src: /images/uploads/hero-qui-sommes-nous.png
+    background_image: true
 blocks:
   - type: cta
     surtitle: Venn Capital
@@ -12,6 +14,8 @@ blocks:
       url: mailto:middle@venn-capital.com
       text: middle@venn-capital.com
       blank: true
+    image: 
+      src: /images/uploads/office.jpg
   - type: map
     background: false
     location: '{"type":"Point","coordinates":[2.3222122,48.8743771]}'

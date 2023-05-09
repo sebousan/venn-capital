@@ -1,22 +1,48 @@
 .block-cta
-    .content
-        @include padding-bottom(4rem)
-        @include padding-top(4rem)
+    .cta
         background-color: $light-darken
-        padding-left: 8.33333333%
-        padding-right: 8.33333333%
+        display: flex
+        flex-direction: column-reverse
         position: relative
-        &::before
-            background: $secondary
-            content: ''
-            height: 25%
-            left: 0
-            transform: translateY(-50%)
-            position: absolute
-            top: 50%
-            width: 2px
+        @include media-breakpoint-up(md)
+            flex-direction: row
+            &::before
+                background: $secondary
+                content: ''
+                height: 25%
+                left: 0
+                transform: translateY(-50%)
+                position: absolute
+                top: 50%
+                width: 2px
+        picture
+            flex-shrink: 0
+            width: 100%
+            img
+                height: 100%
+                object-fit: cover
+                width: 100%
+            @include media-breakpoint-up(md)
+                width: calc(8.33333% * 5)
+            @include media-breakpoint-only(md)
+                width: calc(8.33333% * 4)
+        .content
+            align-items: flex-start
+            display: flex
+            flex-direction: column
+            justify-content: center
+            padding: 1rem 8.33333333%
+            @include media-breakpoint-only(md)
+                padding: 1rem 2rem
         .heading
+            @include margin-bottom(2rem)
+            display: block
+            .surtitle:not(:last-child)
+                @include margin-bottom(2rem)
             h2
                 padding-left: 0
+                padding-right: 0
+                @include media-breakpoint-only(md)
+                    font-size: 1.5rem
         .btn
             @extend .btn-secondary

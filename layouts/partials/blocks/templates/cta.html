@@ -2,9 +2,21 @@
   <section class="block-cta{{ with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
     <div class="container">
 
-      <div class="content">
-        {{ partial "blocks/heading.html" . }}
-        {{ partial "commons/cta.html" .cta }}
+      <div class="cta">
+        <div class="content">
+          {{ partial "blocks/heading.html" . }}
+          {{ partial "commons/cta.html" .cta }}
+        </div>
+        {{ with .image}}
+          {{ $desktop := site.Params.blocks.cta.desktop | default false }}
+          {{ $mobile := site.Params.blocks.cta.mobile | default false }}
+          {{ partial "commons/image.html" (dict
+              "src" .src
+              "alt" .alt
+              "desktop" $desktop
+              "mobile" $mobile
+            ) }}
+        {{ end }}
       </div>
 
     </div>

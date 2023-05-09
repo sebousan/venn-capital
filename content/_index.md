@@ -48,7 +48,7 @@ blocks:
         text: <quote>« A machine beats a man, but a man plus a machine beats a
           machine »</quote> <cite>Gary Kasparov</cite>
         image:
-          src: /images/uploads/brain.png
+          src: /images/uploads/rubikscube.jpg
         cta:
           url: /methode-systematique/
       - title: Aligner les intérêts.
@@ -57,7 +57,7 @@ blocks:
           understands it, earns it; he who doesn't, pays it »</quote>
           <cite>Albert Einstein</cite>
         image:
-          src: /images/uploads/brain.png
+          src: /images/uploads/puzzle.png
         cta:
           url: /aligner-les-interets/
     column: 3
