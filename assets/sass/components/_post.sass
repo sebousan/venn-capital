@@ -14,7 +14,6 @@
     .metas
         display: flex
         flex-direction: column
-        justify-content: center
     .metas
         color: $primary-medium
         grid-row: 2
@@ -26,6 +25,8 @@
         text-transform: uppercase
     .content
         grid-row: 3
+        @include media-breakpoint-down(sm)
+            padding-bottom: 0
     .name
         @include margin-bottom(40)
         & + p
@@ -35,8 +36,12 @@
     .cta
         @extend .btn-secondary
         @extend .btn-arrow
+        white-space: nowrap
         @include media-breakpoint-down(md)
             margin-top: 1rem
+        @include media-breakpoint-down(sm)
+            margin-left: -2rem
+            margin-right: -2rem
         @include media-breakpoint-up(md)
             bottom: 0
             position: absolute
@@ -50,7 +55,7 @@
             top: 0
             z-index: $stretched-link-z-index
     
-    @include media-breakpoint-up(md)
+    @include media-breakpoint-up(sm)
         grid-column-gap: $grid-gutter-width
         grid-template-columns: repeat(5, 1fr)
         .media

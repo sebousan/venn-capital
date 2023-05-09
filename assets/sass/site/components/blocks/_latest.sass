@@ -5,3 +5,7 @@
                 @extend .surtitle
                 color: var(--bs-body-color)
                 padding-left: 0
+
+    @include media-breakpoint-between(sm, lg)
+        .heading + div > *
+            --col-width: 90%

@@ -21,6 +21,7 @@
     .cta
         @extend .btn-secondary
         bottom: 0
+        display: none
         position: absolute
         right: 0
         z-index: 1
@@ -79,7 +80,7 @@
                 margin-top: 1rem
         
 
-    @include media-breakpoint-down(lg)
+    @include media-breakpoint-down(md)
         .items
             > div
                 --col-width: 85%
@@ -91,9 +92,6 @@
                 .push
                     &::before
                         padding-top: 75%
-        .cta
-            display: none
-    @include media-breakpoint-down(md)
         .push > a::after
             bottom: 1rem
             right: 1rem
@@ -110,6 +108,7 @@
             a::after
                 transition: opacity .3s ease, transform .3s ease
             .cta
+                display: block
                 transform: translateY(100%) !important
                 transition: transform .3s ease !important
             a:hover

@@ -51,9 +51,10 @@ header[role="banner"]
         &-primary
             flex-direction: column
             li
-                @include font-size(2rem)
+                font-size: 2rem
                 text-transform: uppercase
                 @include media-breakpoint-down(md)
+                    font-size: 1.25rem
                     line-height: 1.2
             a:hover
                 --bs-nav-link-hover-color: #{$primary-lighten}
