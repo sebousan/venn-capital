@@ -134,7 +134,7 @@ blocks:
         cta:
           url: /intelligence-collective/
         image:
-          src: /images/uploads/brain.png
+          src: /images/uploads/brain.jpg
       - title: Appliquer une méthode systématique et concentrée.
         surtitle: Numéro 2
         surtitle2: Solution

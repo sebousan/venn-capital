@@ -39,7 +39,7 @@ blocks:
         text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H.
           Blanchard</cite>
         image:
-          src: /images/uploads/brain.png
+          src: /images/uploads/brain.jpg
         cta:
           url: /intelligence-collective/
           text: En savoir
