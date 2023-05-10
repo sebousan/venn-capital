@@ -1,5 +1,8 @@
 _merge: deep
 animation: true
+gutter: 30
+container:
+  desktop: 1498
 hero:
   _merge: deep
   cover: "600x600"

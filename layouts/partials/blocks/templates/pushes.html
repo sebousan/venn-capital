@@ -72,7 +72,7 @@
               {{ $mobile := site.Params.container.mobile | default false }}
               {{ if $desktop }}
                 {{ $width := partial "func/GetColumnWidth" (dict "column" (div $columnTotal $column)) }}
-                {{ $desktop = printf "%sx" (string $width) }}
+                {{ $desktop = printf "%sx%s" (string $width) (string $width) }}
               {{ end }}
               {{ if $mobile }}
                 {{ $mobile = printf "%sx%s" (string $mobile) (string $mobile) }}
