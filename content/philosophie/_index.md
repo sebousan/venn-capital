@@ -5,8 +5,8 @@ title: Philosophie
 hero:
   title: Philosophie<span>.</span>
   image:
-      src: /images/uploads/hero-philosophie.png
-      background_image: true
+    src: /images/uploads/hero-philosophie.png
+    background_image: true
 blocks:
   - align: start
     grid: medium
@@ -24,7 +24,7 @@ blocks:
       d’allocation d’actifs ou de sélection de titres.
 
 
-      S’appuyant sur la théorie de l’efficience des marchés, développée dans les années 70 par l’économiste E. Fama et sur les travaux de Jack Bogle, fondateur de Vanguard, la gestion passive gagne des parts de marchés depuis près de vingt ans, au point que les encours s’y rattachant représentent désormais la majorité du secteur. 
+      S’appuyant sur la théorie de l’efficience des marchés, développée dans les années 70 par l’économiste E. Fama et sur les travaux de J.Bogle, fondateur de Vanguard, la gestion passive gagne des parts de marchés depuis près de vingt ans, au point que les encours s’y rattachant représentent désormais la majorité du secteur.
     background: false
     offset: start
     type: paragraph
