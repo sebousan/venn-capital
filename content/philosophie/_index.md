@@ -110,14 +110,14 @@ blocks:
         color: "#043F47"
       - cta:
           blank: false
-        title: La diversification à outrance des portefeuilles
+        title: La diversification à outrance des portefeuilles.
         surtitle: Numéro 2
         background_color: "#F7F7F7"
         color: "#043F47"
       - cta:
           blank: false
         surtitle: Numéro 3
-        title: La structure de frais
+        title: La structure de frais.
         background_color: "#F7F7F7"
         color: "#043F47"
   - type: pushes
