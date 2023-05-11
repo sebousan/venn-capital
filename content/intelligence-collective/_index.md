@@ -23,7 +23,7 @@ blocks:
 
       * Ses membres doivent émettre des jugements indépendants 
 
-      * Le tout doit être regroupé au sein d’un système d’agrégation objectif afin qu’en ressorte la décision « supercollective ».
+      * Le tout doit être regroupé au sein d’un système d’agrégation objectif afin qu’en ressorte la décision « supercollective »
 
 
       Si ces conditions préalables venaient à manquer, l’intelligence collective recherchée risquerait de se transformer en conformisme ! Le concept est en réalité très ancien puisque dans l’Antiquité déjà, Aristote évoquait dans son ouvrage « La Politique » que ‘la majorité, dont chaque membre pris à part n’est pas un homme remarquable, est cependant au-dessus des hommes supérieurs’. Diverses formalisations théoriques ont été apportées au fil des années : par Nicolas de Condorcet au 18ème siècle via son « Théorème du Jury » ou plus récemment, par l’américain Scott Page et son « Théorème de la Diversité ». Néanmoins, c’est dans ses applications empiriques que le phénomène d’intelligence collective est généralement le plus frappant.
