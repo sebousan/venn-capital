@@ -53,9 +53,6 @@ blocks:
 
 
       A l’instar de PageRank ou de Wikipedia, nos stratégies systématiques exploitent l’intelligence collective d’experts en stock-picking, en agrégeant des sources d’information que nous jugeons précieuses.
-
-
-      Les stratégies Venn Collective Alpha permettent de transformer les signaux provenant de gérants fondamentaux en un processus systématique de sélection de titres.
   - type: information
     text: Les stratégies Venn Collective Alpha permettent de transformer les signaux
       provenant de gérants fondamentaux en un processus systématique de
