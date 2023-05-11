@@ -46,7 +46,7 @@ blocks:
       Wikipédia ou encore l’algorithme de référencement de Google. 
 
 
-      Les débouchés sont donc multiples : de la résolution de problèmes simples (estimation d’une quantité), jusqu’à la racine du fonctionnement de nos démocraties modernes… et dans notre cas, la recherche d'un portefeuille optimal.
+      Les débouchés sont donc multiples, de la résolution de problèmes simples (estimation d’une quantité), jusqu’à la racine du fonctionnement de nos démocraties modernes et dans notre cas, la recherche d'un portefeuille optimal.
 
 
       L’idée de demander un deuxième avis (ou un troisième, ou un quatrième, …) sur des questions importantes semble naturelle. En effet, dans le domaine médical par exemple, il est rassurant d’obtenir plusieurs avis, plusieurs diagnostics. Prenons l’exemple d’un patient qui essaie de choisir entre différentes options de traitement et décide d’aller voir plusieurs experts médicaux. Si tous ces experts sont unanimes sur le diagnostic et le traitement recommandé, le patient sera quasiment assuré d’avoir les bonnes recommandations. 
