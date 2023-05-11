@@ -22,4 +22,4 @@ Après avoir débuté sa carrière dans la gestion et le trading de taux d’int
 
 En 2013, il devient associé-gérant chez Patrimoines & Sélections pour y développer la gestion actions.
 
-**Désormais associé fondateur chez Venn Capital avec Dimitri Boismare depuis 2019.**
+**Désormais associé fondateur chez Venn Capital aux côtés de Dimitri Boismare depuis 2019.**
