@@ -15,11 +15,15 @@
         justify-content: center
         margin-bottom: 0
         padding: $grid-gutter-width
-        blockquote p
-            @extend .h2
-            margin-bottom: 0
-            @include media-breakpoint-only(xl)
-                font-size: 2rem
+        blockquote 
+            p
+                @extend .h2
+                margin-bottom: 0
+                @include media-breakpoint-only(xl)
+                    font-size: 2rem
+            &.quote-long p
+                @include media-breakpoint-up(xxl)
+                    font-size: 2.25rem
         figcaption
             display: block
             cite
