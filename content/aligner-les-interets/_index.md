@@ -24,6 +24,7 @@ blocks:
     surtitle: Évolution des frais courants au sein des fonds
     figure:
       src: /images/uploads/evolution-des-frais.png
+      legend: "Source: Investment Company Institute; Morningstar Direct"
   - type: figure
     grid: medium
     offset: start
@@ -34,9 +35,8 @@ blocks:
   - type: information
     text: "Une structure de coup compressée permet de rendre une partie plus
       conséquente de la performance aux investisseurs et à plus long terme de
-      créer un cercle vertueux : la performance “conservée” au sein des fonds
-      sera capitalisée générant ainsi une assiette de création de valeur plus
-      large."
+      créer un cercle vertueux : la performance “conservée” sera capitalisée
+      générant ainsi une assiette de création de valeur plus large."
   - type: figure
     grid: medium
     offset: start
@@ -54,5 +54,5 @@ blocks:
       l’impact des frais de surperformance !). 
 
 
-      Enfin, l’alignement des intérêts ne se limite pas à nos yeux à une politique tarifaire. Cela passe aussi par de la transparence, une liquidité optimale, etc…
+      Enfin, l’alignement des intérêts ne se limite pas à nos yeux à une politique tarifaire. Cela passe aussi par de la transparence et une liquidité optimale.
 ---

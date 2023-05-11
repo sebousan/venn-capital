@@ -30,8 +30,8 @@ blocks:
   - type: pushes
     surtitle: Nos objectifs
     title: Délivrer une <span>surperformance pérenne</span> via une stratégie
-      fondamentale dans sa philosophie et disciplinée dans <span>sa
-      mécanique.</span>
+      <span>fondamentale</span> dans sa philosophie et <span>disciplinée</span>
+      dans sa mécanique.
     columns: 3
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
@@ -45,7 +45,7 @@ blocks:
           text: En savoir
       - title: Appliquer une méthode systématique.
         surtitle: Objectif 2
-        text: <quote>« A machine beats a man, but a man plus a machine beats a
+        text: <quote>« A machine beats a man, but a man plus a machine beat a
           machine »</quote> <cite>Gary Kasparov</cite>
         image:
           src: /images/uploads/rubikscube.jpg
@@ -64,8 +64,8 @@ blocks:
   - type: selected-persons
     section: persons
     surtitle: Notre équipe
-    title: La stratégie Venn Smart Alpha est fondamentale dans sa philosophie mais
-      quantitative dans sa mise en œuvre.
+    title: La stratégie Venn Collective Alpha est fondamentale dans sa philosophie
+      mais quantitative dans sa mise en œuvre.
     items:
       - dimitri-boismare
       - pierrick-corbel

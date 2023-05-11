@@ -6,7 +6,7 @@ lastname: Rault
 contact:
   linkedin: https://www.linkedin.com/in/thomas-rault-a0b80610b/
   email: t.rault@venn-capital.com
-  phone: +33 6 45 20 27 95
+  phone: +33 6 82 89 57 25
 statutes: Responsable du développement
 image:
   src: /images/uploads/thomas-rault.png

@@ -8,13 +8,13 @@ hero:
     src: /images/uploads/hero-qui-sommes-nous.png
     background_image: true
 blocks:
-  - type: paragraph
-    align: start
+  - align: start
     grid: medium
     surtitle: Notre histoire
-    title: Venn a été fondée en 2019 afin de développer des <span>stratégies actions innovantes</span>, uniques en Europe à la croisée des mondes <span>entre gestion active et gestion passive.</span>
     text: >-
-      Bien qu’étant convaincus du bien-fondé d’une approche d’investissement fondamentale, nous avons néanmoins constaté la montée en puissance de la gestion passive.
+      Bien qu’étant convaincus du bien-fondé d’une approche d’investissement
+      fondamentale, nous avons néanmoins constaté la montée en puissance de la
+      gestion passive.
 
 
       Il est en effet souvent reproché à la gestion active un manque de génération d’alpha sur le long terme et c’est généralement l’argument des frais prohibitifs qui est mis en avant pour expliquer ce phénomène. 
@@ -28,10 +28,15 @@ blocks:
     cta:
       blank: false
     offset: start
+    title: Venn a été fondée en 2019 afin de développer des <span>stratégies actions
+      innovantes</span>, uniques en Europe à la croisée des mondes <span>entre
+      gestion active et gestion passive.</span>
+    type: paragraph
   - type: informations
     column: 4
     items:
-      - title: Alpha des plus <strong>fortes convictions</strong> de gérants fondamentaux
+      - title: Alpha des plus <strong>fortes convictions</strong> de gérants
+          fondamentaux
         image:
           src: /images/uploads/icon-alpha.svg
           isLogo: true
@@ -39,20 +44,26 @@ blocks:
         image:
           src: /images/uploads/icon-diversification.svg
           isLogo: true
-      - title: Notre cerveau agit sur nos choix. Lissage des <strong>biais cognitifs</strong>
+      - title: Notre cerveau agit sur nos choix. Lissage des <strong>biais
+          cognitifs</strong>
         image:
           src: /images/uploads/icon-brain.svg
           isLogo: true
-      - title: Transparence totale avec la <strong>publication des inventaires complets</strong>
+      - title: Transparence totale avec la <strong>publication des inventaires
+          complets</strong>
         image:
           src: /images/uploads/icon-transparency.svg
           isLogo: true
   - type: carousel
     items:
-      - title: Ce concept stipule que, sous certaines conditions, au sein d ‘un groupe d’individus le savoir va tendre à s’additionner <span>alors que les biais vont se neutraliser</span>.
+      - title: Ce concept stipule que, sous certaines conditions, au sein d‘un groupe
+          d’individus le savoir va tendre à s’additionner <span>alors que les
+          biais vont se neutraliser</span>.
         image:
           src: /images/uploads/carousel-1.png
-      - title: Nous avons ainsi développé des stratégies systématiques qui capitalisent sur <span>les données publiques de portefeuilles</span> de gérants fondamentaux, tels des signaux. 
+      - title: Nous avons ainsi développé des stratégies systématiques qui capitalisent
+          sur <span>les données publiques de portefeuilles</span> de gérants
+          fondamentaux, tels des signaux. 
         image:
           src: /images/uploads/carousel-2.png
   - type: selected-persons
