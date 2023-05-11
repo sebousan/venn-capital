@@ -9,7 +9,7 @@ hero:
     background_image: true
 blocks:
   - type: paragraph
-    surtitle: la théorie de l’intelligence collective
+    surtitle: Appliquer une méthode systématique
     title: La théorie financière repose sur <span>l'hypothèse de rationalité des
       investisseurs</span>. Or, la finance comportementale enseigne que l'homo
       oeconomicus n'existe pas. L'humain est <span>sensible aux émotions</span>
