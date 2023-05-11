@@ -54,5 +54,5 @@ blocks:
       l’impact des frais de surperformance !). 
 
 
-      Enfin, l’alignement des intérêts ne se limite pas à nos yeux à une politique tarifaire. Cela passe aussi par de la transparence, une liquidité optimale, etc…
+      Enfin, l’alignement des intérêts ne se limite pas à nos yeux à une politique tarifaire. Cela passe aussi par de la transparence et une liquidité optimale.
 ---
