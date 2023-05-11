@@ -52,7 +52,7 @@ blocks:
     surtitle: La face cachée de l’alpha
     text: >-
       Ainsi, les gérants actifs auraient bien une aptitude à la sélection de
-      titres, mais cela ne se reflèterait pas dans les performances nettes des
+      titres mais cela ne se reflèterait pas dans les performances nettes des
       fonds. La minorité qui bat les indices ne serait donc en réalité que la
       partie émergée de l’iceberg... ? Quelles sont les raisons structurelles
       qui viennent diluer, voire annihiler la capacité de création de valeur de
