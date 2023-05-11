@@ -34,7 +34,8 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/datas-method.png
-      legend: "Source: Standard & Poor's"
+      legend: "Source: S&P Global"
+      credit: https://www.spglobal.com/spdji/en/documents/spiva/persistence-scorecard-year-end-2021.pdf
   - type: paragraph
     grid: medium
     text: Une autre façon d’adresser la problématique des biais naturellement
