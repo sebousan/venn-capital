@@ -24,7 +24,7 @@ blocks:
     surtitle: Évolution des frais courants au sein des fonds
     figure:
       src: /images/uploads/evolution-des-frais.png
-      legend: "Source: Investment Company Institute; Mornigstar Direct"
+      legend: "Source: Investment Company Institute; Morningstar Direct"
   - type: figure
     grid: medium
     offset: start
