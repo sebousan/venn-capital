@@ -64,8 +64,8 @@ blocks:
   - type: selected-persons
     section: persons
     surtitle: Notre équipe
-    title: La stratégie Venn Smart Alpha est fondamentale dans sa philosophie mais
-      quantitative dans sa mise en œuvre.
+    title: La stratégie Venn Collective Alpha est fondamentale dans sa philosophie
+      mais quantitative dans sa mise en œuvre.
     items:
       - dimitri-boismare
       - pierrick-corbel
