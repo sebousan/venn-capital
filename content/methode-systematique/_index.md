@@ -139,4 +139,16 @@ blocks:
         title: "via la construction de portefeuille : en privilégiant des stratégies
           concentrées et équipondérées."
     column: 3
+  - type: paragraph
+    grid: large
+    offset: start
+    align: start
+    cta:
+      blank: false
+    background: false
+    surtitle: PORTEFEUILLES SUPERCOLLECTIFS
+    text: Si la plupart des gérants actifs sous-performent leurs indices de
+      référence sur le long terme, le corollaire implique qu’une minorité y
+      parvient. Il est intéressant de noter le caractère cyclique de cette
+      génération d’alpha.
 ---
