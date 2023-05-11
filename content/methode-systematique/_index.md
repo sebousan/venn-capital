@@ -140,7 +140,7 @@ blocks:
           concentrées et équipondérées."
     column: 3
   - type: paragraph
-    grid: large
+    grid: medium
     offset: start
     align: start
     cta:
