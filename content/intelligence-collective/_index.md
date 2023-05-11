@@ -64,8 +64,8 @@ blocks:
       src: /images/uploads/graphic-intelligence.png
   - type: paragraph
     grid: medium
-    title: L’erreur de jugement est autant liée aux <span>biais</span> qu’à la
-      variabilité des jugements (le <span>bruit</span>).
+    title: L’erreur de jugement est autant liée aux biais qu’à la variabilité des
+      jugements (le bruit).
     text: >-
       Pour illustrer ces notions, prenons un exemple de jeu de fléchettes tels
       que représentés dans la figure ci-dessous.
