@@ -73,7 +73,7 @@ blocks:
     section: posts
     count: 2
     show_more: false
-    background: false
+    background: true
     title: Actualités récentes
   - type: informations
     column: 4
