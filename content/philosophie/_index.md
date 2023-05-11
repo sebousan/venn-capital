@@ -140,10 +140,14 @@ blocks:
         surtitle2: Solution
         cta:
           url: /methode-systematique/
+        image:
+          src: /images/uploads/rubikscube.jpg
       - title: Aligner les intérêts via une tarification allégée et une transparence
           totale.
         surtitle: Numéro 3
         surtitle2: Solution
         cta:
           url: /aligner-les-interets/
+        image:
+          src: /images/uploads/puzzle.png
 ---
