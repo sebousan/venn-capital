@@ -56,10 +56,10 @@ blocks:
       fonds. La minorité qui bat les indices ne serait donc en réalité que la
       partie émergée de l’iceberg... ? Quelles sont les raisons structurelles
       qui viennent diluer, voire annihiler la capacité de création de valeur de
-      la gestion active ? La première entrave évidente - et quantifiable par
-      tous - réside dans les frais de gestion, parfois prohibitifs, qui viennent
-      naturellement ronger la surperformance générée par ces gérants de
-      portefeuille. 
+      la gestion active ? 
+
+
+      La première entrave évidente - et quantifiable par tous - réside dans les frais de gestion, parfois prohibitifs, qui viennent naturellement ronger la surperformance générée par ces gérants de portefeuille. 
 
 
       Un deuxième élément est lié à un phénomène moins connu, mais qui peut être également très néfaste : la diversification à outrance des portefeuilles... Les américains surnomment ce phénomène la deworstification (traduction approximative : « dispersification »). Il s’explique par plusieurs facteurs de pression, externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques qui imposent des limites de tracking-error…  Or il est démontré que l’idée incrémentale est souvent moins bonne, venant ainsi diluer l’alpha des plus fortes convictions…
