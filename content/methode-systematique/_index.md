@@ -26,9 +26,6 @@ blocks:
 
 
       Comment allier les forces de la machine et de l’homme au sein de l’investissement ?
-
-
-      Si la plupart des gérants actifs sous-performent leurs indices de référence sur le long terme, le corollaire implique qu'une minorité y parvient. Il est intéressant de noter le caractère cyclique de cette génération d'alpha.
   - type: paragraph
     grid: medium
     offset: start
