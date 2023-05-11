@@ -34,6 +34,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/datas-method.png
+      legend: "Source: Standard & Poor's"
   - type: paragraph
     grid: medium
     text: Une autre façon d’adresser la problématique des biais naturellement
