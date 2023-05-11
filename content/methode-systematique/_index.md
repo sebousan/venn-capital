@@ -52,9 +52,6 @@ blocks:
       subjectivité, de ses biais...
 
 
-       
-
-
       A l’instar de PageRank ou de Wikipedia, nos stratégies systématiques exploitent l’intelligence collective d’experts en stock-picking, en agrégeant des sources d’information que nous jugeons précieuses.
 
 
