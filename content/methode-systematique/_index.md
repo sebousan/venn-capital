@@ -69,10 +69,12 @@ blocks:
 
 
       En étant pleinement conscients des avantages et limites des deux approches (fondamentale / quantitative) nous sommes en mesure de marier le meilleur des deux mondes afin de développer une approche plus robuste. Cette dernière s’appuie sur des algorithmes et les récentes découvertes dans le domaine de la prévision, de la théorie de la décision et de la finance comportementale.
-
-
-      En appliquant un cadre discipliné à des décisions fondamentales, nous cherchons à gommer nos propres biais comportementaux mais aussi ceux des experts à l’origine des signaux d’investissement. Cela nous permet de proposer des stratégies fiables, robustes et pérennes pour l’investisseur.
     surtitle: Une construction de portefeuille disciplinée
+  - type: information
+    text: En appliquant un cadre discipliné à des décisions fondamentales, nous
+      cherchons à gommer nos propres biais comportementaux mais aussi ceux des
+      experts à l’origine des signaux d’investissement. Cela nous permet de
+      proposer des stratégies fiables, robustes et pérennes pour l’investisseur.
   - type: figure
     grid: medium
     offset: start
