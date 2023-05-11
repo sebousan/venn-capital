@@ -35,9 +35,8 @@ blocks:
   - type: information
     text: "Une structure de coup compressée permet de rendre une partie plus
       conséquente de la performance aux investisseurs et à plus long terme de
-      créer un cercle vertueux : la performance “conservée” au sein des fonds
-      sera capitalisée générant ainsi une assiette de création de valeur plus
-      large."
+      créer un cercle vertueux : la performance “conservée” sera capitalisée
+      générant ainsi une assiette de création de valeur plus large."
   - type: figure
     grid: medium
     offset: start
