@@ -60,18 +60,19 @@ blocks:
   - type: paragraph
     grid: medium
     text: >-
-      Une mécanique de rebalancement régulière et des techniques systématiques
-      de construction de portefeuille sont aussi un moyen de nous affranchir de
-      tous biais affectant parfois les gérants fondamentaux (entêtement,
-      complaisance….).
+      Par ailleurs, il est également possible d’adresser la problématique des
+      biais naturellement présents au sein d’une gestion active en s’appuyant
+      sur une méthodologie systématique.
 
 
+      Une mécanique de rebalancement régulière et des techniques systématiques de construction de portefeuille sont aussi un moyen de nous affranchir de tous biais affectant parfois les gérants fondamentaux (entêtement, complaisance….).
 
 
-      En étant pleinement conscients des avantages et limites des deux approches (fondamentale / quantitative) nous sommes en mesure de marier le meilleur des deux mondes afin de développer une approche plus robuste. Cette dernière s’appuie sur des algorithmes et les récentes découvertes dans le domaine de la prévision, de la théorie de la décision et de la finance comportementale. Les stratégies Venn Collective Alpha permettent de transformer les signaux provenant de gérants fondamentaux en un processus systématique de sélection de titres.
+      En étant pleinement conscients des avantages et limites des deux approches (fondamentale / quantitative) nous sommes en mesure de marier le meilleur des deux mondes afin de développer une approche plus robuste. Cette dernière s’appuie sur des algorithmes et les récentes découvertes dans le domaine de la prévision, de la théorie de la décision et de la finance comportementale.
 
 
       En appliquant un cadre discipliné à des décisions fondamentales, nous cherchons à gommer nos propres biais comportementaux mais aussi ceux des experts à l’origine des signaux d’investissement. Cela nous permet de proposer des stratégies fiables, robustes et pérennes pour l’investisseur.
+    surtitle: Une construction de portefeuille disciplinée
   - type: figure
     grid: medium
     offset: start
