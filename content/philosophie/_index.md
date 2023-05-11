@@ -93,7 +93,7 @@ blocks:
       propre ennemi.
 
 
-      à la lumière de ces éléments, plutôt que d’opposer gestion active et gestion passive, une troisième voie peut-elle être envisagée ?
+      A la lumière de ces éléments, plutôt que d’opposer gestion active et gestion passive, une troisième voie peut-elle être envisagée ?
   - type: pushes
     column: 3
     background: false
