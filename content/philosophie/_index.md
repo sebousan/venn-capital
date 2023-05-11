@@ -43,7 +43,7 @@ blocks:
       serait donc impossible de ‘battre le Marché’ comme cherchent à le faire
       les gérants actifs…\
 
-      Cette supposition se vérifie en moyenne, puisque sur dix ans 75% à 90% des gérants actifs sous-performent face à un fonds passif. 
+      Cette supposition se vérifie généralement, puisque sur dix ans 75% à 90% des gérants actifs sous-performent face à un fonds passif.
 
 
       Déçus par les performances délivrées au regard des frais prélevés, les investisseurs se sont détournés de la gestion active et c’est ainsi que peu à peu la gestion passive s’est imposée au sein du paysage de l’offre d’épargne.
