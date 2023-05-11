@@ -52,7 +52,7 @@ blocks:
       L’idée de demander un deuxième avis (ou un troisième, ou un quatrième, …) sur des questions importantes semble naturelle. En effet, dans le domaine médical par exemple, il est rassurant d’obtenir plusieurs avis, plusieurs diagnostics. Prenons l’exemple d’un patient qui essaie de choisir entre différentes options de traitement et décide d’aller voir plusieurs experts médicaux. Si tous ces experts sont unanimes sur le diagnostic et le traitement recommandé, le patient sera quasiment assuré d’avoir les bonnes recommandations. 
 
 
-      Il est possible de généraliser ce principe en stipulant les systèmes « multi-experts » sont plus robustes que les systèmes « mono-expert » à deux niveaux : en termes de résultats donc, mais également à l’échelle de la confiance à l’égard de ce résultat.
+      Il est possible de généraliser ce principe en stipulant que les systèmes « multi-experts » sont plus robustes que les systèmes « mono-expert » à deux niveaux : en termes de résultats donc, mais également à l’échelle de la confiance à l’égard de ce résultat.
 
 
       Les mathématiques, en particulier les lois de probabilités, fournissent une explication claire à ce principe. La combinaison d’avis d’experts se traduit par des résultats plus justes (moins de biais) et moins variables (moins de bruit).
