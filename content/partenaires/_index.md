@@ -25,6 +25,8 @@ blocks:
     offset: start
   - type: pushes
     column: 2
+    image:
+      src: /images/uploads/logo-federal-gestion.png
     title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
       2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
       SMART ALPHA EUROPE et VENN SMART ALPHA US.
@@ -44,6 +46,8 @@ blocks:
     surtitle: "Société de gestion : Fédéral Finance Gestion"
   - type: pushes
     column: 2
+    image:
+      src: /images/uploads/logo-lixx-index-innovation.svg
     title: Les indices VENN sont administrés, calculés quotidiennement et disséminés
       auprès des bases d’informations financières par LIXX Index Innovation
     text: Retrouvez toutes les informations sur chacun de ces fonds.
@@ -70,7 +74,7 @@ blocks:
     surtitle: Devenir partenaires ?
     title: Contactez-nous pour devenir un de nos partenaire stratégiques.
     cta:
-      text: Devenir partenaires ?
+      text: Contactez-nous
       url: /contactez-nous
     image: 
       src: /images/uploads/office.jpg

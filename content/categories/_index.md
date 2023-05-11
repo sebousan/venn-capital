@@ -2,8 +2,8 @@
 isIndex: true
 title: Catégories
 url: /actualites/categories
-hero: 
+hero:
   image:
-      src: /images/uploads/hero-actualites.png
-      background_image: true
+    src: /images/uploads/hero-blog.png
+    background_image: true
 ---

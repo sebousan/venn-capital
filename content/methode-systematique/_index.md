@@ -75,9 +75,8 @@ blocks:
       cherchons à gommer nos propres biais comportementaux mais aussi ceux des
       experts à l’origine des signaux d’investissement. Cela nous permet de
       proposer des stratégies fiables, robustes et pérennes pour l’investisseur.
-  - type: figure
+  - type: paragraph
     grid: medium
-    offset: start
     surtitle: Concentration et équipondération
     text: >-
       Dans les années 50, Harry Markowitz développait la ‘Théorie Moderne du
@@ -88,6 +87,9 @@ blocks:
 
 
       En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le Prix Nobel d’Economie pour leurs contributions à la finance moderne. Leurs travaux ont bien sûr grandement influencé le monde de la gestion d’actifs, en essaimant l’idée qu’il est risqué de détenir un petit nombre d'actions car cela fait prendre des risques spécifiques trop importants. Pourtant, l’analyse empirique montre qu’un portefeuille d’une trentaine de titres permet de largement diminuer les risques idiosyncratiques.
+  - type: figure
+    grid: medium
+    offset: start
     figure:
       src: /images/uploads/diversification.png
   - type: figure

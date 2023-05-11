@@ -18,6 +18,13 @@
                 --push-background-color: #{$primary}
     .content
         overflow: hidden
+    .logo
+        @include margin-bottom($global-spacing)
+        height: 100px
+        width: auto
+    .surtitle + picture
+        @include media-breakpoint-up(lg)
+            margin-left: 8.33333333%
     .cta
         @extend .btn-secondary
         bottom: 0
@@ -25,13 +32,6 @@
         position: absolute
         right: 0
         z-index: 1
-    picture
-        bottom: 0
-        display: none
-        left: 0
-        position: absolute
-        right: 0
-        top: 0
 
     .items-small .push
         --bs-aspect-ratio: 30%
@@ -80,8 +80,14 @@
                 color: $primary-lighten
                 display: block
                 margin-top: 1rem
+        picture
+            bottom: 0
+            display: none
+            left: 0
+            position: absolute
+            right: 0
+            top: 0
         
-
     @include media-breakpoint-down(md)
         .items
             > div
@@ -100,24 +106,25 @@
 
     @include media-breakpoint-up(lg)
         @media (prefers-reduced-motion: no-preference)
-            .content
-                overflow: hidden
-                transform: none !important
-            picture
-                display: block
-                opacity: 0
-                transition: opacity .3s ease-in-out
-            a::after
-                transition: opacity .3s ease, transform .3s ease
-            .cta
-                display: block
-                transform: translateY(100%) !important
-                transition: transform .3s ease !important
-            a:hover
-                &::after
-                    opacity: 0
-                    transform: translateY(100%)
-                .cta
-                    transform: translateY(0) !important
+            .push
+                .content
+                    overflow: hidden
+                    transform: none !important
                 picture
-                    opacity: 1
+                    display: block
+                    opacity: 0
+                    transition: opacity .3s ease-in-out
+                a::after
+                    transition: opacity .3s ease, transform .3s ease
+                .cta
+                    display: block
+                    transform: translateY(100%) !important
+                    transition: transform .3s ease !important
+                a:hover
+                    &::after
+                        opacity: 0
+                        transform: translateY(100%)
+                    .cta
+                        transform: translateY(0) !important
+                    picture
+                        opacity: 1
