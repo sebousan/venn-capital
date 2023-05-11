@@ -11,7 +11,7 @@ statutes: Associé fondateur
 image:
   src: /images/uploads/dimitri-boismare.png
 datas:
-  - title: 15 ans
+  - title: 20 ans
     text: d’expérience dans le domaine de la sélection de gérants
   - title: Expertise
     text: en gestion d’actifs et en allocation
