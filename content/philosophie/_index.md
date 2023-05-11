@@ -78,7 +78,7 @@ blocks:
       image:
         src: /images/uploads/warren-buffett.png
   - type: paragraph
-    grid: large
+    grid: medium
     offset: start
     align: start
     cta:
