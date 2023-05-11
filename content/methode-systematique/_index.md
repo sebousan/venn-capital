@@ -91,6 +91,8 @@ blocks:
     grid: medium
     surtitle: Comment espérer pouvoir surperformer en étant de plus en plus proche
       des indices ?
+    text: Indépendamment de la montée en puissance de la gestion indicielle, la
+      gestion active est elle-même structurellement de moins en moins ‘active’.
   - type: quote
     background: false
     surtitle: Pour paraphraser…
