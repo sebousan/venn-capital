@@ -30,8 +30,8 @@ blocks:
   - type: pushes
     surtitle: Nos objectifs
     title: Délivrer une <span>surperformance pérenne</span> via une stratégie
-      fondamentale dans sa philosophie et disciplinée dans <span>sa
-      mécanique.</span>
+      <span>fondamentale</span> dans sa philosophie et <span>disciplinée</span>
+      dans sa mécanique.
     columns: 3
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
