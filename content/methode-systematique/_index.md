@@ -12,7 +12,7 @@ blocks:
     surtitle: la théorie de l’intelligence collective
     title: La théorie financière repose sur <span>l'hypothèse de rationalité des
       investisseurs</span>. Or, la finance comportementale enseigne que l'homo
-      economicus n'existe pas. L'humain est <span>sensible aux émotions</span>
+      oeconomicus n'existe pas. L'humain est <span>sensible aux émotions</span>
       et aux biais cognitifs.
     grid: medium
     text: >-
