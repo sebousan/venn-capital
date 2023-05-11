@@ -56,7 +56,7 @@ Directeurs de la Publication : M. Pierrick Corbel et M. Dimitri Boismare
 
 ## Hébergement
 
-Le site web venn-capital.com est héberger chez :
+Le site web venn-capital.com est hébergé chez :
 
 **Netlify**\
 2325 3rd Street, \
