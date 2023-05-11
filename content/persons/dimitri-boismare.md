@@ -21,4 +21,4 @@ En 2012, il devient responsable de la gestion des fonds diversifiés à destinat
 
 En 2014, il cofonde et dirige Preval, société de gestion spécialisée dans le stock picking fondamental.
 
-**Désormais associé fondateur chez Venn Capital avec Pierrick Corbel depuis 2019.**
+**Désormais associé fondateur chez Venn Capital aux côtés de Pierrick Corbel depuis 2019.**
