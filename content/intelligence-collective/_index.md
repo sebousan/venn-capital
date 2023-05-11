@@ -67,7 +67,7 @@ blocks:
     title: L’erreur de jugement est autant liée aux biais qu’à la variabilité des
       jugements (le bruit).
     text: >-
-      Pour illustrer ces notions, prenons un exemple de jeu de fléchettes tels
+      Pour illustrer ces notions, prenons l'exemple de jeux de fléchettes tels
       que représentés dans la figure ci-dessous.
 
 
