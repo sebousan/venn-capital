@@ -45,7 +45,7 @@ blocks:
           text: En savoir
       - title: Appliquer une méthode systématique.
         surtitle: Objectif 2
-        text: <quote>« A machine beats a man, but a man plus a machine beats a
+        text: <quote>« A machine beats a man, but a man plus a machine beat a
           machine »</quote> <cite>Gary Kasparov</cite>
         image:
           src: /images/uploads/rubikscube.jpg
