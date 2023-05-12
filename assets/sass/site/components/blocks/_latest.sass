@@ -9,3 +9,9 @@
     @include media-breakpoint-between(sm, lg)
         .heading + div > *
             --col-width: 90%
+
+
+    @include media-breakpoint-down(sm)
+        .cta
+            padding-left: var(--bs-card-spacer-x)
+            padding-right: var(--bs-card-spacer-x)
