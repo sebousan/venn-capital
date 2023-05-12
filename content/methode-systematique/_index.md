@@ -78,15 +78,13 @@ blocks:
   - type: paragraph
     grid: medium
     surtitle: Concentration et équipondération
-    text: >-
-      Dans les années 50, Harry Markowitz développait la ‘Théorie Moderne du
-      Portefeuille’ démontrant qu’un portefeuille diversifié permettait de
-      baisser la volatilité (et donc le risque). Plus tard, William Sharpe a
-      développé la théorie du ‘Capital Asset Pricing Model’ (CAPM, ou MEDAF en
-      français) amenant la notion de « beta ».
-
-
-      En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le Prix Nobel d’Economie pour leurs contributions à la finance moderne. Leurs travaux ont bien sûr grandement influencé le monde de la gestion d’actifs, en essaimant l’idée qu’il est risqué de détenir un petit nombre d'actions car cela fait prendre des risques spécifiques trop importants. Pourtant, l’analyse empirique montre qu’un portefeuille d’une trentaine de titres permet de largement diminuer les risques idiosyncratiques.
+    text: En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le
+      Prix Nobel d’Economie pour leurs contributions à la finance moderne. Leurs
+      travaux ont grandement influencé le monde de la gestion d’actifs, en
+      essaimant l’idée qu’il est risqué de détenir un petit nombre d'actions car
+      cela fait prendre des risques spécifiques trop importants. Pourtant,
+      l’analyse empirique montre qu’un portefeuille d’une trentaine de titres
+      permet de largement diminuer les risques idiosyncratiques.
   - type: figure
     grid: medium
     offset: start
