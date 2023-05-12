@@ -1,7 +1,8 @@
 .block-figure
     padding-bottom: 0
     padding-top: 0
-    .block-figure + &
+    .block-figure + &,
+    .block-quote + &
         @include padding-top($global-spacing)
     @include media-breakpoint-up(lg)
         .row > div

@@ -88,5 +88,5 @@ blocks:
   - type: information
     text: Nous pouvons appliquer ce système d’agrégation ou de combinaison à
       l’investissement en basant les décisions sur les recommandations d’un
-      panel d’experts via une méthode systématique.
+      panel d’experts via une [méthode systématique](/methode-systematique/).
 ---

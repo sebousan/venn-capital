@@ -2,7 +2,7 @@
   <div class="container">
 
     <div class="text">
-      {{ partial "func/PrepareHTML" .text }}
+      {{ partial "func/PrepareHTML" .text | markdownify }}
     </div>
 
   </div>

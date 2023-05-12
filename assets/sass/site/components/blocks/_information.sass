@@ -7,13 +7,16 @@
         @extend .h3
         @include padding($global-spacing $global-spacing-double)
         background: $primary-gradient
-        color: white
         margin-bottom: 0
         position: relative
         overflow: hidden
         @include media-breakpoint-up(lg)
             margin-left: 8.3333333%
             margin-right: 8.3333333%
+
+        &,
+        a
+            color: white
         
         &::before
             bottom: -1.5rem

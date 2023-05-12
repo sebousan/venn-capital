@@ -1,4 +1,9 @@
 .block-quote
+    padding-bottom: 0
+    padding-top: 0
+    .block-figure + &,
+    .block-quote + &
+        @include padding-top($global-spacing)
     .row > div
         @extend .col-md-10
         @extend .col-lg-8
@@ -38,6 +43,7 @@
     blockquote
         @include margin-bottom($global-spacing)
         position: relative
+        z-index: 1
         @include media-breakpoint-up(xxl)
             margin-bottom: px2rem(90)
         &::before
@@ -61,6 +67,7 @@
             height: 100%
             margin-right: 0
             object-fit: cover
+            pointer-events: none
             width: 100%
 
     @include media-breakpoint-down(md)
