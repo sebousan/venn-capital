@@ -93,18 +93,22 @@ blocks:
   - type: figure
     grid: medium
     offset: start
-    surtitle: Pourquoi alors cette tendance massive à la diversification ?
-    text: L’analyse de l’évolution de l’active share au sein de l’industrie de la
-      gestion apporte des éléments de réponse.
+    surtitle: ""
+    text: >-
+      Pourquoi alors cette tendance massive à la diversification ?
+
+
+      L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
+
+      Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
     figure:
       src: /images/uploads/diversification-2.png
       legend: "Source : Petajisto, 2013"
   - type: paragraph
     grid: medium
-    surtitle: Comment espérer pouvoir surperformer en étant de plus en plus proche
-      des indices ?
-    text: Indépendamment de la montée en puissance de la gestion indicielle, la
-      gestion active est elle-même structurellement de moins en moins ‘active’.
+    surtitle: ""
+    text: Comment espérer pouvoir surperformer en étant de plus en plus proche des
+      indices ?
   - type: quote
     background: false
     surtitle: Pour paraphraser…
