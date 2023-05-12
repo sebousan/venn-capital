@@ -1,3 +1,4 @@
+import { image } from '../fields/image.js'
 import { image_src } from '../fields/image-src.js'
 import { image_alt } from '../fields/image-alt.js'
 import { background_color } from '../fields/background-color.js'
@@ -20,6 +21,7 @@ export const block_pushes = {
     summary: '{{title}}',
     fields: [
         surtitle,
+        image,
         title,
         text,
         column,
