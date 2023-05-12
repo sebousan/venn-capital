@@ -93,9 +93,12 @@ blocks:
   - type: figure
     grid: medium
     offset: start
-    surtitle: Pourquoi alors cette tendance massive à la diversification ?
-    text: L’analyse de l’évolution de l’active share au sein de l’industrie de la
-      gestion apporte des éléments de réponse.
+    surtitle: ""
+    text: >-
+      Pourquoi alors cette tendance massive à la diversification ?
+
+
+      L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
     figure:
       src: /images/uploads/diversification-2.png
       legend: "Source : Petajisto, 2013"
