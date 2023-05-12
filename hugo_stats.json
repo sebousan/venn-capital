@@ -116,6 +116,7 @@
       "list-categories",
       "list-publications_authors",
       "list-publications_categories",
+      "list-statutes",
       "logo",
       "map",
       "media",
@@ -138,7 +139,6 @@
       "page-persons",
       "page-posts",
       "page-publications",
-      "page-statutes",
       "pages",
       "pagination",
       "pagination-between",
@@ -172,7 +172,6 @@
       "section-publications",
       "section-qui-sommes-nous",
       "section-sitemap",
-      "section-statutes",
       "share",
       "sidebar",
       "slide",
@@ -183,9 +182,11 @@
       "taxonomy-categories",
       "taxonomy-publications_authors",
       "taxonomy-publications_categories",
+      "taxonomy-statutes",
       "term-categories",
       "term-publications_authors",
       "term-publications_categories",
+      "term-statutes",
       "text",
       "title",
       "toc"
@@ -229,7 +230,6 @@
       "publicationsFilters",
       "qui-sommes-nous",
       "recueil-dinformations-à-caractère-nominatif",
-      "statutes",
       "toc",
       "tocLabel"
     ]
