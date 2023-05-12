@@ -14,7 +14,8 @@ blocks:
       <span>robuste et innovant</span>, nous avons noué des partenariats
       stratégiques avec <span>des acteurs de premier plan</span>.
   - type: quote
-    quote: “Everything I’ve done has been collaborative”
+    surtitle: Pour paraphraser…
+    quote: « Everything I’ve done has been collaborative »
     author:
       title: Daniel Kahneman, prix Nobel d'Economie
       image:
