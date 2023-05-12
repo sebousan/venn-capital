@@ -24,6 +24,7 @@ posts:
     _merge: deep
     desktop: "499x499"
     mobile: "300x300"
+    scrollsnap: "240x240"
 publications:
   _merge: deep
   thumbnail:
