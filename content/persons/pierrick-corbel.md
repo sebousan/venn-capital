@@ -11,7 +11,7 @@ statutes: Associé fondateur
 image:
   src: /images/uploads/pierrick-corbel.png
 datas:
-  - title: 14 ans
+  - title: 18 ans
     text: d’expérience dans la gestion de portefeuille
   - title: Expertise
     text: dans le domaine de la gestion actions fondamentale
