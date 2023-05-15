@@ -4,7 +4,7 @@ title: Pierrick Corbel, CFA
 firstname: Pierrick
 lastname: Corbel
 contact:
-  linkedin: https://www.linkedin.com/in/pierrick-corbel-cfa-b417b121/
+  linkedin: https://www.linkedin.com/in/pierrickcorbel-cfa/
   email: p.corbel@venn-capital.com
   phone: +33 6 45 20 27 95
 statutes: Associé fondateur
