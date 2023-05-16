@@ -62,18 +62,19 @@ blocks:
           url: /aligner-les-interets/
     column: 3
   - type: pushes
-    surtitle: Nos fonds partenaires
+    surtitle: Fonds AIS VENN
     column: 2
     items:
       - surtitle: AIS Venn Smart Alpha Europe P
         title: Generali, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa, Suravenir.
         cta:
-          url: "https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe"
+          url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
           blank: true
       - surtitle: AIS Venn Smart Alpha US P
-        title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa, Suravenir.
+        title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa,
+          Suravenir.
         cta:
-          url: "https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us"
+          url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us
           blank: true
   - type: selected-persons
     section: persons
