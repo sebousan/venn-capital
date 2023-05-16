@@ -62,7 +62,7 @@ blocks:
           url: /aligner-les-interets/
     column: 3
   - type: pushes
-    surtitle: Fonds AIS VENN
+    surtitle: Les Fonds AIS VENN
     column: 2
     items:
       - surtitle: AIS Venn Smart Alpha Europe P
