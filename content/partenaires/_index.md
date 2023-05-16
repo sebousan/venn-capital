@@ -1,7 +1,7 @@
 ---
 isPage: true
 draft: false
-title: Partenaires
+title: Nos stratégies
 hero:
   title: Partenaires<span>.</span>
   image:
