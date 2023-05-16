@@ -3,7 +3,7 @@ isPage: true
 draft: false
 title: Nos stratégies
 hero:
-  title: Partenaires<span>.</span>
+  title: Nos stratégies<span>.</span>
   image:
     src: /images/uploads/hero-partenaires.png
     background_image: true
