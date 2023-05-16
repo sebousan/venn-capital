@@ -66,13 +66,14 @@ blocks:
     column: 2
     items:
       - surtitle: AIS Venn Smart Alpha Europe P
-        title: Generali, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa, Suravenir.
+        title: AEP, AG2R La Mondiale, Axa, Generali, Neuflize, Spirica, Suravenir,
+          Swisslife.
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
           blank: true
       - surtitle: AIS Venn Smart Alpha US P
-        title: Generali, Cardif, AEP, Neuflize, AG2R La Mondiale, Spirica, Axa,
-          Suravenir.
+        title: AEP, AG2R La Mondiale, Axa, Cardif, Generali, Neuflize, Spirica,
+          Suravenir, Swisslife.
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us
           blank: true
