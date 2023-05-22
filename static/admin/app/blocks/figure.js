@@ -1,5 +1,4 @@
-import { surtitle } from '../fields/surtitle.js'
-import { text_area } from '../fields/text-area.js'
+import { heading } from '../fields/heading.js'
 import { figure } from '../fields/figure.js'
 import { grid } from '../fields/grid.js'
 import { offset } from '../fields/offset.js'
@@ -14,8 +13,7 @@ export const block_figure = {
     collapsed: false,
     summary: '{{title}}',
     fields: [
-        surtitle,
-        text_area,
+        heading,
         figure,
         grid,
         offset,
