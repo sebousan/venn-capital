@@ -8,8 +8,9 @@ hero:
     background_image: true
 blocks:
   - type: cta
-    surtitle: Venn Capital
-    title: 75, boulevard Haussmann - <span>75008 Paris</span>, France
+    heading:
+      surtitle: Venn Capital
+      title: 75, boulevard Haussmann - <span>75008 Paris</span>, France
     cta:
       url: mailto:middle@venn-capital.com
       text: middle@venn-capital.com

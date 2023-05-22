@@ -15,7 +15,8 @@ module.exports = {
                     /-backdrop$/,
                     /^is-/,
                     /^has-/,
-                    /^js-/
+                    /^js-/,
+                    /^carousel-item/
                 ],
                 deep: [
                     /^tobii/

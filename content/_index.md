@@ -28,10 +28,11 @@ blocks:
       text: En savoir plus
       url: /philosophie
   - type: pushes
-    surtitle: Nos objectifs
-    title: Délivrer une <span>surperformance pérenne</span> via une stratégie
-      <span>fondamentale</span> dans sa philosophie et <span>disciplinée</span>
-      dans sa mécanique.
+    heading:
+      surtitle: Nos objectifs
+      title: Délivrer une <span>surperformance pérenne</span> via une stratégie
+        <span>fondamentale</span> dans sa philosophie et <span>disciplinée</span>
+        dans sa mécanique.
     columns: 3
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
@@ -62,7 +63,8 @@ blocks:
           url: /aligner-les-interets/
     column: 3
   - type: pushes
-    surtitle: Les Fonds AIS VENN
+    heading:
+      surtitle: Les Fonds AIS VENN
     column: 2
     items:
       - surtitle: AIS Venn Smart Alpha Europe P
@@ -79,9 +81,10 @@ blocks:
           blank: true
   - type: selected-persons
     section: persons
-    surtitle: Notre équipe
-    title: La stratégie Venn Collective Alpha est fondamentale dans sa philosophie
-      mais quantitative dans sa mise en œuvre.
+    heading:
+      surtitle: Notre équipe
+      title: La stratégie Venn Collective Alpha est fondamentale dans sa philosophie
+        mais quantitative dans sa mise en œuvre.
     items:
       - dimitri-boismare
       - pierrick-corbel
@@ -90,7 +93,8 @@ blocks:
     count: 2
     show_more: false
     background: true
-    title: Actualités récentes
+    heading:
+      title: Actualités récentes
   - type: informations
     column: 4
     items:

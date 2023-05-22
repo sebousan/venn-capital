@@ -59,7 +59,8 @@ blocks:
   - type: figure
     grid: large
     offset: start
-    surtitle: Statistiques appliquées à un modèle multi-experts
+    heading:
+      surtitle: Statistiques appliquées à un modèle multi-experts
     figure:
       src: /images/uploads/graphic-intelligence.png
   - type: paragraph

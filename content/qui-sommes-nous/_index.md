@@ -68,7 +68,8 @@ blocks:
           src: /images/uploads/carousel-2.png
   - type: selected-persons
     section: persons
-    surtitle: Notre équipe
+    heading:
+      surtitle: Notre équipe
     show_more: false
     items:
       - dimitri-boismare
