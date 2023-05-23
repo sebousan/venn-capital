@@ -37,7 +37,7 @@ blocks:
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
         surtitle: Objectif 1
-        text: <quote>« None of us is as smart as all of us »</quote> <cite>Kenneth H.
+        text: <q>« None of us is as smart as all of us »</q> <cite>Kenneth H.
           Blanchard</cite>
         image:
           src: /images/uploads/brain.jpg
@@ -46,16 +46,16 @@ blocks:
           text: En savoir
       - title: Appliquer une méthode systématique.
         surtitle: Objectif 2
-        text: <quote>« A machine beats a man, but a man plus a machine beat a
-          machine »</quote> <cite>Gary Kasparov</cite>
+        text: <q>« A machine beats a man, but a man plus a machine beat a
+          machine »</q> <cite>Gary Kasparov</cite>
         image:
           src: /images/uploads/rubikscube.jpg
         cta:
           url: /methode-systematique/
       - title: Aligner les intérêts.
         surtitle: Objectif 3
-        text: <quote>« Compound interest is the eighth wonder of the world. He who
-          understands it, earns it; he who doesn't, pays it »</quote>
+        text: <q>« Compound interest is the eighth wonder of the world. He who
+          understands it, earns it; he who doesn't, pays it »</q>
           <cite>Albert Einstein</cite>
         image:
           src: /images/uploads/puzzle.png
