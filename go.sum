@@ -2,8 +2,8 @@ github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+y
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hugolify/hugolify-netlify-cms v1.2.0 h1:d+Gr9f6sOOjVTfqi6gZ4Fp4p/y+53Kz0TEPjnwS2Kh4=
 github.com/hugolify/hugolify-netlify-cms v1.2.0/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
-github.com/hugolify/hugolify-theme v1.4.3 h1:1/Ps3pv5SpJe30NkAsw7eqH+k0hEo6FpQ3lfn/wwnVg=
-github.com/hugolify/hugolify-theme v1.4.3/go.mod h1:W4kYNGzInQ3fbvVmSpbZG87vrvuW0PsIffjePKMZums=
+github.com/hugolify/hugolify-theme v1.4.4 h1:ssReO9Q5g4eevwZLa/RWLD7+Wde9vzGJIZXk1ECSpzY=
+github.com/hugolify/hugolify-theme v1.4.4/go.mod h1:W4kYNGzInQ3fbvVmSpbZG87vrvuW0PsIffjePKMZums=
 github.com/hugolify/hugolify-theme-persons v1.0.16 h1:d26lEx88DmVzK3jDC1f8yQZSK57oV2hsnzuNUQfS5x4=
 github.com/hugolify/hugolify-theme-persons v1.0.16/go.mod h1:LjjY/5pEDk2r3URTU8xS7Sango4D4K9ExU0+OaJwOUA=
 github.com/hugolify/hugolify-theme-persons-statutes v1.0.9 h1:M2VjGDYuSgFdMCH12hCvm3EtCZCB2cKCOJpID8Bi9xY=
