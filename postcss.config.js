@@ -16,6 +16,7 @@ module.exports = {
                     /^is-/,
                     /^has-/,
                     /^js-/,
+                    /^data-anim$/,
                     /^carousel-item/
                 ],
                 deep: [
