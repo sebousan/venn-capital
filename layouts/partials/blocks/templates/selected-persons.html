@@ -8,29 +8,31 @@
   <div class="container">
 
     {{ if lt (len .items) 3 }}
-      {{ if .surtitle }}
-        <header class="heading">
-          {{ with .surtitle }}
-            <p class="surtitle">{{ partial "func/PrepareHTML" . }}</p>
+      {{ with .heading }}
+        {{ if .surtitle }}
+          <header class="heading">
+            {{ with .surtitle }}
+              <p class="surtitle">{{ partial "func/PrepareHTML" . }}</p>
+            {{ end }}
+          </header>
+        {{ end }}
+        <div class="content">
+          {{ with .title }}
+            <h2>{{ partial "func/PrepareHTML" . }}</h2>
           {{ end }}
-        </header>
+          {{ with .text }}
+            <p>{{ partial "func/PrepareHTML" (partial "func/LineBreak" .) }}</p>
+          {{ end }}
+          {{ if $show_button }}
+            {{ $index := site.GetPage "/qui-sommes-nous" }}
+            {{ with $index }}
+              <div class="bottom">
+                <a href="{{ .Permalink }}" class="more">{{ i18n "persons.who" }}</a>
+              </div>
+            {{ end }}
+          {{ end }}
+        </div>
       {{ end }}
-      <div class="content">
-        {{ with .title }}
-          <h2>{{ partial "func/PrepareHTML" . }}</h2>
-        {{ end }}
-        {{ with .text }}
-          <p>{{ partial "func/PrepareHTML" (partial "func/LineBreak" .) }}</p>
-        {{ end }}
-        {{ if $show_button }}
-          {{ $index := site.GetPage "/qui-sommes-nous" }}
-          {{ with $index }}
-            <div class="bottom">
-              <a href="{{ .Permalink }}" class="more">{{ i18n "persons.who" }}</a>
-            </div>
-          {{ end }}
-        {{ end }}
-      </div>
     {{ else }}
       {{ partial "blocks/heading" . }}
     {{ end }}

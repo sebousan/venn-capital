@@ -93,14 +93,15 @@ blocks:
   - type: figure
     grid: medium
     offset: start
-    surtitle: ""
-    text: >-
-      Pourquoi alors cette tendance massive à la diversification ?
+    heading:
+      surtitle: ""
+      text: >-
+        Pourquoi alors cette tendance massive à la diversification ?
 
 
-      L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
+        L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
 
-      Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
+        Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
     figure:
       src: /images/uploads/diversification-2.png
       legend: "Source : Petajisto, 2013"
@@ -111,7 +112,8 @@ blocks:
       indices ?
   - type: quote
     background: false
-    surtitle: Pour paraphraser…
+    heading:
+      surtitle: Pour paraphraser…
     quote: « Pour être irremplaçable, <span>il faut être différente ».</span>
     author:
       title: Coco Chanel
@@ -120,18 +122,20 @@ blocks:
   - type: figure
     grid: medium
     offset: start
-    text: >-
-      Forte active share et portefeuille concentré sont des prérequis
-      nécessaires pour obtenir une performance différentes de celles des
-      indices.
+    heading:
+      text: >-
+        Forte active share et portefeuille concentré sont des prérequis
+        nécessaires pour obtenir une performance différentes de celles des
+        indices.
 
 
-      De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
+        De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
     figure:
       src: /images/uploads/table-method.png
   - type: quote
     background: false
-    surtitle: Pour paraphraser…
+    heading:
+      surtitle: Pour paraphraser…
     quote: « Diversification for its own sake is not sensible…My view is that
       <span>an investor is better off knowing a</span> lot about a few
       investments than knowing only a little about each of <span>a great many
@@ -141,8 +145,8 @@ blocks:
       image:
         src: /images/uploads/seth-klarman.png
   - type: pushes
-    title: "Les stratégies <span>Venn Collective Alpha</span> capitalisent sur cette
-      relation à plusieurs titres :"
+    heading:
+      title: "Les stratégies <span>Venn Collective Alpha</span> capitalisent sur cette relation à plusieurs titres :"
     columns: 3
     items:
       - surtitle: Relation 1

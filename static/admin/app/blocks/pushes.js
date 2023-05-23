@@ -1,3 +1,4 @@
+import { heading } from '../fields/heading.js'
 import { image } from '../fields/image.js'
 import { image_src } from '../fields/image-src.js'
 import { image_alt } from '../fields/image-alt.js'
@@ -20,10 +21,8 @@ export const block_pushes = {
     collapsed: false,
     summary: '{{title}}',
     fields: [
-        surtitle,
+        heading,
         image,
-        title,
-        text,
         column,
         { label: 'Small push?', name: 'small', widget: 'boolean', default: false, required: false },
         {

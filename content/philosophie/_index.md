@@ -70,7 +70,8 @@ blocks:
     type: paragraph
   - type: quote
     background: false
-    surtitle: Pour paraphraser…
+    heading:
+      surtitle: Pour paraphraser…
     quote: « La diversification peut préserver la richesse, mais c’est <span>la
       concentration qui la construit ».</span>
     author:
@@ -97,9 +98,8 @@ blocks:
   - type: pushes
     column: 3
     background: false
-    title: Chez Venn, nous avons conçu des stratégies qui capitalisent sur le
-      bien-fondé de l’investissement fondamental, tout en cherchant à
-      neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>
+    heading:
+      title: Chez Venn, nous avons conçu des stratégies qui capitalisent sur le bien-fondé de l’investissement fondamental, tout en cherchant à neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>
     small: true
     items:
       - cta:
@@ -123,8 +123,9 @@ blocks:
   - type: pushes
     column: 3
     background: false
-    title: "Les réponses apportées par la <span>stratégie Venn Collective
-      Alpha</span> consiste ainsi à :"
+    heading:
+      title: "Les réponses apportées par la <span>stratégie Venn Collective
+        Alpha</span> consiste ainsi à :"
     items:
       - title: S’appuyer sur le phénomène d’intelligence collective pour « débiaiser »
           la gestion active.

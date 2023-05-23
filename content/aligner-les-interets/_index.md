@@ -21,7 +21,8 @@ blocks:
     grid: medium
     offset: start
     background: false
-    surtitle: Évolution des frais courants au sein des fonds
+    heading:
+      surtitle: Évolution des frais courants au sein des fonds
     figure:
       src: /images/uploads/evolution-des-frais.png
       legend: "Source: Investment Company Institute; Morningstar Direct"
@@ -29,7 +30,8 @@ blocks:
     grid: medium
     offset: start
     background: false
-    surtitle: Structure de frais
+    heading:
+      surtitle: Structure de frais
     figure:
       src: /images/uploads/structure-de-frais.png
   - type: information

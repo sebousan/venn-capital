@@ -15,7 +15,9 @@ module.exports = {
                     /-backdrop$/,
                     /^is-/,
                     /^has-/,
-                    /^js-/
+                    /^js-/,
+                    /^data-anim$/,
+                    /^carousel-item/
                 ],
                 deep: [
                     /^tobii/
