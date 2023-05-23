@@ -54,6 +54,7 @@ blocks:
     image:
       src: /images/uploads/logo-lixx-index-innovation.svg
     heading:
+      surtitle: "Administrateur d’indices : LIXX Innovation"
       title: Les indices VENN sont administrés, calculés quotidiennement et disséminés
         auprès des bases d’informations financières par LIXX Index Innovation
       text: Retrouvez toutes les informations sur chacun de ces fonds.
@@ -75,7 +76,6 @@ blocks:
         cta:
           url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-emerging-asia-index
           blank: true
-    surtitle: "Administrateur d’indices : LIXX Innovation"
   - type: cta
     heading:
       surtitle: Devenir partenaires ?
