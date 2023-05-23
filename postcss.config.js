@@ -16,14 +16,13 @@ module.exports = {
                     /^is-/,
                     /^has-/,
                     /^js-/,
-                    /^data-anim$/,
-                    /^data-anim-show$/,
                     /^carousel-item/
                 ],
                 deep: [
                     /^tobii/
                 ],
                 greedy: [
+                    /^data-anim$/,
                     /^aria-current$/,
                     /^role$/
                 ]
