@@ -3,13 +3,14 @@ isIndex: false
 title: Thomas Rault
 firstname: Thomas
 lastname: Rault
+description: Responsable du développement au sein de Venn Capital
+persons_statutes: Responsable du développement
+image:
+  src: /images/uploads/thomas-rault.png
 contact:
   linkedin: https://www.linkedin.com/in/thomas-rault-a0b80610b/
   email: t.rault@venn-capital.com
   phone: +33 6 82 89 57 25
-statutes: Responsable du développement
-image:
-  src: /images/uploads/thomas-rault.png
 datas:
   - title: 3 ans
     text: d’expérience en gestion d'actifs

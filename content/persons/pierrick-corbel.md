@@ -3,13 +3,14 @@ isIndex: false
 title: Pierrick Corbel, CFA
 firstname: Pierrick
 lastname: Corbel
+description: Associé fondateur chez Venn Capital aux côtés de Dimitri Boismare depuis 2019
+persons_statutes: Associé fondateur
+image:
+  src: /images/uploads/pierrick-corbel.png
 contact:
   linkedin: https://www.linkedin.com/in/pierrickcorbel-cfa/
   email: p.corbel@venn-capital.com
   phone: +33 6 45 20 27 95
-statutes: Associé fondateur
-image:
-  src: /images/uploads/pierrick-corbel.png
 datas:
   - title: 18 ans
     text: d’expérience dans la gestion de portefeuille

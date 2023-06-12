@@ -1,3 +1,0 @@
----
-title: Responsable du développement
----

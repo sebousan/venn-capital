@@ -1,4 +1,4 @@
 ---
 isIndex: false
-title: Evènement
+title: Évènement
 ---

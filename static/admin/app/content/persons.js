@@ -33,10 +33,20 @@ const persons = {
         { name: 'firstname', label: 'Prénom', widget: 'string', i18n: 'duplicate' },
         { name: 'lastname', label: 'Nom', widget: 'string', i18n: 'duplicate' },
         description,
-        featured_image,
+        {
+            name: 'persons_statutes',
+            label: 'Status',
+            widget: 'select',
+            options: [
+                'Associé fondateur',
+                'Responsable du développement'
+            ],
+            i18n: 'duplicate'
+        },
         contact,
         datas,
-        body
+        body,
+        featured_image
     ]
 }
 

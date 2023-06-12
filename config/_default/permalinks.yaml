@@ -1,6 +1,6 @@
 _merge: deep
 persons: notre-equipe/:slug
-statutes: notre-equipe/:slug
+persons_statutes: notre-equipe/:slug
 posts: actualite/:year-:month-:day-:slug
 categories: actualite/:slug
 publications: blog/:year-:month-:day-:slug

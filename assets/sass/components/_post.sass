@@ -41,6 +41,7 @@
             bottom: 0
             position: absolute
             right: 0
+    a.content
         &::before
             bottom: 0
             content: ""
@@ -49,6 +50,9 @@
             right: 0
             top: 0
             z-index: $stretched-link-z-index
+        &:hover
+            .cta::after
+                transform: translateX(.5rem)
 
     @include media-breakpoint-down(sm)
         --bs-card-spacer-x: 1.5rem

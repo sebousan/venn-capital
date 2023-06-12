@@ -3,13 +3,14 @@ isIndex: false
 title: Dimitri Boismare
 firstname: Dimitri
 lastname: Boismare
+description: Associé fondateur chez Venn Capital aux côtés de Pierrick Corbel depuis 2019
+persons_statutes: Associé fondateur
+image:
+  src: /images/uploads/dimitri-boismare.png
 contact:
   phone: +33 6 45 20 28 75
   email: d.boismare@venn-capital.com
   linkedin: https://www.linkedin.com/in/dimitri-boismare-7b23722/
-statutes: Associé fondateur
-image:
-  src: /images/uploads/dimitri-boismare.png
 datas:
   - title: 20 ans
     text: d’expérience dans le domaine de la sélection de gérants
