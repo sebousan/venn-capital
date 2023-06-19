@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-05-25T08:53:33.345Z
 title: Investisseur TV - Stéphane Romanyszyn
 categories: Interview
