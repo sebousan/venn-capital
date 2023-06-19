@@ -7,6 +7,11 @@
     --bs-card-cap-bg: transparent
     @extend .card
     
+    img
+        height: 100%
+        object-fit: cover
+        width: 100%
+
     .avatar
         border-radius: 0
 
@@ -17,6 +22,7 @@
         background-color: $light
         max-width: var(--card-media)
         order: -1
+    
 
     &:not(&-large)
         --bs-card-spacer-y: 2rem
@@ -40,6 +46,8 @@
             margin-bottom: .5em
             order: -1
             text-transform: uppercase
+        .description
+            display: none
 
         @include media-breakpoint-up(lg)
             @media (prefers-reduced-motion: no-preference)

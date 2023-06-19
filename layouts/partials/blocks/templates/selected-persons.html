@@ -27,7 +27,7 @@
             {{ $index := site.GetPage "/qui-sommes-nous" }}
             {{ with $index }}
               <div class="bottom">
-                <a href="{{ .Permalink }}" class="more">{{ i18n "persons.who" }}</a>
+                <a href="{{ .Permalink }}" class="btn">{{ i18n "persons.who" }}</a>
               </div>
             {{ end }}
           {{ end }}
@@ -58,7 +58,7 @@
         {{ with $index }}
           <div class="bottom">
             {{ $i18n := printf "%s.more" $section }}
-            <a href="{{ .Permalink }}" class="more">{{ i18n $i18n }}</a>
+            <a href="{{ .Permalink }}" class="btn">{{ i18n $i18n }}</a>
           </div>
         {{ end }}
       {{ end }}

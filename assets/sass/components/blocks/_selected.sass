@@ -4,8 +4,7 @@
         justify-content: center
     .bottom
         @include margin-top($global-spacing)
-    .more
-        @extend .btn
+    .btn
         @extend .btn-secondary
         @extend .btn-arrow
 
@@ -25,7 +24,7 @@
         .heading + .content
             grid-row: 2
             h2
-                @extend .h3
+                @include font-size($h3-font-size)
         .persons
             grid-column: 1
             grid-row: 3

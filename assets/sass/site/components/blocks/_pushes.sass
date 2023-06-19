@@ -25,7 +25,7 @@
     .surtitle + picture
         @include media-breakpoint-up(lg)
             margin-left: 8.33333333%
-    .cta
+    .btn
         @extend .btn-secondary
         bottom: 0
         display: none
@@ -116,7 +116,7 @@
                     transition: opacity .3s ease-in-out
                 a::after
                     transition: opacity .3s ease, transform .3s ease
-                .cta
+                .btn
                     display: block
                     transform: translateY(100%) !important
                     transition: transform .3s ease !important
@@ -124,7 +124,7 @@
                     &::after
                         opacity: 0
                         transform: translateY(100%)
-                    .cta
+                    .btn
                         transform: translateY(0) !important
                     picture
                         opacity: 1

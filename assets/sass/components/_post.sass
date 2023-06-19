@@ -31,7 +31,7 @@
             margin-bottom: 0
     .category
         color: $primary-lighten
-    .cta
+    .btn
         @extend .btn-secondary
         @extend .btn-arrow
         white-space: nowrap
@@ -51,7 +51,7 @@
             top: 0
             z-index: $stretched-link-z-index
         &:hover
-            .cta::after
+            .btn::after
                 transform: translateX(.5rem)
 
     @include media-breakpoint-down(sm)
@@ -61,7 +61,7 @@
             padding-top: 2rem
         .content
             padding-bottom: 0
-        .cta
+        .btn
             margin-left: calc(#{var(--bs-card-spacer-x)} * -1)
             margin-right: calc(#{var(--bs-card-spacer-x)} * -1)
             margin-top: 2rem
