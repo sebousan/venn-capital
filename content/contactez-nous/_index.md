@@ -12,14 +12,14 @@ blocks:
       surtitle: Venn Capital
       title: 75, boulevard Haussmann - <span>75008 Paris</span>, France
     cta:
-      url: mailto:middle@venn-capital.com
-      text: middle@venn-capital.com
+      url: mailto:d.boismare@venn-capital.com
+      text: contact@venn-capital.com
       blank: true
     image:
       src: /images/uploads/office.jpg
   - type: map
     background: false
-    location: '{"type":"Point","coordinates":[2.3222122,48.8743771]}'
+    location: '{"type":"Point","coordinates":[2.3209879,48.8757276]}'
     zoom: 16
     grid: full
 ---
