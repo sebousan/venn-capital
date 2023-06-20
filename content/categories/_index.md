@@ -1,4 +1,4 @@
 ---
 title: Catégories
-url: actualites/categories
+url: actualite/categories
 ---
