@@ -4,9 +4,10 @@
     .block-figure + &
         @include padding-top($global-spacing)
     .text
-        @extend .h3
+        @include font-size($h3-font-size)
         @include padding($global-spacing $global-spacing-double)
         background: $primary-gradient
+        line-height: $headings-line-height
         margin-bottom: 0
         position: relative
         overflow: hidden
