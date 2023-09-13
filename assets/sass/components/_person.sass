@@ -85,7 +85,7 @@
         display: grid
         grid-template-columns: 100%
         .name
-            @extend .h3
+            @include font-size($h3-font-size)
             @include margin-bottom($global-spacing-semi)
         .featured-image,
         .content + div
