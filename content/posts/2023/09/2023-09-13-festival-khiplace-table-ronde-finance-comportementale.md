@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-09-07T12:26:11.523Z
 title: Festival Khiplace - Table ronde Finance Comportementale
 description: Pierrick CORBEL a participé au débat Khiplace sur la finance
