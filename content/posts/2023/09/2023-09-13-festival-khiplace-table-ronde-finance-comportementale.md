@@ -7,7 +7,7 @@ description: ""
 categories: Évènement
 image:
   src: /images/uploads/khif.jpg
-  credit: https://www.khifestival.com/
+  credit: ""
 ---
 Pierrick CORBEL, CFA a participé au débat Khiplace sur la finance comportementale aux côtés d'un panel de spécialistes de la finance comportementale.
 Il a notamment évoqué l'intérêt de l'intelligence collective afin de limiter les biais cognitifs naturellement présents au seins d'une gestion.
