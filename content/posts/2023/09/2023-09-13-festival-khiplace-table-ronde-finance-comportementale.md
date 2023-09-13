@@ -7,6 +7,7 @@ description: Pierrick CORBEL a participé au débat Khiplace sur la finance
   comportementale aux côtés d'un panel de spécialistes - Olivier Rousseau,
   Edouard Camblain, Daniel Haguet - afin d'évoquer notamment l'intérêt de
   l'intelligence collective au service de l'investissement.
+categories: Évènement
 image:
   src: /images/uploads/khif.jpg
   credit: https://www.khifestival.com/
