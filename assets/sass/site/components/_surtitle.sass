@@ -1,3 +1,11 @@
 .surtitle
     font-size: px2rem(14)
     letter-spacing: px2rem(3)
+
+.surtitle2
+    @extend .surtitle
+    opacity: .7
+    text-decoration: none
+    @include media-breakpoint-up(xl)
+        margin-bottom: - $global-spacing
+        margin-top: $global-spacing
