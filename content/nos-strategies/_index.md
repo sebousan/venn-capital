@@ -37,13 +37,14 @@ blocks:
         SMART ALPHA EUROPE et VENN SMART ALPHA US.
       text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
-      - title: AEP, AG2R La Mondiale, Generali, Neuflize, Spirica, Suravenir, Swisslife.
+      - title: AEP, AG2R La Mondiale, Generali, Intencial, Neuflize, Spirica, Suravenir,
+          Swisslife.
         surtitle: AIS Venn Smart Alpha Europe P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202709/rg-fr0013432754-pdf
           blank: true
-      - title: AEP, AG2R La Mondiale, Cardif, Generali, Neuflize, Spirica, Suravenir,
-          Swisslife.
+      - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Spirica,
+          Suravenir, Swisslife.
         surtitle: AIS Venn Smart Alpha US P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202718/rg-fr0013432739-pdf
