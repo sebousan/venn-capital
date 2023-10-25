@@ -72,8 +72,11 @@ header[role="banner"]
                 letter-spacing: px2rem(3)
                 padding: 0
                 text-transform: uppercase
+                text-decoration-color: inherit
                 text-decoration-line: underline
                 text-underline-offset: 10px
+                &:hover
+                    text-decoration-color: transparent
 
     .modal
         --bs-modal-bg: #{$header-background-color}
