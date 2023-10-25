@@ -19,4 +19,6 @@ publications_authors: Autres
 press:
   title: Arman Eshraghi - Richard Taffler
   file: /pdf/fund-manager-overconfidence-and-investment-performance.pdf
+image:
+  src: /images/uploads/overconfidence.jpeg
 ---
