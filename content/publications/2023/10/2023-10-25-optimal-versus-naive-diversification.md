@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2009-01-01T15:52:47.490Z
-title: Optimal Versus Naive Diversification
+title: Optimal vs Naïve Diversification
 description: Une étude de Victor DeMiguel, Lorenzo Garlappi et Raman Uppal de
   l'Université du Texas à Austin évalue la performance hors échantillon du
   modèle de moyenne-variance par rapport à la stratégie naïve de portefeuille
