@@ -11,7 +11,7 @@ publications_categories: Finance comportementale
 publications_authors: Autres
 press:
   url: https://www.spencerstuart.com/research-and-insight/how-asset-managers-can-break-down-biases
-  title: Nicola Murray
+  title: Nicola Murray - Spencer Stuart
 image:
   src: /images/uploads/spencer-stuart-102023.png
   credit: ""
