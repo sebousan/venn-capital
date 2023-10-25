@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-10-16T12:44:55.384Z
 title: Panorama 2023 France Fintech
 description: Fiers de voir VENN CAPITAL figurer dans le Panorama annuel des
