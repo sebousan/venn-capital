@@ -11,6 +11,7 @@ description: Cette étude compare la performance de portefeuilles d'actions des
   rendement, d'alpha et de ratio de Sharpe. L'étude explique qu'une part
   importante de l'alpha provient du rééquilibrage requis par le
   portefeuille équipondéré.
+publications_categories: Investissement
 publications_authors: Autres
 press:
   title: "Victor DeMiguel, Lorenzo Garlappi et Raman Uppal "
