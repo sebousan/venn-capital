@@ -1,19 +1,19 @@
 ---
-isIndex: false
-draft: false
-date: 2014-09-22T15:24:05.963Z
-title: Emotion and Decision Making
-description: >-
-  Le lauréat du prix Nobel,  Herbert Simon (1978) a lancé une révolution dans la
-  théorie de la décision en introduisant la rationalité limitée (bounded
-  rationality).
-
-  Dans cette étude, les auteurs explorent l'impact des émotions sur la prise de décision. Ils affirment que les émotions peuvent influencer les jugements et les choix dans divers domaines. Ils proposent un modèle de choix imprégné d'émotions, qui tient compte des apports de la théorie traditionnelle du choix rationnel et de la recherche plus récente sur les émotions, en synthétisant les modèles scientifiques. Les auteurs soutiennent que la compréhension du rôle de l'émotion dans la prise de décision est cruciale pour une théorie complète de la rationalité humaine.
-publications_categories: Finance comportementale
+date: 2006-03-01T16:26:10.487Z
+title: "Fund Managers Who Take Big Bets: Skilled or Overconfident"
+description: L'étude de Klaas P. Baks, Jeffrey A. Busse et T. Clifton Green
+  révèle une relation positive entre la performance et la concentration des
+  fonds d'investissement. Les "focused managers" surpassent leurs homologues
+  plus largement diversifiés d'environ 30 points de base par mois, soit environ
+  4 % sur une base annuelle. Les résultats suggèrent que les investisseurs
+  peuvent améliorer leur performance en diversifiant leurs portefeuilles de
+  gestionnaires concentrés plutôt qu'en investissant dans des fonds
+  très diversifiés.
+publications_categories: Investissement
 publications_authors: Autres
 press:
-  title: Jennifer S. Lerner, Ye Li, Piercarlo Valdesolo, and Karim S. Kassam
-  file: /pdf/emotion-and-decision-making-psych-010213-115043.pdf
+  title: Klaas P. Baks, Jeffrey A. Busse, and T. Clifton Green
+  file: /pdf/fund-managers-who-take-big-bets-skilled-or-overconfident.pdf
 image:
-  src: /images/uploads/emotionanddecision.jpg
+  src: /images/uploads/focusedmanagers.jpeg
 ---
