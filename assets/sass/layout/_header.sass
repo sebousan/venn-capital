@@ -42,7 +42,7 @@ header[role="banner"]
             @include media-breakpoint-down(lg)
                 height: auto
                 width: 100%
-        & + .nav-secondary
+        & + div .nav-secondary
             @include media-breakpoint-down(md)
                 display: none
     .nav
@@ -60,10 +60,6 @@ header[role="banner"]
                 --bs-nav-link-hover-color: #{$primary-lighten}
             a.active
                 text-decoration: none
-            & + .nav-secondary
-                margin-top: 2rem
-                @include media-breakpoint-up(md)
-                    display: none
         &-secondary
             --bs-nav-link-font-size: #{px2rem(10)}
             --bs-nav-link-font-weight: #{$font-weight-bold}
@@ -109,3 +105,7 @@ header[role="banner"]
             flex-direction: column
             justify-content: center
             text-align: center
+        .nav-secondary
+            margin-top: 2rem
+            @include media-breakpoint-up(md)
+                display: none

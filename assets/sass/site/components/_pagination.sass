@@ -20,6 +20,10 @@
         background-color: transparent
         &:hover
             background-color: $primary-lighten
+    .first,
+    .last
+        @include media-breakpoint-down(md)
+            display: none
 
 .pagination-between
     a
