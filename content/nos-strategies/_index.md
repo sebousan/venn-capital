@@ -82,7 +82,7 @@ blocks:
       title: Contactez-nous pour devenir un de nos partenaire stratégiques.
     cta:
       text: Contactez-nous
-      url: /contactez-nous
+      url: /contactez-nous/
     image:
       src: /images/uploads/office.jpg
 ---
