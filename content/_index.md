@@ -3,7 +3,7 @@ isIndex: true
 title: Accueil
 description: à la croisée des mondes entre gestion active et gestion passive
 hero:
-  title: L'intelligence collective au service de <span>l’investissement.</span>
+  title: L’intelligence collective au service de <span>l’investissement.</span>
   image:
     src: /images/uploads/hero-home.png
     background_image: true
@@ -26,7 +26,7 @@ blocks:
     align: start
     cta:
       text: En savoir plus
-      url: /philosophie
+      url: /philosophie/
   - type: pushes
     heading:
       surtitle: Nos objectifs
