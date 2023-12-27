@@ -1,8 +1,8 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-12-27T16:51:42.432Z
-title: "2024: Same Player Shoots Again?"
+title: "2024 : Same Player Shoots Again?"
 description: >+
   L‘année 2023 touche à sa fin, il est temps de s’interroger sur les
   perspectives 2024.
