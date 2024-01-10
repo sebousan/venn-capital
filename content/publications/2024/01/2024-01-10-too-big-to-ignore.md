@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2023-12-08T09:29:03.921Z
 title: Too Big To Ignore?
 publications_categories: Investissement
