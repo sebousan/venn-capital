@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2023-11-28T09:35:13.236Z
-title: 'Tribune Citywire  "Peut-on réconcilier les investisseurs avec le gestion
+title: 'Tribune Citywire  "Peut-on réconcilier les investisseurs avec la gestion
   active?" '
 categories: Article
 image:
