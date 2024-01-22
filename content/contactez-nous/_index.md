@@ -19,7 +19,7 @@ blocks:
       src: /images/uploads/office.jpg
   - type: map
     background: false
-    location: '{"type":"Point","coordinates":[2.3209879,48.8757276]}'
+    location: '{"type":"Point","coordinates":[2.3225243,48.8743234]}'
     zoom: 16
     grid: full
 ---
