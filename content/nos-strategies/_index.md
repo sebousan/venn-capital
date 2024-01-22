@@ -34,18 +34,18 @@ blocks:
       surtitle: "Société de gestion : Fédéral Finance Gestion"
       title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
         2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
-        SMART ALPHA EUROPE et VENN SMART ALPHA US.
+        COLLECTIVE ALPHA EUROPE et VENN COLLECTIVE ALPHA US.
       text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
       - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Spirica,
           Suravenir, Swisslife.
-        surtitle: AIS Venn Smart Alpha Europe P
+        surtitle: AIS Venn Collective Alpha Europe P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202709/rg-fr0013432754-pdf
           blank: true
       - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Spirica,
           Suravenir, Swisslife.
-        surtitle: AIS Venn Smart Alpha US P
+        surtitle: AIS Venn Collective Alpha US P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202718/rg-fr0013432739-pdf
           blank: true
@@ -60,19 +60,19 @@ blocks:
       text: Retrouvez toutes les informations sur chacun de ces fonds.
     small: true
     items:
-      - surtitle: Venn Europe index
+      - surtitle: Venn Collective Alpha Europe index
         cta:
           url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-europe-index
           blank: true
-      - surtitle: Venn US index
+      - surtitle: Venn Collective Alpha US index
         cta:
           url: https://lixxinnovation.com/indizes/index/venn-smart-alpha-us-index
           blank: true
-      - surtitle: Venn US SMID Index
+      - surtitle: Venn Collective Alpha US SMID Index
         cta:
           url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-us-smid-index
           blank: true
-      - surtitle: Venn Emerging Asia Index
+      - surtitle: Venn Collective Alpha Emerging Asia Index
         cta:
           url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-emerging-asia-index
           blank: true
