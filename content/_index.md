@@ -31,8 +31,8 @@ blocks:
     heading:
       surtitle: Nos objectifs
       title: Délivrer une <span>surperformance pérenne</span> via une stratégie
-        <span>fondamentale</span> dans sa philosophie et <span>disciplinée</span>
-        dans sa mécanique.
+        <span>fondamentale</span> dans sa philosophie et
+        <span>disciplinée</span> dans sa mécanique.
     columns: 3
     items:
       - title: Neutraliser les biais grâce à l’intelligence collective.
@@ -46,8 +46,8 @@ blocks:
           text: En savoir
       - title: Appliquer une méthode systématique.
         surtitle: Objectif 2
-        text: <q>« A machine beats a man, but a man plus a machine beat a
-          machine »</q> <cite>Gary Kasparov</cite>
+        text: <q>« A machine beats a man, but a man plus a machine beat a machine »</q>
+          <cite>Gary Kasparov</cite>
         image:
           src: /images/uploads/rubikscube.jpg
         cta:
@@ -55,8 +55,8 @@ blocks:
       - title: Aligner les intérêts.
         surtitle: Objectif 3
         text: <q>« Compound interest is the eighth wonder of the world. He who
-          understands it, earns it; he who doesn't, pays it »</q>
-          <cite>Albert Einstein</cite>
+          understands it, earns it; he who doesn't, pays it »</q> <cite>Albert
+          Einstein</cite>
         image:
           src: /images/uploads/puzzle.png
         cta:
@@ -64,16 +64,16 @@ blocks:
     column: 3
   - type: pushes
     heading:
-      surtitle: Les Fonds AIS VENN
+      surtitle: Les Fonds AIS VENN COLLECTIVE ALPHA
     column: 2
     items:
-      - surtitle: AIS Venn Smart Alpha Europe P
+      - surtitle: AIS Venn Collective Alpha Europe P
         title: AEP, AG2R La Mondiale, Axa, Generali, Neuflize, Spirica, Suravenir,
           Swisslife.
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
           blank: true
-      - surtitle: AIS Venn Smart Alpha US P
+      - surtitle: AIS Venn Collective Alpha US P
         title: AEP, AG2R La Mondiale, Axa, Cardif, Generali, Neuflize, Spirica,
           Suravenir, Swisslife.
         cta:
