@@ -9,11 +9,13 @@ hero:
     background_image: true
 blocks:
   - type: paragraph
-    title: C’est généralement l’argument <span>d’une tarification prohibitive</span>
+    title:
+      C’est généralement l’argument <span>d’une tarification prohibitive</span>
       qui est mise en avant pour expliquer la sous-performance structurelle des
       gérants actifs sur le long terme.
     grid: medium
-    text: Chez Venn nous sommes persuadés qu’il existe d’autres facteurs expliquant
+    text:
+      Chez Venn nous sommes persuadés qu’il existe d’autres facteurs expliquant
       ce phénomène, mais les frais pèsent en effet sur la capacité de génération
       d’alpha. La prise de conscience progressive de l’industrie sur ce sujet
       conduit à une certaine tendance à la compression des frais de gestion.
@@ -25,6 +27,7 @@ blocks:
       surtitle: Évolution des frais courants au sein des fonds
     figure:
       src: /images/uploads/evolution-des-frais.png
+      linear: true
       legend: "Source: Investment Company Institute; Morningstar Direct"
   - type: figure
     grid: medium
@@ -34,6 +37,7 @@ blocks:
       surtitle: Structure de frais
     figure:
       src: /images/uploads/structure-de-frais.png
+      linear: true
   - type: information
     text: "Une structure de coûts compressée permet de rendre une partie plus
       conséquente de la performance aux investisseurs et à plus long terme de
@@ -45,6 +49,7 @@ blocks:
     background: false
     figure:
       src: /images/uploads/investissement-frais.png
+      linear: true
   - type: paragraph
     grid: medium
     text: >-

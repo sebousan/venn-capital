@@ -11,7 +11,8 @@ hero:
 blocks:
   - type: paragraph
     surtitle: la théorie de l’intelligence collective
-    title: Selon la théorie de l'intelligence collective, le jugement d'un groupe
+    title:
+      Selon la théorie de l'intelligence collective, le jugement d'un groupe
       est généralement meilleur que le jugement individuel.
     grid: medium
     text: >-
@@ -38,6 +39,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/table-intelligence.png
+      linear: true
   - type: paragraph
     grid: medium
     text: >-
@@ -63,9 +65,11 @@ blocks:
       surtitle: Statistiques appliquées à un modèle multi-experts
     figure:
       src: /images/uploads/graphic-intelligence.png
+      linear: true
   - type: paragraph
     grid: medium
-    title: L’erreur de jugement est autant liée aux biais qu’à la variabilité des
+    title:
+      L’erreur de jugement est autant liée aux biais qu’à la variabilité des
       jugements (le bruit).
     text: >-
       Pour illustrer ces notions, prenons l'exemple de jeux de fléchettes tels
@@ -78,6 +82,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/graphic-intelligence-2.png
+      linear: true
   - type: paragraph
     grid: medium
     text: >-

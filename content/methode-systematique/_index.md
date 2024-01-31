@@ -43,6 +43,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/datas-method.png
+      linear: true
       legend: "Source: S&P Global"
       credit: ""
   - type: paragraph
@@ -54,7 +55,8 @@ blocks:
 
       A l’instar de PageRank ou de Wikipedia, nos stratégies systématiques exploitent l’intelligence collective d’experts en stock-picking, en agrégeant des sources d’information que nous jugeons précieuses.
   - type: information
-    text: Les stratégies Venn Collective Alpha permettent de transformer les signaux
+    text:
+      Les stratégies Venn Collective Alpha permettent de transformer les signaux
       provenant de gérants fondamentaux en un processus systématique de
       sélection de titres.
   - type: paragraph
@@ -78,7 +80,8 @@ blocks:
   - type: paragraph
     grid: medium
     surtitle: Concentration et équipondération
-    text: En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le
+    text:
+      En 1990, Markowitz et Sharpe, aux côtés de Miller, se sont vus décerner le
       Prix Nobel d’Economie pour leurs contributions à la finance moderne. Leurs
       travaux ont grandement influencé le monde de la gestion d’actifs, en
       essaimant l’idée qu’il est risqué de détenir un petit nombre d'actions car
@@ -90,6 +93,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/diversification.png
+      linear: true
   - type: figure
     grid: medium
     offset: start
@@ -104,11 +108,13 @@ blocks:
         Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
     figure:
       src: /images/uploads/diversification-2.png
+      linear: true
       legend: "Source : Petajisto, 2013"
   - type: paragraph
     grid: medium
     surtitle: ""
-    text: Comment espérer pouvoir surperformer en étant de plus en plus proche des
+    text:
+      Comment espérer pouvoir surperformer en étant de plus en plus proche des
       indices ?
   - type: quote
     background: false
@@ -132,6 +138,7 @@ blocks:
         De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
     figure:
       src: /images/uploads/table-method.png
+      linear: true
   - type: quote
     background: false
     heading:
@@ -150,13 +157,16 @@ blocks:
     columns: 3
     items:
       - surtitle: Relation 1
-        title: "via le choix des experts sélectionnés : ces derniers affichant eux-mêmes
+        title:
+          "via le choix des experts sélectionnés : ces derniers affichant eux-mêmes
           concentration et singularité."
       - surtitle: Relation 2
-        title: "via la sélection de titres : en se focalisant sur les plus fortes
+        title:
+          "via la sélection de titres : en se focalisant sur les plus fortes
           convictions communes de ces experts."
       - surtitle: Relation 3
-        title: "via la construction de portefeuille : en privilégiant des stratégies
+        title:
+          "via la construction de portefeuille : en privilégiant des stratégies
           concentrées et équipondérées."
     column: 3
 ---
