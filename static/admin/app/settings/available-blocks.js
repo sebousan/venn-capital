@@ -1,5 +1,6 @@
 export { block_alert } from "../blocks/alert.js"
 export { block_cta } from "../blocks/cta.js"
+export { block_information } from "../blocks/information.js"
 export { block_informations } from "../blocks/informations.js"
 export { block_pushes } from "../blocks/pushes.js"
 export { block_carousel } from "../blocks/carousel.js"
