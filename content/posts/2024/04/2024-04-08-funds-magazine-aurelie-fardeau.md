@@ -7,4 +7,4 @@ categories: Interview
 image:
   src: /images/uploads/funds-03042024.png
 ---
-{{< button text="Lien vers l'article" url="https://fundsmagazine.optionfinance.fr/strategie/nous-voulons-capitaliser-sur-les-avantages-de-la-gestion-active-avec-une-approche-quantitative-et-disciplinee.html" blank="true" >}}
+{{< button text="Lien vers l'interview" url="https://fundsmagazine.optionfinance.fr/strategie/nous-voulons-capitaliser-sur-les-avantages-de-la-gestion-active-avec-une-approche-quantitative-et-disciplinee.html" blank="true" >}}
