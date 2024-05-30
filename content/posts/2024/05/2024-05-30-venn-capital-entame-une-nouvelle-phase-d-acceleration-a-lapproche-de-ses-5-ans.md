@@ -14,3 +14,4 @@ image:
   src: /images/uploads/logotype_venncapital_2lignes_bleu-4x-100.jpg
 file: /pdf/venn-capital-entame-une-nouvelle-phase-dacce-le-ration-a-l-approche-de-ses-5-ans.pdf
 ---
+{{< button text="Lien vers le communiqué de presse" url="undefined" blank="true" >}}
