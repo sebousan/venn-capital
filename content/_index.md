@@ -68,8 +68,8 @@ blocks:
     column: 2
     items:
       - surtitle: AIS Venn Collective Alpha Europe P
-        title: AEP, AG2R La Mondiale, Axa, Generali, Neuflize, Spirica, Suravenir,
-          Swisslife.
+        title: AEP, AG2R La Mondiale, Axa, Generali, Intencial, Neuflize, Spirica,
+          Suravenir, Swisslife.
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
           blank: true
