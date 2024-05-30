@@ -2,6 +2,9 @@ button:
   down: Descendre au contenu
 persons:
   who: Qui sommes-nous
+posts:
+  press:
+    read: Lire vers le communiqué de presse
 publications:
   all: Tous les articles
   discover: Découvrir l’article

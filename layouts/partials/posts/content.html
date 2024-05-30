@@ -1,0 +1,15 @@
+<div class="content"{{ partial "func/SetAnim" (dict "element" "content") }}>
+  {{ partial "posts/featured-image" . }}
+  {{ partial "posts/body" . }}
+
+  {{- with .Params.file }}
+  {{ $text := i18n "posts.press.read" }}
+  {{ $title := i18n "link.blank_aria" (dict "Title" $text) }}
+  <a href="{{ . }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer" title="{{ $title }}">{{ $text }}</a>
+  {{ end -}}
+
+  {{ $authors := "posts/authors.html" }}
+  {{ if templates.Exists ( printf "partials/%s" $authors ) }}
+    {{ partial $authors . }}
+  {{ end }}
+</div>
