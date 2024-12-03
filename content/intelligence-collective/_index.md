@@ -53,14 +53,6 @@ blocks:
 
 
       Les mathématiques, en particulier les lois de probabilités, fournissent une explication claire à ce principe. La combinaison d’avis d’experts se traduit par des résultats plus justes (moins de biais) et moins variables (moins de bruit).
-  - type: figure
-    grid: large
-    offset: start
-    heading:
-      surtitle: Statistiques appliquées à un modèle multi-experts
-    figure:
-      src: /images/uploads/graphic-intelligence.png
-      linear: true
   - type: paragraph
     grid: medium
     title: L’erreur de jugement est autant liée aux biais qu’à la variabilité des
