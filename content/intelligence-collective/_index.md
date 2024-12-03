@@ -11,8 +11,7 @@ hero:
 blocks:
   - type: paragraph
     surtitle: la théorie de l’intelligence collective
-    title:
-      Selon la théorie de l'intelligence collective, le jugement d'un groupe
+    title: Selon la théorie de l'intelligence collective, le jugement d'un groupe
       est généralement meilleur que le jugement individuel.
     grid: medium
     text: >-
@@ -51,10 +50,6 @@ blocks:
       Les débouchés sont donc multiples, de la résolution de problèmes simples (estimation d’une quantité), jusqu’à la racine du fonctionnement de nos démocraties modernes et dans notre cas, la recherche d'un portefeuille optimal.
 
 
-      L’idée de demander un deuxième avis (ou un troisième, ou un quatrième, …) sur des questions importantes semble naturelle. En effet, dans le domaine médical par exemple, il est rassurant d’obtenir plusieurs avis, plusieurs diagnostics. Prenons l’exemple d’un patient qui essaie de choisir entre différentes options de traitement et décide d’aller voir plusieurs experts médicaux. Si tous ces experts sont unanimes sur le diagnostic et le traitement recommandé, le patient sera quasiment assuré d’avoir les bonnes recommandations. 
-
-
-      Il est possible de généraliser ce principe en stipulant que les systèmes « multi-experts » sont plus robustes que les systèmes « mono-expert » à deux niveaux : en termes de résultats donc, mais également à l’échelle de la confiance à l’égard de ce résultat.
 
 
       Les mathématiques, en particulier les lois de probabilités, fournissent une explication claire à ce principe. La combinaison d’avis d’experts se traduit par des résultats plus justes (moins de biais) et moins variables (moins de bruit).
@@ -68,8 +63,7 @@ blocks:
       linear: true
   - type: paragraph
     grid: medium
-    title:
-      L’erreur de jugement est autant liée aux biais qu’à la variabilité des
+    title: L’erreur de jugement est autant liée aux biais qu’à la variabilité des
       jugements (le bruit).
     text: >-
       Pour illustrer ces notions, prenons l'exemple de jeux de fléchettes tels
