@@ -2,7 +2,7 @@
 isIndex: false
 draft: false
 date: 2025-01-01T12:40:09.886Z
-title: "2025 : Le Monde à l'Endroit?"
+title: "2025 : Le Monde à l'Endroit ?"
 description: >-
   L‘année 2024 touche à sa fin, il est temps de s’interroger sur les
   perspectives 2025. Fin 2023, après une année durant laquelle les indices
