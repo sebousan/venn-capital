@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2025-01-01T12:40:09.886Z
 title: "2025 : Le Monde à l'Endroit?"
 description: >-
