@@ -26,6 +26,8 @@ description: >-
   En effet, pour analyser la séquence dans laquelle s’inscrivent les marchés depuis 3 ans, il faut revenir une quinzaine d’années en arrière…
 publications_categories: Investissement
 publications_authors: Venn
+press:
+  file: /pdf/2025-le-monde-a-l-endroit.pdf
 image:
   src: /images/uploads/monde-a-l-endroit.jpg
 ---
