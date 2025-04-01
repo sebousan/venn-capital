@@ -37,13 +37,13 @@ blocks:
         COLLECTIVE ALPHA EUROPE et VENN COLLECTIVE ALPHA US.
       text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
-      - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Spirica,
-          Suravenir, Swisslife.
+      - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Oradea,
+          Spirica, Suravenir, Swisslife.
         surtitle: AIS Venn Collective Alpha Europe P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202709/rg-fr0013432754-pdf
           blank: true
-      - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Spirica,
+      - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Oradea, Spirica,
           Suravenir, Swisslife.
         surtitle: AIS Venn Collective Alpha US P
         cta:
