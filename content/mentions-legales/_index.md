@@ -77,4 +77,4 @@ Un Cinq\
 https://uncinq.dev
 
 **Solution**\
-Ce site a été conçu avec [Hugolify](https://www.hugolify.io), une solution open-source Jamstack, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité.
+Ce site a été conçu avec [Capitalify](https://www.capitalify.io), une solution open-source, qui permet de concevoir un site le plus écologique possible et au plus proche des critères d'accessibilité. Cette solution est dédiée à l’univers de la finance et du patrimoine.
