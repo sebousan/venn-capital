@@ -27,7 +27,7 @@ blocks:
       surtitle: Évolution des frais courants au sein des fonds
     figure:
       src: /images/uploads/evolution-des-frais.png
-      linear: true
+      filter: linear
       legend: "Source: Investment Company Institute; Morningstar Direct"
   - type: figure
     grid: medium
@@ -37,7 +37,7 @@ blocks:
       surtitle: Structure de frais
     figure:
       src: /images/uploads/structure-de-frais.png
-      linear: true
+      filter: linear
   - type: information
     text: "Une structure de coûts compressée permet de rendre une partie plus
       conséquente de la performance aux investisseurs et à plus long terme de
@@ -49,7 +49,7 @@ blocks:
     background: false
     figure:
       src: /images/uploads/investissement-frais.png
-      linear: true
+      filter: linear
   - type: paragraph
     grid: medium
     text: >-

@@ -4,7 +4,7 @@
         margin-bottom: 0
     .row > div
         @extend .offset-md-1
-    .surtitle
+    .surtitle:not(:last-child)
         @include margin-bottom($global-spacing)
     .btn
         @extend .btn-secondary
@@ -19,5 +19,5 @@
                 margin-left: -10.2%
 
     @include media-breakpoint-up(lg)
-        .surtitle
+        .surtitle:not(:last-child)
             margin-bottom: px2rem(90)

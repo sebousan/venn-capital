@@ -1,12 +1,12 @@
-{{ $text := i18n "publications.press.more" }}
-{{ $title := i18n "link.blank_aria" (dict "Title" $text) }}
-{{ $context := .}}
+{{- $text := i18n "publications.press.more" -}}
+{{- $title := i18n "link.blank_aria" (dict "Title" $text) -}}
+{{- $context := . -}}
 
-{{ with .Params.press }}
+{{- with .Params.press }}
   <div class="press">
     <div class="content">
       <h3 class="name">{{ .title }}</h3>
-      {{ partial "commons/date" $context }}
+      {{ partial "commons/date.html" $context }}
       {{ $url := "" }}
       {{ with .url }}
         {{ $url = . }}
@@ -17,5 +17,5 @@
     </div>
   </div>
 {{ else }}
-  {{ partial "publications/metas" . }}
-{{ end }}
+  {{ partial "publications/metas.html" . }}
+{{ end -}}

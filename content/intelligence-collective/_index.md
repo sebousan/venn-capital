@@ -38,7 +38,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/table-intelligence.png
-      linear: true
+      filter: linear
   - type: paragraph
     grid: medium
     text: >-
@@ -68,7 +68,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/graphic-intelligence-2.png
-      linear: true
+      filter: linear
   - type: paragraph
     grid: medium
     text: >-

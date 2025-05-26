@@ -1,0 +1,39 @@
+{{- $section := "persons" }}
+{{- $atf := cond .first true false -}}
+{{- $show_button := .show_more | default true -}}
+
+{{- if lt (len .items) 3 }}
+  {{- with .heading }}
+    <div class="content">
+      {{- with .title }}
+        <h2>{{ partial "func/PrepareHTML.html" . }}</h2>
+      {{ end -}}
+      {{- with .text }}
+        <p>{{ partial "func/PrepareHTML.html" (partial "func/LineBreak" .) }}</p>
+      {{ end -}}
+      {{- if $show_button }}
+        {{- $index := site.GetPage "/qui-sommes-nous" -}}
+        {{ with $index }}
+          <div class="bottom">
+            <a href="{{ .Permalink }}" class="btn">{{ i18n "persons.who" }}</a>
+          </div>
+        {{ end }}
+      {{ end -}}
+    </div>
+  {{ end -}}
+{{ end -}}
+
+{{- with .items }}
+  {{- $items := slice -}}
+  {{- range . }}
+    {{- $path := printf "%s/%s" $section . -}}
+    {{- $item := site.GetPage $path -}}
+    {{ with $item }}
+      {{ $items = $items | append . }}
+    {{ end }}
+  {{ end -}}
+  {{- if gt $items 0 }}
+    {{- $partial := printf "%s/items" $section -}}
+    {{ partial $partial (dict "pages" $items "scrollsnap" true "abovethefold" $atf) }}
+  {{ end -}}
+{{ end -}}

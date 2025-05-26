@@ -1,4 +1,4 @@
-<section class="block-quote{{ with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
+<section class="block-quote {{- with .background }} block-bg{{ end }}" {{- partial "func/SetAnim.html" (dict "element" "block") }}>
   <div class="container">
     <div class="row">
       <div>
@@ -6,16 +6,16 @@
           <figure class="quote">
             {{ partial "blocks/heading.html" . }}
             
-            {{ with .quote}}
-              <blockquote{{ if gt (len .) 150 }} class="quote-long"{{ end }}>
-                <p>{{ partial "func/PrepareHTML" . }}</p>
+            {{- with .quote }}
+              <blockquote {{- if gt (len .) 150 }} class="quote-long"{{ end }}>
+                <p>{{ partial "func/PrepareHTML.html" . }}</p>
               </blockquote>
-            {{ end }}
+            {{ end -}}
           
-            {{ with .author }}
+            {{- with .author }}
               <figcaption>
                 {{ with .image}}
-                  {{ $desktop := site.Params.blocks.quote.desktop | default false }}
+                  {{- $desktop := site.Params.blocks.quote.desktop | default false -}}
                   {{ partial "commons/image.html" (dict
                       "src" .src
                       "alt" .alt
@@ -25,12 +25,12 @@
                 {{ end }}
                 <div>
                   {{ with .title}}
-                    <cite>{{ partial "func/PrepareHTML" . }}</cite><br>
+                    <cite>{{ partial "func/PrepareHTML.html" . }}</cite><br>
                   {{ end }}
-                  {{ partial "func/PrepareHTML" .text }}
+                  {{ partial "func/PrepareHTML.html" .text }}
                 </div>
               </figcaption>
-            {{ end }}
+            {{ end -}}
           </figure>
         </div>
       </div>

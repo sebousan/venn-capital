@@ -1,6 +1,5 @@
 ## LANGUAGE
 defaultContentLanguage: fr
-languageCode: fr
 
 ## ADVANCED
 build:
@@ -15,5 +14,6 @@ imaging:
 markup:
   tableOfContents:
     ordered: true
-paginate: 6
+pagination:
+  pagerSize: 6
 removePathAccents: true

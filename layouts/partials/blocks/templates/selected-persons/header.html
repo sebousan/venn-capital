@@ -1,0 +1,7 @@
+{{- with .heading }}
+  {{- with .surtitle }}
+    <header class="heading">
+      <p class="surtitle">{{ partial "func/PrepareHTML.html" . }}</p>
+    </header>
+  {{ end -}}
+{{ end -}}

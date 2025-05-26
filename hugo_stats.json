@@ -51,9 +51,15 @@
       "block-carousel",
       "block-cta",
       "block-figure",
+      "block-figure-large",
+      "block-figure-medium",
+      "block-figure-small",
+      "block-figure-start",
       "block-information",
       "block-informations",
       "block-latest",
+      "block-latest-grid",
+      "block-latest-posts",
       "block-map",
       "block-paragraph",
       "block-pushes",
@@ -103,6 +109,7 @@
       "home-page",
       "hugolify",
       "item",
+      "item-adjacent",
       "items",
       "items-2",
       "items-3",
@@ -192,7 +199,8 @@
       "term-publications_categories",
       "text",
       "title",
-      "toc"
+      "toc",
+      "wrapper"
     ],
     "ids": null
   }

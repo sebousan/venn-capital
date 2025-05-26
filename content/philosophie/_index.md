@@ -35,7 +35,7 @@ blocks:
     background: false
     figure:
       src: /images/uploads/philosophie-chart.jpg
-      linear: true
+      filter: linear
   - type: paragraph
     grid: medium
     text: >-

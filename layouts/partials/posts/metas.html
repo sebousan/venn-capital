@@ -1,7 +1,7 @@
 <div class="metas">
-  {{ partial "commons/date" . }}
-  {{ $categories := "posts/categories.html" }}
-  {{ if templates.Exists ( printf "partials/%s" $categories ) }}
+  {{ partial "commons/date.html" . }}
+  {{- $categories := "posts/categories.html" -}}
+  {{- if templates.Exists ( printf "partials/%s" $categories ) }}
     {{ partial $categories . }}
-  {{ end }}
+  {{ end -}}
 </div>

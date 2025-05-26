@@ -43,7 +43,7 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/datas-method.png
-      linear: true
+      filter: linear
       legend: "Source: S&P Global"
       credit: ""
   - type: paragraph
@@ -93,29 +93,24 @@ blocks:
     offset: start
     figure:
       src: /images/uploads/diversification.png
-      linear: true
+      filter: linear
+  - type: paragraph
+    grid: medium
+    surtitle: Pourquoi alors cette tendance massive à la diversification ?
+    text: >-
+      L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
+
+      Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
   - type: figure
     grid: medium
     offset: start
-    heading:
-      surtitle: ""
-      text: >-
-        Pourquoi alors cette tendance massive à la diversification ?
-
-
-        L’analyse de l’évolution de l’active share au sein de l’industrie de la gestion apporte des éléments de réponse.
-
-        Indépendamment de la montée en puissance de la gestion indicielle, la gestion active est elle-même structurellement de moins en moins ‘active’ , en raison de facteurs externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques…
     figure:
       src: /images/uploads/diversification-2.png
-      linear: true
+      filter: linear
       legend: "Source : Petajisto, 2013"
   - type: paragraph
     grid: medium
-    surtitle: ""
-    text:
-      Comment espérer pouvoir surperformer en étant de plus en plus proche des
-      indices ?
+    surtitle: Comment espérer pouvoir surperformer en étant de plus en plus proche des indices ?
   - type: quote
     background: false
     heading:
@@ -125,20 +120,21 @@ blocks:
       title: Coco Chanel
       image:
         src: /images/uploads/coco-chanel.png
+  - type: paragraph
+    grid: medium
+    text: >-
+      Forte active share et portefeuille concentré sont des prérequis
+      nécessaires pour obtenir une performance différentes de celles des
+      indices.
+
+
+      De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
   - type: figure
     grid: medium
     offset: start
-    heading:
-      text: >-
-        Forte active share et portefeuille concentré sont des prérequis
-        nécessaires pour obtenir une performance différentes de celles des
-        indices.
-
-
-        De nombreuses études académiques viennent logiquement corroborer cette relation positive entre forte active share/concentration élevée et capacité à surperformer.
     figure:
       src: /images/uploads/table-method.png
-      linear: true
+      filter: linear
   - type: quote
     background: false
     heading:

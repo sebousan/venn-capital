@@ -1,6 +1,6 @@
-<div class="content"{{ partial "func/SetAnim" (dict "element" "content") }}>
-  {{ partial "posts/featured-image" . }}
-  {{ partial "posts/body" . }}
+<div class="content" {{- partial "func/SetAnim.html" (dict "element" "content") }}>
+  {{ partial "posts/featured-image.html" . }}
+  {{ partial "posts/body.html" . }}
 
   {{- with .Params.file }}
   {{ $text := i18n "posts.press.read" }}
@@ -8,7 +8,7 @@
   <a href="{{ . }}" class="btn btn-primary" target="_blank" rel="noopener noreferrer" title="{{ $title }}">{{ $text }}</a>
   {{ end -}}
 
-  {{ $authors := "posts/authors.html" }}
+  {{- $authors := "posts/authors.html" -}}
   {{ if templates.Exists ( printf "partials/%s" $authors ) }}
     {{ partial $authors . }}
   {{ end }}

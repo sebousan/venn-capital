@@ -1,4 +1,4 @@
-<div class="sidebar"{{ partial "func/SetAnim" (dict "element" "sidebar") }}>
+<div class="sidebar"{{ partial "func/SetAnim.html" (dict "element" "sidebar") }}>
   {{ $isVenn := .Params.press.venn }}
   {{ partial "publications/publications_categories" . }}
   {{ partial "commons/share" . }}

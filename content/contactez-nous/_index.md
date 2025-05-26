@@ -21,5 +21,5 @@ blocks:
     background: false
     location: '{"type":"Point","coordinates":[2.3225243,48.8743234]}'
     zoom: 16
-    grid: full
+    grid: container
 ---

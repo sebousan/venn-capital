@@ -1,4 +1,4 @@
-<section class="block-carousel{{ with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
+<section class="block-carousel {{- with .background }} block-bg{{ end }}" {{- partial "func/SetAnim.html" (dict "element" "block") }}>
   <div class="container">
 
     {{ with .items }}
@@ -12,12 +12,12 @@
           {{ range $index, $items := . }}
             <div class="carousel-item{{ if eq $index 0 }} active{{ end }}">
               <div class="carousel-caption">
-                <h3>{{ partial "func/PrepareHTML" .title }}</h3>
+                <h3>{{ partial "func/PrepareHTML.html" .title }}</h3>
               </div>
               {{ with .image }}
                 {{ $desktop := site.Params.blocks.carousel.desktop | default false }}
                 {{ $mobile := site.Params.blocks.carousel.mobile | default false }}
-                {{ partial "commons/image" (dict
+                {{ partial "commons/image.html" (dict
                   "src" .src 
                   "alt" .alt 
                   "desktop" $desktop

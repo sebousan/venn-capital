@@ -1,4 +1,4 @@
-{{ $email := partial "func/PrepareHTML" . }}
+{{ $email := partial "func/PrepareHTML.html" . }}
 {{ $title := i18n "link.blank_aria" (dict "Title" .) }}
 <li class="email">
   <b>{{ i18n "contact.email" }}</b> <a href="mailto:{{ $email }}" target="_blank" title="{{ safeHTML $title }}">{{ $email }}</a>

@@ -10,7 +10,7 @@ footer[role="contentinfo"]
         --bs-nav-link-color: white
         --bs-nav-link-hover-color: white
         --bs-nav-link-font-size: #{px2rem(12)}
-        a
+        a:not(.btn)
             display: inline-block
             text-decoration-color: transparent
             &:hover
@@ -42,7 +42,7 @@ footer[role="contentinfo"]
             float: right
         @include media-breakpoint-up(xxl)
             margin-bottom: $spacer
-        a
+        a:not(.btn)
             color: $secondary
             padding: 0
             text-decoration-color: inherit

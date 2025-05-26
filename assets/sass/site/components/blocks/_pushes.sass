@@ -32,6 +32,9 @@
         position: absolute
         right: 0
         z-index: 1
+        &::before
+            @include icon("arrow-right")
+            margin-right: .5rem;
 
     .items-small .push
         --bs-aspect-ratio: 30%

@@ -1,9 +1,7 @@
-<section class="block-information{{ with .background }} block-bg{{ end }}"{{ partial "func/SetAnim" (dict "element" "block") }}>
+<section class="block-information {{- with .background }} block-bg{{ end }}" {{- partial "func/SetAnim.html" (dict "element" "block") }}>
   <div class="container">
-
     <div class="text">
-      {{ partial "func/PrepareHTML" .text | markdownify }}
+      {{ partial "func/PrepareHTML.html" .text | markdownify }}
     </div>
-
   </div>
 </section>

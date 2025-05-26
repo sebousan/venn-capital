@@ -3,22 +3,33 @@ module.exports = {
   plugins: {
     autoprefixer: {},
     cssnano: {
-      preset: "default",
+      preset: 'default'
     },
-    "@fullhuman/postcss-purgecss": {
-      mode: "all",
-      content: ["./hugo_stats.json"],
+    '@fullhuman/postcss-purgecss': {
+      mode: 'all',
+      content: ['./hugo_stats.json'],
+      dynamicAttributes: [
+        'aria-current',
+        'aria-hidden',
+        'aria-expanded',
+        'href',
+        'target',
+        'role',
+        'type'
+      ],
       safelist: {
         standard: [
-          "show",
-          "fade",
+          'show',
+          'showing',
+          'hide',
+          'fade',
           /-backdrop$/,
           /^is-/,
           /^has-/,
           /^js-/,
           /^carousel-item/,
         ],
-        greedy: [/^data-anim$/, /^aria-current$/, /^role$/],
+        greedy: [/^data-anim$/],
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;

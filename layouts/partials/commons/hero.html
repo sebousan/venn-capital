@@ -1,4 +1,4 @@
-<header class="hero"{{ partial "func/SetAnim" (dict "element" "hero") }}>
+<header class="hero"{{ partial "func/SetAnim.html" (dict "element" "hero") }}>
   <div class="container">
     {{ with .Params.hero }}
       {{ with .image }}
@@ -24,24 +24,24 @@
 
       <div class="hero-content">
         {{- with .Site.Data.seo.baseline -}}
-          <p class="surtitle">{{ partial "func/PrepareHTML" . }}</p>
+          <p class="surtitle">{{ partial "func/PrepareHTML.html" . }}</p>
         {{- end -}}
         {{ with .Params.hero }}
           {{ with .title }}
-            <h1>{{ partial "func/PrepareHTML" . }}</h1>
+            <h1>{{ partial "func/PrepareHTML.html" . }}</h1>
           {{ end }}
           {{ with .text }}
             <div class="description">
               {{ if in (string .) "\n" }}
-                {{ partial "func/PrepareHTML" . | markdownify }}
+                {{ partial "func/PrepareHTML.html" . | markdownify }}
               {{ else }}
-                <p>{{ partial "func/PrepareHTML" . | markdownify }}</p>
+                <p>{{ partial "func/PrepareHTML.html" . | markdownify }}</p>
               {{ end }}
             </div>
           {{ end }}
         {{ else }}
           {{ with .Title }}
-            <h1>{{ partial "func/PrepareHTML" . }}</h1>
+            <h1>{{ partial "func/PrepareHTML.html" . }}</h1>
           {{ end }}
         {{ end }}
       </div>
