@@ -24,9 +24,12 @@ module.exports = {
           /-backdrop$/,
           /^is-/,
           /^has-/,
-          /^splide_/
+          /^carousel-item/
         ],
-        greedy: [/^data-anim$/]
+        greedy: [
+          'modal-open',
+          /^data-anim$/
+        ]
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;
