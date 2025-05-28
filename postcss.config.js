@@ -12,6 +12,8 @@ module.exports = {
         'aria-current',
         'aria-hidden',
         'aria-expanded',
+        'href',
+        'target',
         'role',
         'type'
       ],
@@ -21,13 +23,14 @@ module.exports = {
           'showing',
           'hide',
           'fade',
+          'modal-open',
           /-backdrop$/,
           /^is-/,
           /^has-/,
+          /^js-/,
           /^carousel-item/
         ],
         greedy: [
-          'modal-open',
           /^data-anim$/
         ]
       },
