@@ -1,4 +1,5 @@
 /* eslint-disable no-undef */
+module/* eslint-disable no-undef */
 module.exports = {
   plugins: {
     autoprefixer: {},
@@ -12,8 +13,6 @@ module.exports = {
         'aria-current',
         'aria-hidden',
         'aria-expanded',
-        'href',
-        'target',
         'role',
         'type'
       ],
@@ -26,16 +25,15 @@ module.exports = {
           /-backdrop$/,
           /^is-/,
           /^has-/,
-          /^js-/,
-          /^carousel-item/,
+          /^splide_/
         ],
-        greedy: [/^data-anim$/],
+        greedy: [/^data-anim$/]
       },
       defaultExtractor: (content) => {
         let els = JSON.parse(content).htmlElements;
         els = els.tags.concat(els.classes);
         return els;
-      },
-    },
-  },
+      }
+    }
+  }
 };
