@@ -1,5 +1,4 @@
 /* eslint-disable no-undef */
-module/* eslint-disable no-undef */
 module.exports = {
   plugins: {
     autoprefixer: {},
