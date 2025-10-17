@@ -27,7 +27,7 @@ blocks:
       blank: false
     offset: start
   - type: pushes
-    column: 2
+    column: 3
     image:
       src: /images/uploads/logo-federal-gestion.png
     heading:
@@ -39,16 +39,23 @@ blocks:
     items:
       - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Oradea,
           Spirica, Suravenir, Swisslife.
-        surtitle: AIS Venn Collective Alpha Europe P
+        surtitle: ADS Venn Collective Alpha Europe P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202709/rg-fr0013432754-pdf
           blank: true
       - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Oradea, Spirica,
           Suravenir, Swisslife.
-        surtitle: AIS Venn Collective Alpha US P
+        surtitle: ADS Venn Collective Alpha US P
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202718/rg-fr0013432739-pdf
           blank: true
+      - cta:
+          blank: true
+          url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_286120/rg-fr001400zap4-pdf
+        image:
+          darken: true
+        surtitle: ADS Venn Collective Alpha SMID US P
+        title: Neuflize
   - type: pushes
     column: 2
     image:
