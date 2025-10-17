@@ -57,7 +57,7 @@ blocks:
         image:
           darken: true
         surtitle: ADS Venn Collective Alpha SMID US P
-        title: Neuflize
+        title: AG2R La Mondiale, Neuflize
   - type: pushes
     column: 2
     image:
