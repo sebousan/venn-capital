@@ -34,7 +34,9 @@ blocks:
       surtitle: "Société de gestion : Fédéral Finance Gestion"
       title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
         2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
-        COLLECTIVE ALPHA EUROPE et VENN COLLECTIVE ALPHA US.
+        COLLECTIVE ALPHA EUROPE et VENN COLLECTIVE ALPHA US. Depuis 2025, ce
+        partenariat a été élargi à un 3ème fonds afin de répliquer l'indice VENN
+        COLLECTIVE ALPHA US SMID.
       text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
       - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Oradea,
