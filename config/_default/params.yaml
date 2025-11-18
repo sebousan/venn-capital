@@ -1,8 +1,23 @@
 _merge: deep
+
+# Javascript
 animation: true
+carousel: false
+bootstrap:
+  collapse: false
+  dropdown: true
+  modal: true
+  offcanvas: true
+map: true
+
+# Config
+header:
+  menu: modal
 gutter: 30
 container:
   desktop: 1498
+
+# Image
 hero:
   _merge: deep
   cover: "600x600"

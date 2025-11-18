@@ -1,0 +1,13 @@
+@mixin link-arrow
+    @if variable-exists(icons-map)
+        &::after
+            @include icon("arrow-right")
+            font-size: 1.4rem
+            margin-left: 1rem
+            vertical-align: -0.35rem
+        @media (prefers-reduced-motion: no-preference)
+            &:hover
+                &::after
+                    transform: translateX(.3rem)
+            &::after
+                transition: transform $transition-duration $transition-effect

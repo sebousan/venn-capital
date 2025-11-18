@@ -1,13 +1,15 @@
 github.com/Splidejs/splide v4.1.3+incompatible h1:ms0c3Tem9Bq7qcr88nLspZi2SW14mYnj4CVuHGqJbzA=
 github.com/Splidejs/splide v4.1.3+incompatible/go.mod h1:N10tHuOP81a5HGua3PmZVrpMiBmf/KhId8jZt0oShNk=
+github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03 h1:TyZM0MK9+09/vGdnH8N9xVFix5f1vzU90V5WCyL16oE=
+github.com/dixonandmoe/rellax v0.0.0-20240824005335-9ed6cb0aae03/go.mod h1:CJ8UtS8LPLOSmpvwRkQJkwqOwwXaDfH5S7iG83GKAlY=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 h1:L6+F22i76xmeWWwrtijAhUbf3BiRLmpO5j34bgl1ggU=
 github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400/go.mod h1:uekq1D4ebeXgduLj8VIZy8TgfTjrLdSl6nPtVczso78=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 h1:GZxx4Hc+yb0/t3/rau1j8XlAxLE4CyXns2fqQbyqWfs=
 github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
 github.com/hugolify/hugolify-netlify-cms v1.8.3 h1:Y8PZ/exxZxEaKcmFJyi42culpJeWegWtbgVzKnVkAQU=
 github.com/hugolify/hugolify-netlify-cms v1.8.3/go.mod h1:Q7HNXBxIatKmA+mlG+3HbWUYApZnftOwFz6kevyg/HU=
-github.com/hugolify/hugolify-theme v1.22.10 h1:MetRN++0bh75O/ZshCN+u21R0fVfkMgNlFVkqsblQXc=
-github.com/hugolify/hugolify-theme v1.22.10/go.mod h1:dRIiGMTOC5dQ8U9CEcLyNIW7be6n7jNx0iSUB1YKdJw=
+github.com/hugolify/hugolify-theme v1.26.21 h1:A8o/Nxkq4WMYaYQT3sv0SUuigqybdI3IMLBmuYpscRo=
+github.com/hugolify/hugolify-theme v1.26.21/go.mod h1:Rc64eJSSIWGeU6eHfSzUISNfL9UrJmy3Xs3H05Gz9rQ=
 github.com/hugolify/hugolify-theme-persons v1.3.25 h1:Fe6rGYhNcFrzaOLmsqNX/Us4BXkILpCdqefjgRU+yxs=
 github.com/hugolify/hugolify-theme-persons v1.3.25/go.mod h1:x6Gk/koepvu90W+Y6W0+F+5qqBx+lpeTZUonZUkCz1w=
 github.com/hugolify/hugolify-theme-persons-statutes v1.1.11 h1:UdyMqd8lbdu8hn7amy/hQHOhrWeaiexfI8zOlEJKa5s=

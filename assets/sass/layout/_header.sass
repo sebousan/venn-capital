@@ -78,8 +78,6 @@ header[role="banner"]
     .modal
         --bs-modal-bg: #{$header-background-color}
         --bs-modal-header-padding: 0
-        &-dialog
-            @extend .modal-fullscreen
         .header
             --bs-modal-header-border-width: 0
             @extend .modal-header
@@ -108,5 +106,3 @@ header[role="banner"]
             text-align: center
         .nav-secondary
             margin-top: 2rem
-            @include media-breakpoint-up(md)
-                display: none
