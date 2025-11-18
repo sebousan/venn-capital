@@ -57,3 +57,7 @@ blocks:
   quote:
     _merge: deep
     desktop: "1023x767"
+
+# Admin
+admin:
+  cms: netlifyfcms
