@@ -60,4 +60,26 @@ blocks:
 
 # Admin
 admin:
-  cms: netlifyfcms
+  cms: netlifycms
+
+  blocks:
+    enbale:
+      - alert
+      - carousel
+      - cta
+      - embed
+      - figure
+      - gallery
+      - images
+      - information
+      - informations
+      - latest
+      - map
+      - newsletter
+      - paragraph
+      - pushes
+      - quote
+      - selectedposts
+      - selectedpersons
+      - selectedpublications
+      - title
