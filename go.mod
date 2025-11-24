@@ -15,7 +15,7 @@ require (
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.13 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.2.10 // indirect
 	github.com/hugolify/hugolify-theme-publications-categories v1.0.6 // indirect
-	github.com/midzer/tobii v3.0.0+incompatible // indirect
+	github.com/midzer/tobii v3.1.0+incompatible // indirect
 	github.com/orestbida/cookieconsent v3.1.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 	github.com/twbs/icons v1.13.1 // indirect
