@@ -8,9 +8,9 @@ require (
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20400 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
 	github.com/hugolify/hugolify-netlify-cms v1.8.3 // indirect
-	github.com/hugolify/hugolify-theme v1.26.21 // indirect
+	github.com/hugolify/hugolify-theme v1.26.26 // indirect
 	github.com/hugolify/hugolify-theme-persons v1.3.26 // indirect
-	github.com/hugolify/hugolify-theme-persons-statutes v1.1.11 // indirect
+	github.com/hugolify/hugolify-theme-persons-statutes v1.1.12 // indirect
 	github.com/hugolify/hugolify-theme-posts v1.2.8 // indirect
 	github.com/hugolify/hugolify-theme-posts-categories v1.0.15 // indirect
 	github.com/hugolify/hugolify-theme-publications v1.2.11 // indirect
