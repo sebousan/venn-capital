@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2026-01-01T16:36:40.476Z
 title: "2026 : Le Mythe devient Cycle ?"
 description: >
@@ -29,7 +29,7 @@ description: >
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/2026-le-mythe-devient-cycle.pdf
+  file: /pdf/2026-le-mythe-devient-cycle-filtres_compressed.pdf
 image:
   src: /images/uploads/le-retour-de-persephone.jpg
 ---
