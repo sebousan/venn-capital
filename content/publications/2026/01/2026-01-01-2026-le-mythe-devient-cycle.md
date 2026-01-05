@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2026-01-01T16:36:40.476Z
 title: "2026 : Le Mythe devient Cycle ?"
 description: >
