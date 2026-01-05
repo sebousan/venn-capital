@@ -29,7 +29,7 @@ description: >
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/le-cycle-des-styles-2020-05-20-venn-research.pdf
+  file: /pdf/2026-le-mythe-devient-cycle.pdf
 image:
   src: /images/uploads/le-retour-de-persephone.jpg
 ---
