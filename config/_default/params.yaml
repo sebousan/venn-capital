@@ -12,7 +12,7 @@ map: true
 
 # Config
 header:
-  menu: modal
+  layout: modal
 gutter: 30
 container:
   desktop: 1498
