@@ -4,7 +4,7 @@
       <div>
         <div>
           <figure class="quote">
-            {{ partial "blocks/heading.html" . }}
+            {{ partial "blocks/heading.html" (dict "container" false "heading" .heading) }}
             
             {{- with .quote }}
               <blockquote {{- if gt (len .) 150 }} class="quote-long"{{ end }}>

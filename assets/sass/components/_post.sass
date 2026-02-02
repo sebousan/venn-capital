@@ -26,8 +26,12 @@
     .content
         grid-row: 3
     .name
-        & + p
+        @include font-size($h3-font-size)
+        margin-bottom: $spacer
+        & ~ p
             margin-bottom: 0
+    .description
+        display: none
     .category
         color: $primary-lighten
     .btn
@@ -75,6 +79,7 @@
         .metas
             grid-column: 3/6
         .metas
+            @include margin-top($global-spacing)
             grid-row: 1
         .content
             grid-row: 2/4

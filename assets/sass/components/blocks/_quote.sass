@@ -44,6 +44,7 @@
     blockquote
         @include margin-bottom($global-spacing)
         position: relative
+        text-align: left
         z-index: 1
         @include media-breakpoint-up(xxl)
             margin-bottom: px2rem(90)
@@ -56,8 +57,11 @@
             top: 0
             width: 4px
     picture
+        aspect-ratio: auto !important
+        border-radius: 0 !important
         bottom: 0
         left: 0
+        max-width: 100% !important
         opacity: .15
         overflow: hidden
         position: absolute
