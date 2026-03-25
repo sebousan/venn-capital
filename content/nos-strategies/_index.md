@@ -71,19 +71,19 @@ blocks:
     items:
       - surtitle: Venn Collective Alpha Europe index
         cta:
-          url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-europe-index
+          url: https://lixxinnovation.com/en/indices/index/venn-collective-alpha-europe-index
           blank: true
       - surtitle: Venn Collective Alpha US index
         cta:
-          url: https://lixxinnovation.com/indizes/index/venn-smart-alpha-us-index
+          url: https://lixxinnovation.com/en/indices/index/venn-collective-alpha-us-index
           blank: true
       - surtitle: Venn Collective Alpha US SMID Index
         cta:
-          url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-us-smid-index
+          url: https://lixxinnovation.com/en/indices/index/venn-collective-alpha-us-smid-index
           blank: true
       - surtitle: Venn Collective Alpha Emerging Asia Index
         cta:
-          url: https://lixxinnovation.com/en/indices/index/venn-smart-alpha-emerging-asia-index
+          url: https://lixxinnovation.com/en/indices/index/venn-collective-alpha-emerging-asia-index
           blank: true
   - type: cta
     heading:
