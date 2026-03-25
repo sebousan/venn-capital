@@ -66,7 +66,7 @@ blocks:
       surtitle: "Administrateur d’indices : LIXX Innovation"
       title: Les indices VENN sont administrés, calculés quotidiennement et disséminés
         auprès des bases d’informations financières par LIXX Index Innovation
-      text: Retrouvez toutes les informations sur chacun de ces fonds.
+      text: "Retrouvez toutes les informations sur chacun de ces indices:"
     small: true
     items:
       - surtitle: Venn Collective Alpha Europe index
