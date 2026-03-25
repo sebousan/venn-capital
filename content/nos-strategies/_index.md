@@ -43,17 +43,17 @@ blocks:
           Spirica, Suravenir, Swisslife.
         surtitle: ADS Venn Collective Alpha Europe P
         cta:
-          url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202709/rg-fr0013432754-pdf
+          url: https://www.arkea-am.com/jcms/rec_6380/fr/ads-venn-collective-alpha-europe-p
           blank: true
       - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Neuflize, Oradea, Spirica,
           Suravenir, Swisslife.
         surtitle: ADS Venn Collective Alpha US P
         cta:
-          url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_202718/rg-fr0013432739-pdf
+          url: https://www.arkea-am.com/jcms/rec_6152/fr/ads-venn-collective-alpha-us-p
           blank: true
       - cta:
           blank: true
-          url: https://www.federal-finance-gestion.fr/gestion/actifs/doc/c_286120/rg-fr001400zap4-pdf
+          url: https://www.arkea-am.com/jcms/rec_6154/fr/ads-venn-collective-alpha-smid-us-p
         image:
           darken: true
         surtitle: ADS Venn Collective Alpha SMID US P
