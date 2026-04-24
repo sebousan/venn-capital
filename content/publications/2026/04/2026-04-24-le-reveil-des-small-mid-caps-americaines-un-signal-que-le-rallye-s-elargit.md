@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2025-10-03T13:15:41.211Z
 title: "Le réveil des small & mid caps américaines : un signal que le rallye
   s’élargit ?"
