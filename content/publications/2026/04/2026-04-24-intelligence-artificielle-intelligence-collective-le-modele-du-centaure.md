@@ -21,5 +21,7 @@ publications_categories: Intelligence collective
 publications_authors: Venn
 press:
   url: https://www.linkedin.com/pulse/intelligence-artificielle-collective-le-mod%C3%A8le-du-centaure-7q3de/?trackingId=XYfoi6Hn1G8QXXvrxwECZA%3D%3D
-  file: /pdf/centaure.png
+  file: ""
+image:
+  src: /images/uploads/centaure.png.jpg
 ---
