@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: false
+draft: true
 date: 2025-12-08T13:54:38.386Z
 title: "Intelligence Artificielle / Intelligence Collective : le modèle du Centaure ?"
 description: >-
