@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2026-04-24T13:21:13.993Z
+date: 2025-06-30T13:21:13.993Z
 title: Club Patrimoine - Vincent Touraine
 description: "« Small & Mid Caps américaines : un fonds pour profiter de la
   fenêtre d'opportunité » "
