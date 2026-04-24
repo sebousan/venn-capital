@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2026-02-13T13:42:34.964Z
 title: Petites et moyennes capitalisations US, simple rotation tactique ou début
   d’un cycle plus durable ?
