@@ -17,4 +17,6 @@ publications_categories: Investissement
 publications_authors: Venn
 press:
   url: https://www.clubpatrimoine.com/contenus/small-mid-caps-americaines-reveil
+image:
+  src: /images/uploads/club-patrimoine-03102025.png
 ---
