@@ -8,4 +8,6 @@ publications_authors: Venn
 press:
   url: https://www.clubpatrimoine.com/contenus/fomo-fobo-intelligence-artificielle
   title: ""
+image:
+  src: /images/uploads/de-fomo-a-fobo.png
 ---
