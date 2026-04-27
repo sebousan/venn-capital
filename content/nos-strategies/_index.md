@@ -39,8 +39,8 @@ blocks:
         COLLECTIVE ALPHA US SMID.
       text: "Retrouvez toutes les informations sur chacun de ces fonds :"
     items:
-      - title: AEP, AG2R La Mondiale, AXA, Generali, Intencial, Neuflize, Oradea,
-          Spirica, Suravenir, Swisslife.
+      - title: AEP, AG2R La Mondiale, AXA, Cardif, Generali, Intencial, Neuflize,
+          Oradea, Spirica, Suravenir, Swisslife.
         surtitle: ADS Venn Collective Alpha Europe P
         cta:
           url: https://www.arkea-am.com/jcms/rec_6380/fr/ads-venn-collective-alpha-europe-p
