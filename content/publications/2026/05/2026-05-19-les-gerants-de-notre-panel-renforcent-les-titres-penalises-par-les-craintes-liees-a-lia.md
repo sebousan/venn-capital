@@ -37,6 +37,12 @@ description: >+
 
   Au-delà des mouvements individuels, le message paraît clair : les investisseurs fondamentaux de long terme profitent des phases de doute liées à l’IA pour renforcer les franchises qu’ils jugent les mieux armées pour traverser les prochaines évolutions technologiques.
 
+
+  AVERTISSEMENT : Ces informations reflètent le sentiment de VENN CAPITAL SAS et de ses filiales sur les marchés et leur évolution. Il a été réalisé dans un but d’information uniquement et ne constitue ni une offre ni une recommandation personnalisée ou une sollicitation en vue de la souscription des produits cités. L’investissement doit s’effectuer en fonction de ses objectifs d’investissement, son horizon d’investissement et sa capacité à faire face au risque. Il est rappelé que les performances passées ne préjugent pas des performances futures.
+   
+
 publications_categories: Investissement
 publications_authors: Venn
+image:
+  src: /images/uploads/form-13f-filing.jpg
 ---
