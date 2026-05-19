@@ -5,9 +5,9 @@ date: 2026-05-19T16:19:09.400Z
 title: " Les gérants de notre panel renforcent les titres pénalisés par les
   craintes liées à l'IA"
 description: >+
-  __Les corrections provoquées par les craintes liées à l’IA ont été mises à
+  Les corrections provoquées par les craintes liées à l’IA ont été mises à
   profit par plusieurs investisseurs de long terme pour renforcer leurs
-  positions sur des franchises jugées durablement gagnantes.__
+  positions sur des franchises jugées durablement gagnantes.
 
 
   Les publications d’inventaires des gérants américains (13F) viennent de paraître. 
