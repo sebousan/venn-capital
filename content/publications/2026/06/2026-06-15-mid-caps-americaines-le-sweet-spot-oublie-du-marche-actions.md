@@ -1,7 +1,7 @@
 ---
 isIndex: false
 draft: false
-date: 2026-06-15T08:31:03.294Z
+date: 2026-05-28T08:31:03.294Z
 title: "Mid Caps américaines :  le « sweet spot » oublié du marché actions"
 description: >-
   En quelques points :
