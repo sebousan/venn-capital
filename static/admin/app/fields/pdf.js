@@ -1,6 +1,6 @@
 import { mediaLibrary } from '../settings/media-library.js';
 import {t} from "../i18n/translater.js";
-let maxFileSize = 10000000; // 1Mo
+let maxFileSize = 20000000; // 20Mo
 
 export const pdf = {
     name: 'file',
