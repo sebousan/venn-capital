@@ -6,6 +6,7 @@ title: "Mid Caps américaines :  le « sweet spot » oublié du marché actions"
 description: >-
   En quelques points :
 
+
   - Les mid caps américaines représentent un quart de l’univers actions aux Etats-Unis, mais sont sous-représentées dans les allocations des investisseurs.
 
   - Sur longue période, elles ont généré une croissance bénéficiaire et des performances supérieuresaux grandes capitalisations.
