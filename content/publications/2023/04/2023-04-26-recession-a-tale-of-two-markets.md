@@ -14,7 +14,7 @@ description: >-
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/recession-a-tale-of-two-markets.pdf
+  file: /pdf/recession-a-tale-of-two-markets-venn-capital.pdf
 image:
   src: /images/uploads/a-tale-of-two-markets-02062022.jpg
 ---
