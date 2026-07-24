@@ -29,7 +29,7 @@ description: >
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/2026-le-mythe-devient-cycle.pdf
+  file: /pdf/2026-le-mythe-devient-cycle_hd_modifie.pdf
 image:
   src: /images/uploads/le-retour-de-persephone.jpg
 ---
