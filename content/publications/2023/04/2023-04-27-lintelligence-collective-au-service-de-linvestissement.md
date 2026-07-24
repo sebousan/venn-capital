@@ -12,7 +12,7 @@ description: 'La théorie de l’intelligence collective ou "sagesse des foules"
 publications_categories: Intelligence collective
 publications_authors: Venn
 press:
-  file: /pdf/l-intelligence-collective-au-service-de-l-investissement-venn-research-02122021.pdf
+  file: /pdf/l-intelligence-collective-au-service-de-l-investissement-venn-capital.pdf
 image:
   src: /images/uploads/intelligence-collective.jpeg
 ---
