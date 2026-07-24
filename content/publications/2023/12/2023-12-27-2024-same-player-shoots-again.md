@@ -18,7 +18,7 @@ description: >+
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/2024-Same-Player-Shoots-Again.pdf
+  file: /pdf/2024-same-player-shoots-again_modifie.pdf
 image:
   src: /images/uploads/same-player-shoots-again.jpg
 ---
