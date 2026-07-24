@@ -27,7 +27,7 @@ description: >-
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/2025-le-monde-a-l-endroit.pdf
+  file: /pdf/2025-le-monde-a-l-endroit_hd_modifie.pdf
 image:
   src: /images/uploads/monde-a-l-endroit.jpg
 ---
