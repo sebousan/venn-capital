@@ -84,7 +84,7 @@ blocks:
           url: https://www.arkea-am.com/jcms/rec_6154/fr/ads-venn-collective-alpha-smid-us-p
         image:
           darken: true
-        surtitle: ADS Venn Collective Alpha US SMIDP
+        surtitle: ADS Venn Collective Alpha SMID US P
         title: AG2R La Mondiale, Neuflize
   - type: selected-persons
     section: persons
