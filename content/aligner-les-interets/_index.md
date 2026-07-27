@@ -53,7 +53,7 @@ blocks:
     grid: medium
     text: >-
       Exemple : les fonds [ADS VENN COLLECTIVE
-      ALPHA](https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us)
+      ALPHA](https://www.arkea-am.com/jcms/rec_5106/fr/fonds?nameOrIsin=ads+venn&cid=)
       gérés par Arkéa Asset Management présentent une structure de frais
       plafonnée à 1% (part I), soit inférieure de plus de 25% à la tarification
       moyenne pratiquée par les fonds actions européens (avant même de
