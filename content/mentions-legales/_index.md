@@ -11,7 +11,7 @@ hero:
 ---
 ## Objectif du site
 
-Le site www.venn-capital.com est un site d’information dont l’objectif est de présenter l’activité et les services de VENN CAPITAL et celle de sa filiale VENN RESEARCH.
+Le site www.venn-capital.com est un site d’information dont l’objectif est de présenter l’activité et les services de VENN CAPITAL.
 
 ## Conditions d’utilisation du site
 
@@ -23,6 +23,14 @@ sources qu’elle estime fiables.
 Les informations publiées sur le site ne sont en aucun cas une incitation ou un conseil en vue d’un quelconque investissement ou arbitrage de valeurs mobilières ou tout autre produit de gestion ou d’investissement.
 
 VENN CAPITAL, ses employés, ses contributeurs, ses partenaires et ses fournisseurs de données déclinent toute responsabilité dans l’utilisation qui pourrait être faite de cette information et des conséquences qui pourraient en découler, notamment au niveau des décisions qui pourraient être prises ou des actions qui pourraient être entreprises à partir de cette information.
+
+
+
+## Absence de lien avec VENN PARTNERS
+
+VENN CAPITAL est une société indépendante et n'entretient aucun lien capitalistique, juridique, commercial ou organisationnel avec la société VENN PARTNERS. Toute similitude entre leurs dénominations est fortuite et ne doit pas être interprétée comme l'existence d'une quelconque affiliation, association, partenariat ou approbation.
+
+
 
 ## Liens hypertextes et partenaires
 
