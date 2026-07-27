@@ -11,8 +11,7 @@ blocks:
   - align: start
     grid: medium
     surtitle: à la croisée des mondes
-    title:
-      Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>.
+    title: Le monde de la gestion d’actifs est à un <span>point d’inflexion</span>.
       Difficile aujourd’hui de fermer les yeux sur <span>l’essor de la gestion
       passive</span>. Certains vont même jusqu'à imaginer la disparition
       prochaine de la <span>gestion active…</span>
@@ -67,8 +66,7 @@ blocks:
       Un deuxième élément est lié à un phénomène moins connu, mais qui peut être également très néfaste : la diversification à outrance des portefeuilles... Les américains surnomment ce phénomène la deworstification (traduction approximative : « dispersification »). Il s’explique par plusieurs facteurs de pression externes ou internes :  la réglementation ; le gérant qui souhaite limiter sa singularité face aux concurrents, aux indices de marché, pilotant ainsi son risque de ‘carrière’ ; le contrôle des risques qui imposent des limites de tracking-error…  Or il est démontré que l’idée incrémentale est souvent moins bonne, venant ainsi diluer l’alpha des plus fortes convictions.
     background: false
     offset: start
-    title:
-      Pourtant, un certain <span>nombre d’études académiques</span> sont venues
+    title: Pourtant, un certain <span>nombre d’études académiques</span> sont venues
       démontrer qu’il existait bien un alpha fondamental.
     type: paragraph
   - type: quote
@@ -102,7 +100,9 @@ blocks:
     column: 3
     background: false
     heading:
-      title: Chez Venn, nous avons conçu des stratégies qui capitalisent sur le bien-fondé de l’investissement fondamental, tout en cherchant à neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>
+      title: Chez Venn Capital, nous avons conçu des stratégies qui capitalisent sur
+        le bien-fondé de l’investissement fondamental, tout en cherchant à
+        neutraliser les éléments destructeurs évoqués, <span>à savoir :</span>
     small: true
     items:
       - cta:
@@ -130,8 +130,7 @@ blocks:
       title: "Les réponses apportées par la <span>stratégie Venn Collective
         Alpha</span> consiste ainsi à :"
     items:
-      - title:
-          S’appuyer sur le phénomène d’intelligence collective pour « débiaiser »
+      - title: S’appuyer sur le phénomène d’intelligence collective pour « débiaiser »
           la gestion active.
         text: ""
         surtitle: Numéro 1
@@ -147,8 +146,7 @@ blocks:
           url: /methode-systematique/
         image:
           src: /images/uploads/rubikscube.jpg
-      - title:
-          Aligner les intérêts via une tarification allégée et une transparence
+      - title: Aligner les intérêts via une tarification allégée et une transparence
           totale.
         surtitle: Numéro 3
         surtitle2: Solution
