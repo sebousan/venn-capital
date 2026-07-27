@@ -24,13 +24,9 @@ Les informations publiées sur le site ne sont en aucun cas une incitation ou un
 
 VENN CAPITAL, ses employés, ses contributeurs, ses partenaires et ses fournisseurs de données déclinent toute responsabilité dans l’utilisation qui pourrait être faite de cette information et des conséquences qui pourraient en découler, notamment au niveau des décisions qui pourraient être prises ou des actions qui pourraient être entreprises à partir de cette information.
 
-
-
 ## Absence de lien avec VENN PARTNERS
 
-VENN CAPITAL est une société indépendante et n'entretient aucun lien capitalistique, juridique, commercial ou organisationnel avec la société VENN PARTNERS. Toute similitude entre leurs dénominations est fortuite et ne doit pas être interprétée comme l'existence d'une quelconque affiliation, association, partenariat ou approbation.
-
-
+VENN CAPITAL est une société indépendante et n'entretient aucun lien capitalistique, juridique, commercial ou organisationnel avec la société VENN PARTNERS. Les sociétés VENN CAPITAL et VENN PARTNERS sont distinctes et exercent leurs activités de manière totalement indépendante. L'utilisation de la dénomination « VENN CAPITAL » ne doit pas être interprétée comme l'existence d'une quelconque affiliation, association, partenariat, approbation ou autre lien entre ces sociétés.
 
 ## Liens hypertextes et partenaires
 
