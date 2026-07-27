@@ -29,10 +29,10 @@ blocks:
   - type: pushes
     column: 3
     image:
-      src: /images/uploads/logo-federal-gestion.png
+      src: /images/uploads/aam.png
     heading:
-      surtitle: "Société de gestion : Fédéral Finance Gestion"
-      title: Fédéral Finance Gestion et Venn Capital ont noué un partenariat depuis
+      surtitle: "Société de gestion : Arkéa Asset Management"
+      title: Arkéa Asset Management et Venn Capital ont noué un partenariat depuis
         2019, afin de lancer deux fonds indiciels répliquant nos indices VENN
         COLLECTIVE ALPHA EUROPE et VENN COLLECTIVE ALPHA US. Depuis 2025, ce
         partenariat a été élargi à un 3ème fonds afin de répliquer l'indice VENN
@@ -64,8 +64,9 @@ blocks:
       src: /images/uploads/logo-lixx-index-innovation.svg
     heading:
       surtitle: "Administrateur d’indices : LIXX Innovation"
-      title: Les indices VENN sont administrés, calculés quotidiennement et disséminés
-        auprès des bases d’informations financières par LIXX Index Innovation
+      title: Les indices VENN COLLECTIVE ALPHA sont administrés, calculés
+        quotidiennement et disséminés auprès des bases d’informations
+        financières par LIXX Index Innovation
       text: "Retrouvez toutes les informations sur chacun de ces indices:"
     small: true
     items:
