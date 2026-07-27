@@ -65,7 +65,7 @@ blocks:
   - type: pushes
     heading:
       surtitle: Les Fonds ADS VENN COLLECTIVE ALPHA
-    column: 2
+    column: 3
     items:
       - surtitle: ADS Venn Collective Alpha Europe P
         title: AEP, AG2R La Mondiale, Axa, Generali, Intencial, Neuflize, Spirica,
