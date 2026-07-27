@@ -1,6 +1,6 @@
 ---
 isIndex: true
-title: L’actualité de Venn
+title: L’actualité de Venn Capital
 url: actualite
 hero:
   title: L’actualité de Venn<span>.</span>
