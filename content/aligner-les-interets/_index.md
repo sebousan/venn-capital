@@ -9,16 +9,15 @@ hero:
     background_image: true
 blocks:
   - type: paragraph
-    title:
-      C’est généralement l’argument <span>d’une tarification prohibitive</span>
+    title: C’est généralement l’argument <span>d’une tarification prohibitive</span>
       qui est mise en avant pour expliquer la sous-performance structurelle des
       gérants actifs sur le long terme.
     grid: medium
-    text:
-      Chez Venn nous sommes persuadés qu’il existe d’autres facteurs expliquant
-      ce phénomène, mais les frais pèsent en effet sur la capacité de génération
-      d’alpha. La prise de conscience progressive de l’industrie sur ce sujet
-      conduit à une certaine tendance à la compression des frais de gestion.
+    text: Chez Venn Capital nous sommes persuadés qu’il existe d’autres facteurs
+      expliquant ce phénomène, mais les frais pèsent en effet sur la capacité de
+      génération d’alpha. La prise de conscience progressive de l’industrie sur
+      ce sujet conduit à une certaine tendance à la compression des frais de
+      gestion.
   - type: figure
     grid: medium
     offset: start
@@ -53,12 +52,12 @@ blocks:
   - type: paragraph
     grid: medium
     text: >-
-      Exemple : les fonds [AIS VENN SMART
+      Exemple : les fonds [ADS VENN COLLECTIVE
       ALPHA](https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us)
-      gérés par Fédéral Finance présentent une structure de frais plafonnée à 1%
-      (part I), soit inférieure de plus de 25% à la tarification moyenne
-      pratiquée par les fonds actions européens (avant même de considérer
-      l’impact des frais de surperformance !). 
+      gérés par Arkéa Asset Management présentent une structure de frais
+      plafonnée à 1% (part I), soit inférieure de plus de 25% à la tarification
+      moyenne pratiquée par les fonds actions européens (avant même de
+      considérer l’impact des frais de surperformance !). 
 
 
       Enfin, l’alignement des intérêts ne se limite pas à nos yeux à une politique tarifaire. Cela passe aussi par de la transparence et une liquidité optimale.
