@@ -20,7 +20,7 @@ blocks:
       extraire cet alpha fondamental ? 
 
 
-      Chez Venn, nous développons des stratégies actions de conviction construites à partir d’un processus systématique. Pour cela nous exploitons les données publiques de portefeuilles de gérants fondamentaux tels des signaux. Grâce au concept d’intelligence collective, la stratégie Collective Alpha apporte une réponse au dilemme gestion active/gestion passive en se positionnant à la croisée de ces mondes. Unique en Europe, cette approche permet de capitaliser sur le ‘bon sens’ de la gestion active, tout en gommant ses biais intrinsèques. Elle peut être accessible de façon transparente, liquide et à des tarifs plus compétitifs.
+      Chez Venn Capital, nous développons des stratégies actions de conviction construites à partir d’un processus systématique. Pour cela nous exploitons les données publiques de portefeuilles de gérants fondamentaux tels des signaux. Grâce au concept d’intelligence collective, la stratégie Collective Alpha apporte une réponse au dilemme gestion active/gestion passive en se positionnant à la croisée de ces mondes. Unique en Europe, cette approche permet de capitaliser sur le ‘bon sens’ de la gestion active, tout en gommant ses biais intrinsèques. Elle peut être accessible de façon transparente, liquide et à des tarifs plus compétitifs.
     grid: medium
     offset: start
     align: start
@@ -64,16 +64,16 @@ blocks:
     column: 3
   - type: pushes
     heading:
-      surtitle: Les Fonds AIS VENN COLLECTIVE ALPHA
+      surtitle: Les Fonds ADS VENN COLLECTIVE ALPHA
     column: 2
     items:
-      - surtitle: AIS Venn Collective Alpha Europe P
+      - surtitle: ADS Venn Collective Alpha Europe P
         title: AEP, AG2R La Mondiale, Axa, Generali, Intencial, Neuflize, Spirica,
           Suravenir, Swisslife.
         cta:
           url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
           blank: true
-      - surtitle: AIS Venn Collective Alpha US P
+      - surtitle: ADS Venn Collective Alpha US P
         title: AEP, AG2R La Mondiale, Axa, Cardif, Generali, Neuflize, Spirica,
           Suravenir, Swisslife.
         cta:
