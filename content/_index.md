@@ -71,14 +71,21 @@ blocks:
         title: AEP, AG2R La Mondiale, Axa, Generali, Intencial, Neuflize, Spirica,
           Suravenir, Swisslife.
         cta:
-          url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101452/ais-venn-smart-alpha-europe
+          url: https://www.arkea-am.com/jcms/rec_6380/fr/ads-venn-collective-alpha-europe-p
           blank: true
       - surtitle: ADS Venn Collective Alpha US P
         title: AEP, AG2R La Mondiale, Axa, Cardif, Generali, Neuflize, Spirica,
           Suravenir, Swisslife.
         cta:
-          url: https://www.federal-finance-gestion.fr/gestion/actifs/jcms/c_101461/ais-venn-smart-alpha-us
+          url: https://www.arkea-am.com/jcms/rec_6152/fr/ads-venn-collective-alpha-us-p
           blank: true
+      - cta:
+          blank: true
+          url: https://www.arkea-am.com/jcms/rec_6154/fr/ads-venn-collective-alpha-smid-us-p
+        image:
+          darken: true
+        surtitle: ADS Venn Collective Alpha US SMIDP
+        title: AG2R La Mondiale, Neuflize
   - type: selected-persons
     section: persons
     heading:
