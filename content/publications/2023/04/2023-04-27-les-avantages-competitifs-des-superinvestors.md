@@ -15,7 +15,7 @@ description: Difficile aujourd’hui de fermer les yeux sur l’essor de la gest
 publications_categories: Investissement
 publications_authors: Venn
 press:
-  file: /pdf/les-avantages-compe-titifs-des-superinvestors-2020-04-24-venn-research.pdf
+  file: /pdf/les-avantages-compe-titifs-des-superinvestors-2020-04-24-venn-capital.pdf
 image:
   src: /images/uploads/the-superinvetors-of-graham-and-doddsville.jpg
 ---
