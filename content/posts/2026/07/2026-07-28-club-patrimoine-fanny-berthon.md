@@ -1,6 +1,6 @@
 ---
 isIndex: false
-draft: true
+draft: false
 date: 2026-06-29T13:43:36.092Z
 title: Club Patrimoine - Fanny Berthon
 description: La décote des mid caps américaines crée une opportunité de diversification
