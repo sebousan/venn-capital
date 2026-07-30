@@ -10,7 +10,7 @@ description: 'La théorie de l’intelligence collective ou "sagesse des foules"
   individuel. Résumé simplement : l’intelligence s’additionne alors que les
   biais se neutralisent.'
 publications_categories: Intelligence collective
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/l-intelligence-collective-au-service-de-l-investissement-venn-capital.pdf
 image:

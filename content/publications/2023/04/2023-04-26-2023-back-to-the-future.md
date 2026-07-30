@@ -13,7 +13,7 @@ description: >-
 
   L'équipe Venn vous souhaite une très belle année !
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   title: ""
   file: /pdf/2023-back-to-the-future.pdf

@@ -25,7 +25,7 @@ description: >-
 
   En effet, pour analyser la séquence dans laquelle s’inscrivent les marchés depuis 3 ans, il faut revenir une quinzaine d’années en arrière…
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/2025-le-monde-a-l-endroit_hd_modifie.pdf
 image:

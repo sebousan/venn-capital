@@ -12,7 +12,7 @@ description: >-
 
   Après une baisse de près de 20% en ligne droite pour les grands indices mondiaux, les marchés actions flirtent avec la frontière qui définit un marché dit « baissier ». Dans cette note rapide, nous essaierons de mettre ce mouvement de repli en perspective, en analysant notamment comment les marchés se sont comportés historiquement lors des phases récessives.
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/recession-a-tale-of-two-markets-venn-capital.pdf
 image:

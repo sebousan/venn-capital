@@ -4,7 +4,7 @@ draft: false
 date: 2022-10-20T10:09:19.255Z
 title: Club Occur x Venn avec Olivier Sibony et Cédric Decoeur
 description: ""
-categories: Evènement
+categories: Évènement
 image:
   src: /images/uploads/itw.png
   credit: ""

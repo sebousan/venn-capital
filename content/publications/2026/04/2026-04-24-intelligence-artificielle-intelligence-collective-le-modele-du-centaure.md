@@ -18,7 +18,7 @@ description: >-
 
   Et si la véritable rupture ne provenait, ni des machines ni des foules, mais de leur fusion ?
 publications_categories: Intelligence collective
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   url: https://www.linkedin.com/pulse/intelligence-artificielle-collective-le-mod%C3%A8le-du-centaure-7q3de/?trackingId=XYfoi6Hn1G8QXXvrxwECZA%3D%3D
   file: ""

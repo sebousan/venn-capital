@@ -20,7 +20,7 @@ description: >-
 
   Mais les choses sont-elles aussi simples ?
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   title: "Le cycle des styles : Les histoires d’amour finissent-elles mal ?"
   file: /pdf/le-cycle-des-styles-2020-05-20-venn-capital.pdf

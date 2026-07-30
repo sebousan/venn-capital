@@ -4,7 +4,7 @@ draft: false
 date: 2022-06-16T08:41:30.711Z
 title: Summer Time 2022 - Luxembourg - Venn Capital x Cedrus & Partners x Tobam
   x Quaero Capital
-categories: Evènement
+categories: Évènement
 image:
   src: /images/uploads/summer-lux-2022.jpg
 ---

@@ -8,7 +8,7 @@ description: "Après plus d’une décennie dominée par les grandes capitalisat
   technologiques, le marché actions américain semble entrer dans une nouvelle
   phase : celle d’une diffusion plus large de la performance."
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   url: https://www.clubpatrimoine.com/contenus/petites-moyennes-capitalisations-us
 image:

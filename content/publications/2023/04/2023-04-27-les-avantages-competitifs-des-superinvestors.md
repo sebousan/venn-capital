@@ -13,7 +13,7 @@ description: Difficile aujourd’hui de fermer les yeux sur l’essor de la gest
   à faire mieux que les indices de marché par le biais de stratégies
   d’allocation d’actif ou de sélection de titres.
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/les-avantages-compe-titifs-des-superinvestors-2020-04-24-venn-capital.pdf
 image:

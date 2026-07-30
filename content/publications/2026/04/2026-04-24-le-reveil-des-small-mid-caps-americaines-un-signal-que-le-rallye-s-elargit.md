@@ -14,7 +14,7 @@ description: >-
 
   L’inflexion de politique monétaire de la Réserve fédérale a servi de déclencheur. Très sensibles aux taux, car plus souvent emprunteuses à taux variables, les petites et moyennes capitalisations ont entamé un rebond depuis l’été.
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   url: https://www.clubpatrimoine.com/contenus/small-mid-caps-americaines-reveil
 image:

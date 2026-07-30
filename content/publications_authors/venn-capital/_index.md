@@ -1,4 +1,4 @@
 ---
 isIndex: false
-title: Venn
+title: Venn Capital
 ---

@@ -37,7 +37,7 @@ const publications = {
             label: 'Écrit par', 
             name: 'publications_authors', 
             widget: 'select',
-            options: ["Venn", "Autres"],
+            options: ["Venn Capital", "Autres"],
             required: true
         },
         press,

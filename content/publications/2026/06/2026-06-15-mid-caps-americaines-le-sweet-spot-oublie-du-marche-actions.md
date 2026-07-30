@@ -18,7 +18,7 @@ description: >+
   - Leur moindre couverture et leur forte dispersion en font un terrain propice pour la gestion active.
 
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/mid-caps-ame-ricaines-2026_vf.pdf
 image:

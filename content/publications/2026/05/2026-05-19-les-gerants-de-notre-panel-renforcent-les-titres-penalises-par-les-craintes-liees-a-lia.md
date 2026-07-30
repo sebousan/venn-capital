@@ -42,7 +42,7 @@ description: >+
    
 
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 image:
   src: /images/uploads/form-13f-filing.jpg
 ---

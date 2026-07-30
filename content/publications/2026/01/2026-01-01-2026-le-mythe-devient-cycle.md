@@ -27,7 +27,7 @@ description: >
 
   En 2026, les « mythologies » de marché pourraient-elles enfin s’équilibrer et rappeler que, comme dans les récits antiques, l’élévation durable suppose la mesure ?
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/2026-le-mythe-devient-cycle_hd_modifie.pdf
 image:

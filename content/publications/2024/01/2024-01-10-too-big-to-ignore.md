@@ -4,7 +4,7 @@ draft: false
 date: 2023-12-08T09:29:03.921Z
 title: Too Big To Ignore?
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   title: "La concentration des indices US a rarement été aussi forte.  Ce
     phénomène est-il souhaitable ? Soutenable ? Inexorable ?  Historiquement,

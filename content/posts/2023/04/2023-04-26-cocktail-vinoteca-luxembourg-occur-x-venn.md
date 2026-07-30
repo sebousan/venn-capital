@@ -3,7 +3,7 @@ isIndex: false
 draft: false
 date: 2023-02-02T10:01:17.495Z
 title: "Cocktail Vinoteca Luxembourg - Occur x Venn "
-categories: Evènement
+categories: Évènement
 image:
   src: /images/uploads/vinoteca-02022023.jpeg
 ---

@@ -8,7 +8,7 @@ description: >-
 
   Après le phénomène FOMO (Fear Of Missing Out - littéralement la « peur de passer à côté ») c’est désormais la tendance FOBO (Fear Of Being Obsolete - « la peur d’être obsolète ») qui est devenue virale en février… Au cœur de ces développements : l’Intelligence Artificielle.
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   url: https://www.clubpatrimoine.com/contenus/fomo-fobo-intelligence-artificielle
   title: ""

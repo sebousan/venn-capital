@@ -16,7 +16,7 @@ description: >+
   2024 : Same player shoots again ?
 
 publications_categories: Investissement
-publications_authors: Venn
+publications_authors: Venn Capital
 press:
   file: /pdf/2024-same-player-shoots-again_modifie.pdf
 image:
